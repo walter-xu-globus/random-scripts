@@ -1,0 +1,18 @@
+prod:
+inrmfg@globusmedical.com
+R1-6EV6V-VTVAL-E7KD4-3QGAX-WE5J
+ 
+testuser@globusmedical.com
+R1-FSLDL-C6BV5-693YK-BH7BU-J3WQ
+ 
+clinical:
+inrclinicaluser1@gmail.com
+R1-3F2AF-J9LQG-YGZSV-Y2W26-6LXL
+
+ 
+ 
+Development Keys
+---------------------------------
+R1-FSLDL-C6BNQ-P2P5T-3TJ77-VU5Z
+testuser@globusmedical.com
+ 

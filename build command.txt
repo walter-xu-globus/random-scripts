@@ -1,0 +1,1 @@
+cmake --build C:/Development/gh_inr_dev/build/INR_DEV/Clang-D --parallel 22
