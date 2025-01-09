@@ -1,11 +1,11 @@
 import matplotlib.pyplot as plt
 import re
 
-with open("data1.txt", "r") as file:
+with open("data_original_code.txt", "r") as file:
     lines = file.readlines()
 
     pos = {"v": [], "s": [], "e": [], "r": [], "p": []}
-    vel = {"v": [], "s": [], "e": [], "r": [], "p": []}
+    vel = {"v": [], "s": [], "e": [], "r": [], "p": []} 
 
     for line in lines:
         if line.startswith("POS"):
