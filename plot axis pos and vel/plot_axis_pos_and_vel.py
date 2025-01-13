@@ -1,13 +1,14 @@
 import matplotlib.pyplot as plt
 import re
 
-with open("data_original_code.txt", "r") as file:
+with open("2/normal2.txt", "r") as file:
     lines = file.readlines()
 
     pos = {"v": [], "s": [], "e": [], "r": [], "p": []}
     vel = {"v": [], "s": [], "e": [], "r": [], "p": []} 
+    straight_line_ind = 0
 
-    for line in lines:
+    for i, line in enumerate(lines):
         if line.startswith("POS"):
             pattern = re.escape("v: ") + "(.*?)" + re.escape(",")
             pos["v"].append(float(re.findall(pattern, line)[0]))
@@ -30,6 +31,8 @@ with open("data_original_code.txt", "r") as file:
             vel["r"].append(float(re.findall(pattern, line)[0]))
             pattern = re.escape("p: ") + "(.*?)" + re.escape("}")
             vel["p"].append(float(re.findall(pattern, line)[0]))
+        elif line.startswith("MTN"):
+            straight_line_ind = i//2
 
 fig1, ax1 = plt.subplots()
 ax1t = ax1.twinx()
@@ -38,7 +41,7 @@ ax1.set_ylabel("pos", color="r")
 ax1t.plot(vel["v"], color="b")
 ax1t.set_ylabel("vel", color="b")
 ax1.set_title("vertical")
-plt.show()
+ax1.axvline(straight_line_ind)
 
 fig2, ax2 = plt.subplots()
 ax2t = ax2.twinx()
@@ -47,8 +50,7 @@ ax2.set_ylabel("pos", color="r")
 ax2t.plot(vel["s"], color="b")
 ax2t.set_ylabel("vel", color="b")
 ax2.set_title("shoulder")
-
-plt.show()
+ax2.axvline(straight_line_ind)
 
 fig3, ax3 = plt.subplots()
 ax3t = ax3.twinx()
@@ -57,8 +59,7 @@ ax3.set_ylabel("pos", color="r")
 ax3t.plot(vel["e"], color="b")
 ax3t.set_ylabel("vel", color="b")
 ax3.set_title("elbow")
-
-plt.show()
+ax3.axvline(straight_line_ind)
 
 fig4, ax4 = plt.subplots()
 ax4t = ax4.twinx()
@@ -67,7 +68,7 @@ ax4.set_ylabel("pos", color="r")
 ax4t.plot(vel["r"], color="b")
 ax4t.set_ylabel("vel", color="b")
 ax4.set_title("roll")
-plt.show()
+ax4.axvline(straight_line_ind)
 
 fig5, ax5 = plt.subplots()
 ax5t = ax5.twinx()
@@ -76,6 +77,8 @@ ax5.set_ylabel("pos", color="r")
 ax5t.plot(vel["p"], color="b")
 ax5t.set_ylabel("vel", color="b")
 ax5.set_title("pitch")
+ax5.axvline(straight_line_ind)
+
 plt.show()
 
 
