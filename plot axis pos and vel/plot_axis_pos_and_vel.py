@@ -81,4 +81,25 @@ ax5.axvline(straight_line_ind)
 
 plt.show()
 
+#-------------------------------------------------------------3d trajectory plot
+
+from mpl_toolkits.mplot3d import Axes3D
+import matplotlib.pyplot as plt
+import numpy as np
+
+time = np.linspace(0, 10, 100)
+x = np.sin(time)
+y = np.cos(time)
+z = time
+
+fig = plt.figure()
+ax = fig.add_subplot(111, projection='3d')
+sc = ax.scatter(x, y, z, c=time, cmap='viridis', label='Trajectory')
+ax.set_xlabel('X Position')
+ax.set_ylabel('Y Position')
+ax.set_zlabel('Z Position')
+plt.title('3D Position Trajectory')
+plt.colorbar(sc, label='Time (s)')
+plt.show()
+
 
