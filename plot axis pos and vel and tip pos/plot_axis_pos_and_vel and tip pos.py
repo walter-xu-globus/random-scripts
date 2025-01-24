@@ -53,6 +53,8 @@ def read(file_name):
         elif line.startswith("MTN: Move Mode -TRAJECTORY_MODE"):
             trajectory_mode_start_time = ee_time[-1] - ee_time[0]
 
+    trajectory_mode_end_time = ee_time[-1] - ee_time[0]
+
     axis_pos = np.vstack((np.array(axis_pos["v"]), np.array(axis_pos["s"]), np.array(axis_pos["e"]), np.array(axis_pos["r"]), np.array(axis_pos["p"])))
     axis_vel = np.vstack((np.array(axis_vel["v"]), np.array(axis_vel["s"]), np.array(axis_vel["e"]), np.array(axis_vel["r"]), np.array(axis_vel["p"])))
     axis_time = np.array(axis_time) - axis_time[0]
@@ -63,7 +65,7 @@ def read(file_name):
     assert(axis_time.shape[0] == axis_pos.shape[1] == axis_vel.shape[1])
     assert(ee_time.shape[0] == ee_pos.shape[1])
 
-    data = Data(axis_pos, axis_vel, axis_time, ee_pos, ee_time, trajectory_mode_start_time)
+    data = Data(axis_pos, axis_vel, axis_time, ee_pos, ee_time, trajectory_mode_start_time, trajectory_mode_end_time)
     return data
 
 def plot(mine, original):
@@ -81,6 +83,8 @@ def plot(mine, original):
         ax[axis_num, 0].plot(original.axis_time, original.axis_pos[axis_num, :], color="g", label="Original")
         ax[axis_num, 0].axvline(mine.trajectory_mode_start_time, linestyle=":", color="r", label="Gravity mode end, changing to trajectory mode")
         ax[axis_num, 0].axvline(original.trajectory_mode_start_time, linestyle=":", color="g", label="Gravity mode end, changing to trajectory mode")
+        ax[axis_num, 0].axvline(mine.trajectory_mode_end_time, linestyle=":", color="r", label="Trajectory mode end, target reached")
+        ax[axis_num, 0].axvline(original.trajectory_mode_end_time, linestyle=":", color="g", label="Trajectory mode end, target reached")
         ax[axis_num, 0].set_box_aspect(0.5)
         ax[axis_num, 0].set_xlabel("time (ms)")
 
@@ -89,6 +93,8 @@ def plot(mine, original):
         ax[axis_num, 1].plot(original.axis_time, original.axis_vel[axis_num, :], color="g", label="Original")
         ax[axis_num, 1].axvline(mine.trajectory_mode_start_time, linestyle=":", color="r", label="Gravity mode end, changing to trajectory mode")
         ax[axis_num, 1].axvline(original.trajectory_mode_start_time, linestyle=":", color="g", label="Gravity mode end, changing to trajectory mode")
+        ax[axis_num, 1].axvline(mine.trajectory_mode_end_time, linestyle=":", color="r", label="Trajectory mode end, target reached")
+        ax[axis_num, 1].axvline(original.trajectory_mode_end_time, linestyle=":", color="g", label="Trajectory mode end, target reached")
         ax[axis_num, 1].set_box_aspect(0.5)
         ax[axis_num, 1].set_xlabel("time (ms)")
 
@@ -125,15 +131,22 @@ def plot(mine, original):
     plt.show()
 
 class Data:
-    def __init__(self, axis_pos, axis_vel, axis_time, ee_pos, ee_time, trajectory_mode_start_time):
+    def __init__(self, axis_pos, axis_vel, axis_time, ee_pos, ee_time, trajectory_mode_start_time, trajectory_mode_end_time):
         self.axis_pos = axis_pos
         self.axis_vel = axis_vel
         self.axis_time = axis_time
         self.ee_pos = ee_pos
         self.ee_time = ee_time
         self.trajectory_mode_start_time = trajectory_mode_start_time
+        self.trajectory_mode_end_time = trajectory_mode_end_time
 
 if __name__ == "__main__":
-    mine = read("L1L to L5R/mine.txt")
-    original = read("L1L to L5R/original.txt")
+    mine = read("L5R to L5L/mine.txt")
+    original = read("L5R to L5L/original.txt")
+
+    # mine = read("L5R to L4R/mine 2nd try.txt")
+    # original = read("L5R to L4R/original 2nd try.txt")
+
+    # mine = read("L1L to L1R/mine 3rd try.txt")
+    # original = read("L1L to L1R/original 3rd try.txt")
     plot(mine, original)

@@ -1,0 +1,4143 @@
+[2025-01-23T16:27:54.140-05:00][gps_controller2.exe][9308][D] GmMotion.cpp(1062): "MTN: Move Mode -GRAVITY_ZONE"
+[2025-01-23T16:27:54.141-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.142-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.142-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.143-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.143-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.143-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.144-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.144-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.145-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.145-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.145-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.146-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.146-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.146-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.147-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.147-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.150-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.150-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.151-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.151-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.152-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.152-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.152-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.153-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.153-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.153-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.154-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.154-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.155-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.155-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.156-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.156-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.157-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.157-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.157-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.158-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.158-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.162-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.162-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.163-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.163-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.164-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.165-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.165-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.166-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.166-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.167-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.167-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.168-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.168-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.168-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.169-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.169-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.170-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.173-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.174-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.175-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.175-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.176-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.176-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.176-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.177-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.177-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.177-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.178-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.178-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.178-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.179-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.179-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.179-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.180-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.180-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.180-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.181-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.181-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.184-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.185-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.185-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.186-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.186-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.186-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.187-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+[2025-01-23T16:27:54.187-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to true.
+[2025-01-23T16:27:54.187-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000bff = 0x00000bff
+Time EE pos(ms): 1737667674188
+EE pos = [284.7992, 703.0166, 236.2744]
+Time EE pos(ms): 1737667674189
+EE pos = [284.7992, 703.0166, 236.2744]
+Time EE pos(ms): 1737667674190
+EE pos = [284.7992, 703.0166, 236.2744]
+Time EE pos(ms): 1737667674191
+EE pos = [284.7992, 703.0166, 236.2744]
+Time EE pos(ms): 1737667674192
+EE pos = [284.7992, 703.0166, 236.2744]
+Time EE pos(ms): 1737667674196
+EE pos = [284.7992, 703.0166, 236.2744]
+Time EE pos(ms): 1737667674197
+EE pos = [284.7992, 703.0166, 236.2744]
+Time axis (ms): 1737667674198
+POS: {v: 96.6581, s: 2.58196, e: 96.0933, r: -24.2784, p: 23.9591}
+VEL: {v: 7.62939e-05, s: 0, e: -3.92957e-05, r: -0.000970459, p: -0.0375405}
+Time EE pos(ms): 1737667674203
+EE pos = [284.8374, 703.0885, 236.1957]
+[2025-01-23T16:27:54.203-05:00][gps_controller2.exe][6008][I] RoiManagerSource.cpp(434): Updating the ROI from service ID: {f834132e-b73f-45ad-b047-ed236451bac7}, name: MotionAdapter with state: ActiveSession, override: false, Red: 0, Green: 128, Blue: 0, Alpha: 255, Pattern: Pulse, Period: 20ms.
+Time EE pos(ms): 1737667674210
+EE pos = [284.8374, 703.0885, 236.1957]
+Time EE pos(ms): 1737667674220
+EE pos = [284.8456, 703.1325, 236.0708]
+Time axis (ms): 1737667674221
+POS: {v: 96.576, s: 2.58965, e: 96.0811, r: -24.2784, p: 23.9603}
+VEL: {v: -4.24744, s: 0.191168, e: -0.212185, r: 0.0231812, p: 0.0399014}
+Time EE pos(ms): 1737667674227
+EE pos = [284.8456, 703.1325, 236.0708]
+Time EE pos(ms): 1737667674230
+EE pos = [284.8456, 703.1325, 236.0708]
+Time EE pos(ms): 1737667674241
+EE pos = [284.8456, 703.1325, 236.0708]
+Time EE pos(ms): 1737667674251
+EE pos = [284.8456, 703.1325, 236.0708]
+Time EE pos(ms): 1737667674260
+EE pos = [284.8456, 703.1325, 236.0708]
+Time EE pos(ms): 1737667674263
+EE pos = [284.8456, 703.1325, 236.0708]
+Time axis (ms): 1737667674264
+POS: {v: 96.4484, s: 2.5947, e: 96.0749, r: -24.2783, p: 23.9612}
+VEL: {v: -1.52245, s: 0.0086624, e: 0.0486599, r: 0, p: -0.022744}
+Time EE pos(ms): 1737667674271
+EE pos = [284.6195, 703.0066, 236.0204]
+Time EE pos(ms): 1737667674280
+EE pos = [284.6195, 703.0066, 236.0204]
+Time EE pos(ms): 1737667674291
+EE pos = [284.6195, 703.0066, 236.0204]
+Time EE pos(ms): 1737667674300
+EE pos = [284.6195, 703.0066, 236.0204]
+Time EE pos(ms): 1737667674311
+EE pos = [284.6195, 703.0066, 236.0204]
+Time EE pos(ms): 1737667674320
+EE pos = [284.6195, 703.0066, 236.0204]
+Time EE pos(ms): 1737667674330
+EE pos = [284.6195, 703.0066, 236.0204]
+Time EE pos(ms): 1737667674332
+EE pos = [284.6195, 703.0066, 236.0204]
+Time axis (ms): 1737667674332
+POS: {v: 96.4182, s: 2.58466, e: 96.11, r: -24.2791, p: 23.9543}
+VEL: {v: 0.985718, s: -1.00168, e: 1.5003, r: -0.0608459, p: -0.243967}
+Time EE pos(ms): 1737667674341
+EE pos = [284.4019, 702.4572, 236.2963]
+Time EE pos(ms): 1737667674350
+EE pos = [284.4019, 702.4572, 236.2963]
+Time EE pos(ms): 1737667674361
+EE pos = [284.4019, 702.4572, 236.2963]
+Time EE pos(ms): 1737667674364
+EE pos = [284.4019, 702.4572, 236.2963]
+Time axis (ms): 1737667674365
+POS: {v: 96.7439, s: 2.52401, e: 96.1967, r: -24.2941, p: 23.9389}
+VEL: {v: 18.2899, s: -1.66472, e: 2.34996, r: -0.4927, p: -0.34621}
+Time EE pos(ms): 1737667674370
+EE pos = [284.1358, 701.7238, 237.2698]
+Time EE pos(ms): 1737667674380
+EE pos = [284.1358, 701.7238, 237.2698]
+Time EE pos(ms): 1737667674391
+EE pos = [284.1358, 701.7238, 237.2698]
+Time EE pos(ms): 1737667674400
+EE pos = [284.1358, 701.7238, 237.2698]
+Time EE pos(ms): 1737667674410
+EE pos = [284.1358, 701.7238, 237.2698]
+Time EE pos(ms): 1737667674421
+EE pos = [284.1358, 701.7238, 237.2698]
+Time EE pos(ms): 1737667674430
+EE pos = [284.1358, 701.7238, 237.2698]
+Time EE pos(ms): 1737667674433
+EE pos = [284.1358, 701.7238, 237.2698]
+Time axis (ms): 1737667674434
+POS: {v: 97.7761, s: 2.4426, e: 96.3098, r: -24.3142, p: 23.921}
+VEL: {v: 39.1223, s: -2.24762, e: 3.24385, r: -0.433887, p: -0.468812}
+Time EE pos(ms): 1737667674440
+EE pos = [283.6276, 700.4671, 239.8621]
+Time EE pos(ms): 1737667674450
+EE pos = [283.6276, 700.4671, 239.8621]
+Time EE pos(ms): 1737667674460
+EE pos = [283.6276, 700.4671, 239.8621]
+Time EE pos(ms): 1737667674471
+EE pos = [283.6276, 700.4671, 239.8621]
+Time EE pos(ms): 1737667674474
+EE pos = [283.6276, 700.4671, 239.8621]
+Time axis (ms): 1737667674475
+POS: {v: 100.484, s: 2.30408, e: 96.5089, r: -24.3463, p: 23.885}
+VEL: {v: 62.0554, s: -2.89093, e: 4.2811, r: -0.553125, p: -0.656258}
+Time EE pos(ms): 1737667674481
+EE pos = [283.2956, 699.3540, 242.4444]
+Time EE pos(ms): 1737667674490
+EE pos = [283.2956, 699.3540, 242.4444]
+Time EE pos(ms): 1737667674500
+EE pos = [283.2956, 699.3540, 242.4444]
+Time EE pos(ms): 1737667674502
+EE pos = [283.2956, 699.3540, 242.4444]
+Time axis (ms): 1737667674503
+POS: {v: 103.132, s: 2.17916, e: 96.674, r: -24.3672, p: 23.8647}
+VEL: {v: 72.2762, s: -3.46567, e: 5.11306, r: -0.869257, p: -0.77872}
+Time EE pos(ms): 1737667674510
+EE pos = [282.1926, 697.3745, 246.6348]
+Time EE pos(ms): 1737667674521
+EE pos = [282.1926, 697.3745, 246.6348]
+Time EE pos(ms): 1737667674531
+EE pos = [282.1926, 697.3745, 246.6348]
+Time EE pos(ms): 1737667674540
+EE pos = [282.1926, 697.3745, 246.6348]
+Time EE pos(ms): 1737667674551
+EE pos = [282.1926, 697.3745, 246.6348]
+Time EE pos(ms): 1737667674552
+EE pos = [282.1926, 697.3745, 246.6348]
+Time axis (ms): 1737667674554
+POS: {v: 107.492, s: 1.96833, e: 97.0105, r: -24.4175, p: 23.8122}
+VEL: {v: 73.1185, s: -3.65807, e: 5.52234, r: -0.77309, p: -0.904362}
+Time EE pos(ms): 1737667674560
+EE pos = [281.4530, 695.8243, 249.7228]
+Time EE pos(ms): 1737667674571
+EE pos = [281.4530, 695.8243, 249.7228]
+Time EE pos(ms): 1737667674581
+EE pos = [281.4530, 695.8243, 249.7228]
+Time EE pos(ms): 1737667674591
+EE pos = [281.4530, 695.8243, 249.7228]
+Time EE pos(ms): 1737667674601
+EE pos = [281.4530, 695.8243, 249.7228]
+Time EE pos(ms): 1737667674610
+EE pos = [281.4530, 695.8243, 249.7228]
+Time EE pos(ms): 1737667674620
+EE pos = [281.4530, 695.8243, 249.7228]
+Time EE pos(ms): 1737667674624
+EE pos = [281.4530, 695.8243, 249.7228]
+Time axis (ms): 1737667674625
+POS: {v: 110.707, s: 1.80047, e: 97.2633, r: -24.4548, p: 23.7727}
+VEL: {v: 73.0624, s: -3.78895, e: 5.63746, r: -0.788141, p: -0.859084}
+Time EE pos(ms): 1737667674631
+EE pos = [280.3363, 693.5716, 254.1793]
+Time EE pos(ms): 1737667674641
+EE pos = [280.3363, 693.5716, 254.1793]
+Time EE pos(ms): 1737667674650
+EE pos = [280.3363, 693.5716, 254.1793]
+Time EE pos(ms): 1737667674660
+EE pos = [280.3363, 693.5716, 254.1793]
+Time EE pos(ms): 1737667674670
+EE pos = [280.3363, 693.5716, 254.1793]
+Time EE pos(ms): 1737667674678
+EE pos = [280.3363, 693.5716, 254.1793]
+Time axis (ms): 1737667674679
+POS: {v: 115.351, s: 1.55762, e: 97.6333, r: -24.5105, p: 23.7143}
+VEL: {v: 72.1225, s: -3.84519, e: 5.86723, r: -0.81156, p: -0.848402}
+Time EE pos(ms): 1737667674683
+EE pos = [279.9074, 692.3632, 256.6875]
+Time EE pos(ms): 1737667674691
+EE pos = [279.9074, 692.3632, 256.6875]
+Time EE pos(ms): 1737667674701
+EE pos = [279.9074, 692.3632, 256.6875]
+Time EE pos(ms): 1737667674708
+EE pos = [279.9074, 692.3632, 256.6875]
+Time axis (ms): 1737667674709
+POS: {v: 117.949, s: 1.42346, e: 97.8172, r: -24.5375, p: 23.6864}
+VEL: {v: 71.9637, s: -3.8409, e: 6.00874, r: -0.928253, p: -0.900762}
+Time EE pos(ms): 1737667674715
+EE pos = [278.7413, 690.5533, 260.0395]
+Time EE pos(ms): 1737667674720
+EE pos = [278.7413, 690.5533, 260.0395]
+Time EE pos(ms): 1737667674730
+EE pos = [278.7413, 690.5533, 260.0395]
+Time EE pos(ms): 1737667674740
+EE pos = [278.7413, 690.5533, 260.0395]
+Time EE pos(ms): 1737667674750
+EE pos = [278.7413, 690.5533, 260.0395]
+Time EE pos(ms): 1737667674760
+EE pos = [278.7413, 690.5533, 260.0395]
+Time EE pos(ms): 1737667674763
+EE pos = [278.7413, 690.5533, 260.0395]
+Time axis (ms): 1737667674764
+POS: {v: 121.465, s: 1.23489, e: 98.1355, r: -24.5859, p: 23.6357}
+VEL: {v: 71.5163, s: -3.85474, e: 6.02149, r: -0.887183, p: -0.903661}
+Time EE pos(ms): 1737667674770
+EE pos = [277.6037, 688.4100, 263.8080]
+Time EE pos(ms): 1737667674781
+EE pos = [277.6037, 688.4100, 263.8080]
+Time EE pos(ms): 1737667674791
+EE pos = [277.6037, 688.4100, 263.8080]
+Time EE pos(ms): 1737667674800
+EE pos = [277.6037, 688.4100, 263.8080]
+Time EE pos(ms): 1737667674805
+EE pos = [277.6037, 688.4100, 263.8080]
+Time axis (ms): 1737667674807
+POS: {v: 125.408, s: 1.00611, e: 98.4911, r: -24.6396, p: 23.5814}
+VEL: {v: 71.6877, s: -3.89715, e: 5.9694, r: -0.88949, p: -0.960602}
+Time EE pos(ms): 1737667674814
+EE pos = [276.6350, 686.5962, 267.5292]
+Time EE pos(ms): 1737667674820
+EE pos = [276.6350, 686.5962, 267.5292]
+Time EE pos(ms): 1737667674831
+EE pos = [276.6350, 686.5962, 267.5292]
+Time EE pos(ms): 1737667674840
+EE pos = [276.6350, 686.5962, 267.5292]
+Time EE pos(ms): 1737667674850
+EE pos = [276.6350, 686.5962, 267.5292]
+Time EE pos(ms): 1737667674861
+EE pos = [276.6350, 686.5962, 267.5292]
+Time EE pos(ms): 1737667674870
+EE pos = [276.6350, 686.5962, 267.5292]
+Time EE pos(ms): 1737667674880
+EE pos = [276.6350, 686.5962, 267.5292]
+Time EE pos(ms): 1737667674886
+EE pos = [276.6350, 686.5962, 267.5292]
+Time axis (ms): 1737667674888
+POS: {v: 129.283, s: 0.812689, e: 98.7922, r: -24.6845, p: 23.5337}
+VEL: {v: 71.0275, s: -3.90908, e: 6.06278, r: -0.889819, p: -0.986222}
+Time EE pos(ms): 1737667674892
+EE pos = [276.2347, 684.6262, 271.5276]
+Time EE pos(ms): 1737667674901
+EE pos = [276.2347, 684.6262, 271.5276]
+Time EE pos(ms): 1737667674912
+EE pos = [276.2347, 684.6262, 271.5276]
+Time EE pos(ms): 1737667674913
+EE pos = [276.2347, 684.6262, 271.5276]
+Time axis (ms): 1737667674914
+POS: {v: 133.422, s: 0.586668, e: 99.0653, r: -24.7248, p: 23.4896}
+VEL: {v: 71.667, s: -3.82837, e: 6.00734, r: -0.87171, p: -0.969368}
+Time EE pos(ms): 1737667674920
+EE pos = [274.5898, 682.9935, 274.2019]
+Time EE pos(ms): 1737667674930
+EE pos = [274.5898, 682.9935, 274.2019]
+Time EE pos(ms): 1737667674940
+EE pos = [274.5898, 682.9935, 274.2019]
+Time EE pos(ms): 1737667674951
+EE pos = [274.5898, 682.9935, 274.2019]
+Time EE pos(ms): 1737667674961
+EE pos = [274.5898, 682.9935, 274.2019]
+Time EE pos(ms): 1737667674970
+EE pos = [274.5898, 682.9935, 274.2019]
+Time EE pos(ms): 1737667674980
+EE pos = [274.5898, 682.9935, 274.2019]
+Time EE pos(ms): 1737667674982
+EE pos = [274.5898, 682.9935, 274.2019]
+Time axis (ms): 1737667674982
+POS: {v: 136.263, s: 0.43189, e: 99.3981, r: -24.7761, p: 23.4381}
+VEL: {v: 71.139, s: -3.82777, e: 6.19432, r: -0.97674, p: -1.03788}
+Time EE pos(ms): 1737667674990
+EE pos = [273.4890, 681.0055, 277.8756]
+Time EE pos(ms): 1737667675001
+EE pos = [273.4890, 681.0055, 277.8756]
+Time EE pos(ms): 1737667675010
+EE pos = [273.4890, 681.0055, 277.8756]
+Time EE pos(ms): 1737667675018
+EE pos = [273.4890, 681.0055, 277.8756]
+Time axis (ms): 1737667675019
+POS: {v: 140.104, s: 0.22131, e: 99.729, r: -24.8264, p: 23.3862}
+VEL: {v: 71.5833, s: -3.9263, e: 6.11895, r: -0.947864, p: -0.935521}
+Time EE pos(ms): 1737667675025
+EE pos = [272.6568, 679.3980, 280.8709]
+Time EE pos(ms): 1737667675031
+EE pos = [272.6568, 679.3980, 280.8709]
+Time EE pos(ms): 1737667675040
+EE pos = [272.6568, 679.3980, 280.8709]
+Time EE pos(ms): 1737667675050
+EE pos = [272.6568, 679.3980, 280.8709]
+Time EE pos(ms): 1737667675060
+EE pos = [271.6635, 677.7605, 283.8549]
+Time axis (ms): 1737667675062
+POS: {v: 146.356, s: -0.121375, e: 100.27, r: -24.9091, p: 23.3013}
+VEL: {v: 70.9623, s: -3.82743, e: 6.16432, r: -0.99267, p: -0.936479}
+Time EE pos(ms): 1737667675068
+EE pos = [271.6635, 677.7605, 283.8549]
+Time EE pos(ms): 1737667675070
+EE pos = [271.6635, 677.7605, 283.8549]
+Time EE pos(ms): 1737667675080
+EE pos = [271.6635, 677.7605, 283.8549]
+Time EE pos(ms): 1737667675090
+EE pos = [271.6635, 677.7605, 283.8549]
+Time EE pos(ms): 1737667675100
+EE pos = [271.6635, 677.7605, 283.8549]
+Time EE pos(ms): 1737667675110
+EE pos = [271.6635, 677.7605, 283.8549]
+Time EE pos(ms): 1737667675113
+EE pos = [271.6635, 677.7605, 283.8549]
+Time axis (ms): 1737667675114
+POS: {v: 146.356, s: -0.121375, e: 100.27, r: -24.9091, p: 23.3013}
+VEL: {v: 70.9623, s: -3.82743, e: 6.16432, r: -0.99267, p: -0.936479}
+Time EE pos(ms): 1737667675121
+EE pos = [270.2349, 675.2495, 288.4460]
+Time EE pos(ms): 1737667675131
+EE pos = [270.2349, 675.2495, 288.4460]
+Time EE pos(ms): 1737667675141
+EE pos = [270.2349, 675.2495, 288.4460]
+Time EE pos(ms): 1737667675151
+EE pos = [270.2349, 675.2495, 288.4460]
+Time EE pos(ms): 1737667675157
+EE pos = [270.2349, 675.2495, 288.4460]
+Time axis (ms): 1737667675158
+POS: {v: 151.158, s: -0.385884, e: 100.688, r: -24.9731, p: 23.2356}
+VEL: {v: 70.2876, s: -3.85751, e: 6.36655, r: -1.09583, p: -0.971378}
+Time EE pos(ms): 1737667675165
+EE pos = [269.3429, 674.1129, 290.3798]
+Time EE pos(ms): 1737667675171
+EE pos = [269.3429, 674.1129, 290.3798]
+Time EE pos(ms): 1737667675181
+EE pos = [269.3429, 674.1129, 290.3798]
+Time EE pos(ms): 1737667675191
+EE pos = [269.3429, 674.1129, 290.3798]
+Time EE pos(ms): 1737667675201
+EE pos = [269.3429, 674.1129, 290.3798]
+Time EE pos(ms): 1737667675204
+EE pos = [269.3429, 674.1129, 290.3798]
+Time axis (ms): 1737667675205
+POS: {v: 153.196, s: -0.499086, e: 100.897, r: -25.0053, p: 23.2034}
+VEL: {v: 70.2613, s: -3.93587, e: 6.33369, r: -0.979779, p: -0.947021}
+Time EE pos(ms): 1737667675212
+EE pos = [268.3942, 672.1814, 293.8792]
+Time EE pos(ms): 1737667675221
+EE pos = [268.3942, 672.1814, 293.8792]
+Time EE pos(ms): 1737667675231
+EE pos = [268.3942, 672.1814, 293.8792]
+Time EE pos(ms): 1737667675241
+EE pos = [268.3942, 672.1814, 293.8792]
+Time EE pos(ms): 1737667675251
+EE pos = [268.3942, 672.1814, 293.8792]
+Time EE pos(ms): 1737667675257
+EE pos = [268.3942, 672.1814, 293.8792]
+Time axis (ms): 1737667675258
+POS: {v: 156.854, s: -0.706273, e: 101.205, r: -25.0536, p: 23.1542}
+VEL: {v: 69.9636, s: -3.92637, e: 6.50826, r: -1.01019, p: -1.06266}
+Time EE pos(ms): 1737667675263
+EE pos = [266.9715, 670.0812, 297.6087]
+Time EE pos(ms): 1737667675271
+EE pos = [266.9715, 670.0812, 297.6087]
+Time EE pos(ms): 1737667675281
+EE pos = [266.9715, 670.0812, 297.6087]
+Time EE pos(ms): 1737667675291
+EE pos = [266.9715, 670.0812, 297.6087]
+Time EE pos(ms): 1737667675301
+EE pos = [266.9715, 670.0812, 297.6087]
+Time EE pos(ms): 1737667675311
+EE pos = [266.9715, 670.0812, 297.6087]
+Time EE pos(ms): 1737667675313
+EE pos = [266.9715, 670.0812, 297.6087]
+Time axis (ms): 1737667675314
+POS: {v: 160.771, s: -0.920999, e: 101.571, r: -25.1136, p: 23.0961}
+VEL: {v: 63.2789, s: -3.44774, e: 5.89165, r: -0.992596, p: -0.916377}
+Time EE pos(ms): 1737667675322
+EE pos = [265.9004, 668.4529, 300.4330]
+Time EE pos(ms): 1737667675331
+EE pos = [265.9004, 668.4529, 300.4330]
+Time EE pos(ms): 1737667675341
+EE pos = [265.9004, 668.4529, 300.4330]
+Time EE pos(ms): 1737667675351
+EE pos = [265.9004, 668.4529, 300.4330]
+Time EE pos(ms): 1737667675361
+EE pos = [265.9004, 668.4529, 300.4330]
+Time EE pos(ms): 1737667675371
+EE pos = [265.9004, 668.4529, 300.4330]
+Time EE pos(ms): 1737667675381
+EE pos = [265.9004, 668.4529, 300.4330]
+Time EE pos(ms): 1737667675391
+EE pos = [265.9004, 668.4529, 300.4330]
+Time EE pos(ms): 1737667675399
+EE pos = [265.9004, 668.4529, 300.4330]
+Time axis (ms): 1737667675400
+POS: {v: 163.704, s: -1.08773, e: 101.851, r: -25.1483, p: 23.0626}
+VEL: {v: 51.6139, s: -2.91026, e: 5.09397, r: -0.832965, p: -0.723438}
+Time EE pos(ms): 1737667675408
+EE pos = [264.8227, 667.1060, 302.8220]
+Time EE pos(ms): 1737667675411
+EE pos = [264.8227, 667.1060, 302.8220]
+Time EE pos(ms): 1737667675421
+EE pos = [264.8227, 667.1060, 302.8220]
+Time EE pos(ms): 1737667675431
+EE pos = [264.8227, 667.1060, 302.8220]
+Time EE pos(ms): 1737667675432
+EE pos = [264.8227, 667.1060, 302.8220]
+Time axis (ms): 1737667675433
+POS: {v: 166.245, s: -1.22091, e: 102.098, r: -25.1987, p: 23.0159}
+VEL: {v: 34.0739, s: -1.87358, e: 3.52515, r: -0.729712, p: -0.581294}
+Time EE pos(ms): 1737667675441
+EE pos = [264.3205, 666.3797, 304.0610]
+Time EE pos(ms): 1737667675449
+EE pos = [264.3205, 666.3797, 304.0610]
+Time axis (ms): 1737667675450
+POS: {v: 167.544, s: -1.29458, e: 102.225, r: -25.2223, p: 22.9976}
+VEL: {v: 24.1567, s: -1.45146, e: 2.72453, r: -0.443994, p: -0.38583}
+Time EE pos(ms): 1737667675456
+EE pos = [263.6642, 665.6016, 305.1534]
+Time EE pos(ms): 1737667675461
+EE pos = [263.6642, 665.6016, 305.1534]
+Time EE pos(ms): 1737667675471
+EE pos = [263.6642, 665.6016, 305.1534]
+Time EE pos(ms): 1737667675481
+EE pos = [263.6642, 665.6016, 305.1534]
+Time EE pos(ms): 1737667675491
+EE pos = [263.6642, 665.6016, 305.1534]
+Time EE pos(ms): 1737667675503
+EE pos = [263.6642, 665.6016, 305.1534]
+Time EE pos(ms): 1737667675511
+EE pos = [263.6642, 665.6016, 305.1534]
+Time EE pos(ms): 1737667675522
+EE pos = [263.6642, 665.6016, 305.1534]
+Time EE pos(ms): 1737667675532
+EE pos = [263.6642, 665.6016, 305.1534]
+Time EE pos(ms): 1737667675534
+EE pos = [263.6642, 665.6016, 305.1534]
+Time axis (ms): 1737667675535
+POS: {v: 168.712, s: -1.37029, e: 102.37, r: -25.2479, p: 22.9743}
+VEL: {v: 17.0649, s: -1.14183, e: 2.22092, r: -0.445605, p: -0.364676}
+Time EE pos(ms): 1737667675542
+EE pos = [263.2310, 665.0403, 305.9208]
+Time EE pos(ms): 1737667675551
+EE pos = [263.2310, 665.0403, 305.9208]
+Time EE pos(ms): 1737667675556
+EE pos = [263.2310, 665.0403, 305.9208]
+Time axis (ms): 1737667675557
+POS: {v: 169.535, s: -1.426, e: 102.471, r: -25.2672, p: 22.9575}
+VEL: {v: 14.032, s: -0.980424, e: 1.91777, r: -0.392908, p: -0.306191}
+Time EE pos(ms): 1737667675565
+EE pos = [262.7854, 664.6027, 306.4826]
+Time EE pos(ms): 1737667675571
+EE pos = [262.7854, 664.6027, 306.4826]
+Time EE pos(ms): 1737667675581
+EE pos = [262.7854, 664.6027, 306.4826]
+Time EE pos(ms): 1737667675591
+EE pos = [262.7854, 664.6027, 306.4826]
+Time EE pos(ms): 1737667675601
+EE pos = [262.7854, 664.6027, 306.4826]
+Time EE pos(ms): 1737667675611
+EE pos = [262.7854, 664.6027, 306.4826]
+Time EE pos(ms): 1737667675621
+EE pos = [262.7854, 664.6027, 306.4826]
+Time EE pos(ms): 1737667675631
+EE pos = [262.7854, 664.6027, 306.4826]
+Time EE pos(ms): 1737667675641
+EE pos = [262.3286, 664.0573, 307.2489]
+Time axis (ms): 1737667675642
+POS: {v: 170.963, s: -1.5194, e: 102.659, r: -25.304, p: 22.9272}
+VEL: {v: 9.15276, s: -0.61226, e: 1.21524, r: -0.273798, p: -0.211779}
+Time EE pos(ms): 1737667675648
+EE pos = [262.3286, 664.0573, 307.2489]
+Time EE pos(ms): 1737667675651
+EE pos = [262.3286, 664.0573, 307.2489]
+Time EE pos(ms): 1737667675661
+EE pos = [262.3286, 664.0573, 307.2489]
+Time EE pos(ms): 1737667675666
+EE pos = [262.3286, 664.0573, 307.2489]
+Time axis (ms): 1737667675667
+POS: {v: 170.963, s: -1.5194, e: 102.659, r: -25.304, p: 22.9272}
+VEL: {v: 9.15276, s: -0.61226, e: 1.21524, r: -0.273798, p: -0.211779}
+Time EE pos(ms): 1737667675673
+EE pos = [262.1670, 663.8675, 307.5146]
+Time EE pos(ms): 1737667675681
+EE pos = [262.1670, 663.8675, 307.5146]
+Time EE pos(ms): 1737667675691
+EE pos = [262.1670, 663.8675, 307.5146]
+Time EE pos(ms): 1737667675701
+EE pos = [262.1670, 663.8675, 307.5146]
+Time EE pos(ms): 1737667675711
+EE pos = [262.1670, 663.8675, 307.5146]
+Time EE pos(ms): 1737667675721
+EE pos = [262.1670, 663.8675, 307.5146]
+Time EE pos(ms): 1737667675731
+EE pos = [262.1670, 663.8675, 307.5146]
+Time EE pos(ms): 1737667675741
+EE pos = [262.1670, 663.8675, 307.5146]
+Time EE pos(ms): 1737667675743
+EE pos = [262.1670, 663.8675, 307.5146]
+Time axis (ms): 1737667675744
+POS: {v: 171.248, s: -1.53779, e: 102.695, r: -25.3109, p: 22.9214}
+VEL: {v: 9.07127, s: -0.484982, e: 0.956486, r: -0.18175, p: -0.156614}
+Time EE pos(ms): 1737667675749
+EE pos = [262.1670, 663.8675, 307.5146]
+Time axis (ms): 1737667675749
+POS: {v: 171.248, s: -1.53779, e: 102.695, r: -25.3109, p: 22.9214}
+VEL: {v: 9.07127, s: -0.484982, e: 0.956486, r: -0.18175, p: -0.156614}
+Time EE pos(ms): 1737667675756
+EE pos = [262.7615, 664.1064, 307.8120]
+Time EE pos(ms): 1737667675761
+EE pos = [262.7615, 664.1064, 307.8120]
+Time EE pos(ms): 1737667675772
+EE pos = [262.7615, 664.1064, 307.8120]
+Time EE pos(ms): 1737667675782
+EE pos = [262.7615, 664.1064, 307.8120]
+Time EE pos(ms): 1737667675791
+EE pos = [262.7615, 664.1064, 307.8120]
+Time EE pos(ms): 1737667675800
+EE pos = [262.7615, 664.1064, 307.8120]
+Time EE pos(ms): 1737667675811
+EE pos = [262.7615, 664.1064, 307.8120]
+Time EE pos(ms): 1737667675815
+EE pos = [262.7615, 664.1064, 307.8120]
+Time axis (ms): 1737667675816
+POS: {v: 172.325, s: -1.53741, e: 102.671, r: -25.2621, p: 22.6417}
+VEL: {v: 25.6956, s: 1.53329, e: -2.97139, r: 1.76895, p: -7.08464}
+Time EE pos(ms): 1737667675822
+EE pos = [264.0884, 666.2128, 308.5418]
+Time EE pos(ms): 1737667675831
+EE pos = [264.0884, 666.2128, 308.5418]
+Time EE pos(ms): 1737667675840
+EE pos = [264.0884, 666.2128, 308.5418]
+Time EE pos(ms): 1737667675845
+EE pos = [264.0884, 666.2128, 308.5418]
+Time axis (ms): 1737667675846
+POS: {v: 174.562, s: -1.343, e: 102.419, r: -25.1336, p: 22.0975}
+VEL: {v: 48.4314, s: 6.3293, e: -4.51295, r: 2.12853, p: -9.05687}
+Time EE pos(ms): 1737667675851
+EE pos = [263.8729, 668.1379, 309.3459]
+Time EE pos(ms): 1737667675860
+EE pos = [263.8729, 668.1379, 309.3459]
+Time EE pos(ms): 1737667675871
+EE pos = [263.8729, 668.1379, 309.3459]
+Time EE pos(ms): 1737667675881
+EE pos = [263.8729, 668.1379, 309.3459]
+Time EE pos(ms): 1737667675890
+EE pos = [263.8729, 668.1379, 309.3459]
+Time EE pos(ms): 1737667675901
+EE pos = [263.8729, 668.1379, 309.3459]
+Time EE pos(ms): 1737667675906
+EE pos = [263.8729, 668.1379, 309.3459]
+Time axis (ms): 1737667675907
+POS: {v: 176.206, s: -1.117, e: 102.265, r: -25.0614, p: 21.7953}
+VEL: {v: 50.9084, s: 8.483, e: -4.76917, r: 2.23645, p: -9.43936}
+Time EE pos(ms): 1737667675913
+EE pos = [262.5059, 672.2975, 310.7065]
+Time EE pos(ms): 1737667675921
+EE pos = [262.5059, 672.2975, 310.7065]
+Time EE pos(ms): 1737667675931
+EE pos = [262.5059, 672.2975, 310.7065]
+Time EE pos(ms): 1737667675940
+EE pos = [262.5059, 672.2975, 310.7065]
+Time EE pos(ms): 1737667675950
+EE pos = [261.4964, 675.9005, 311.5436]
+Time axis (ms): 1737667675952
+POS: {v: 181.346, s: -0.154776, e: 101.72, r: -24.8047, p: 20.7387}
+VEL: {v: 48.1773, s: 9.31322, e: -5.7806, r: 2.74904, p: -10.8234}
+Time EE pos(ms): 1737667675957
+EE pos = [261.4964, 675.9005, 311.5436]
+Time EE pos(ms): 1737667675961
+EE pos = [261.4964, 675.9005, 311.5436]
+Time EE pos(ms): 1737667675971
+EE pos = [261.4964, 675.9005, 311.5436]
+Time EE pos(ms): 1737667675981
+EE pos = [261.4964, 675.9005, 311.5436]
+Time EE pos(ms): 1737667675991
+EE pos = [261.4964, 675.9005, 311.5436]
+Time EE pos(ms): 1737667676002
+EE pos = [261.4964, 675.9005, 311.5436]
+Time EE pos(ms): 1737667676011
+EE pos = [261.4964, 675.9005, 311.5436]
+Time EE pos(ms): 1737667676012
+EE pos = [261.4964, 675.9005, 311.5436]
+Time axis (ms): 1737667676013
+POS: {v: 181.346, s: -0.154776, e: 101.72, r: -24.8047, p: 20.7387}
+VEL: {v: 48.1773, s: 9.31322, e: -5.7806, r: 2.74904, p: -10.8234}
+Time EE pos(ms): 1737667676021
+EE pos = [260.4823, 680.6272, 312.6253]
+Time EE pos(ms): 1737667676032
+EE pos = [260.4823, 680.6272, 312.6253]
+Time EE pos(ms): 1737667676041
+EE pos = [260.4823, 680.6272, 312.6253]
+Time EE pos(ms): 1737667676051
+EE pos = [259.9752, 683.3886, 313.2092]
+Time EE pos(ms): 1737667676052
+EE pos = [259.9752, 683.3886, 313.2092]
+Time axis (ms): 1737667676053
+POS: {v: 186.061, s: 0.753914, e: 101.129, r: -24.5241, p: 19.648}
+VEL: {v: 48.7053, s: 9.24502, e: -6.34866, r: 2.87075, p: -11.2617}
+Time EE pos(ms): 1737667676060
+EE pos = [259.9752, 683.3886, 313.2092]
+Time EE pos(ms): 1737667676071
+EE pos = [259.9752, 683.3886, 313.2092]
+Time EE pos(ms): 1737667676081
+EE pos = [259.9752, 683.3886, 313.2092]
+Time EE pos(ms): 1737667676090
+EE pos = [259.9752, 683.3886, 313.2092]
+Time EE pos(ms): 1737667676100
+EE pos = [259.9752, 683.3886, 313.2092]
+Time EE pos(ms): 1737667676110
+EE pos = [259.9752, 683.3886, 313.2092]
+Time EE pos(ms): 1737667676121
+EE pos = [259.9752, 683.3886, 313.2092]
+Time EE pos(ms): 1737667676123
+EE pos = [259.9752, 683.3886, 313.2092]
+Time axis (ms): 1737667676124
+POS: {v: 186.061, s: 0.753914, e: 101.129, r: -24.5241, p: 19.648}
+VEL: {v: 48.7053, s: 9.24502, e: -6.34866, r: 2.87075, p: -11.2617}
+Time EE pos(ms): 1737667676131
+EE pos = [259.1691, 688.5554, 314.3318]
+Time EE pos(ms): 1737667676140
+EE pos = [259.1691, 688.5554, 314.3318]
+Time EE pos(ms): 1737667676152
+EE pos = [259.1691, 688.5554, 314.3318]
+Time EE pos(ms): 1737667676153
+EE pos = [259.1691, 688.5554, 314.3318]
+Time axis (ms): 1737667676154
+POS: {v: 189.349, s: 1.37635, e: 100.694, r: -24.3225, p: 18.8768}
+VEL: {v: 49.7033, s: 9.23926, e: -6.65964, r: 3.14925, p: -11.6027}
+Time EE pos(ms): 1737667676161
+EE pos = [258.7997, 691.2645, 314.9550]
+Time EE pos(ms): 1737667676171
+EE pos = [258.7997, 691.2645, 314.9550]
+Time EE pos(ms): 1737667676180
+EE pos = [258.7997, 691.2645, 314.9550]
+Time EE pos(ms): 1737667676191
+EE pos = [258.7997, 691.2645, 314.9550]
+Time EE pos(ms): 1737667676200
+EE pos = [258.7997, 691.2645, 314.9550]
+Time EE pos(ms): 1737667676210
+EE pos = [258.7997, 691.2645, 314.9550]
+Time EE pos(ms): 1737667676214
+EE pos = [258.7997, 691.2645, 314.9550]
+Time axis (ms): 1737667676215
+POS: {v: 191.121, s: 1.70209, e: 100.459, r: -24.213, p: 18.4688}
+VEL: {v: 49.3716, s: 9.33385, e: -6.92439, r: 3.46157, p: -11.7815}
+Time EE pos(ms): 1737667676220
+EE pos = [258.5191, 695.6744, 315.7424]
+Time EE pos(ms): 1737667676230
+EE pos = [258.5191, 695.6744, 315.7424]
+Time EE pos(ms): 1737667676242
+EE pos = [258.5191, 695.6744, 315.7424]
+Time EE pos(ms): 1737667676252
+EE pos = [258.5191, 695.6744, 315.7424]
+Time EE pos(ms): 1737667676255
+EE pos = [258.5191, 695.6744, 315.7424]
+Time axis (ms): 1737667676256
+POS: {v: 193.867, s: 2.22429, e: 100.051, r: -24.0243, p: 17.7742}
+VEL: {v: 49.595, s: 9.28747, e: -7.01952, r: 3.07994, p: -11.7319}
+Time EE pos(ms): 1737667676263
+EE pos = [257.8241, 699.4196, 316.6397]
+Time EE pos(ms): 1737667676271
+EE pos = [257.8241, 699.4196, 316.6397]
+Time EE pos(ms): 1737667676282
+EE pos = [257.8241, 699.4196, 316.6397]
+Time EE pos(ms): 1737667676291
+EE pos = [257.8241, 699.4196, 316.6397]
+Time EE pos(ms): 1737667676300
+EE pos = [257.8241, 699.4196, 316.6397]
+Time EE pos(ms): 1737667676311
+EE pos = [257.8241, 699.4196, 316.6397]
+Time EE pos(ms): 1737667676321
+EE pos = [257.8241, 699.4196, 316.6397]
+Time EE pos(ms): 1737667676323
+EE pos = [257.8241, 699.4196, 316.6397]
+Time axis (ms): 1737667676324
+POS: {v: 196.286, s: 2.68287, e: 99.7274, r: -23.8722, p: 17.2353}
+VEL: {v: 48.4742, s: 9.31345, e: -7.10497, r: 3.26215, p: -11.6616}
+Time EE pos(ms): 1737667676332
+EE pos = [257.3375, 704.1777, 317.5368]
+Time EE pos(ms): 1737667676341
+EE pos = [257.3375, 704.1777, 317.5368]
+Time EE pos(ms): 1737667676350
+EE pos = [257.3375, 704.1777, 317.5368]
+Time EE pos(ms): 1737667676360
+EE pos = [256.8695, 707.0160, 318.1937]
+Time axis (ms): 1737667676361
+POS: {v: 201.048, s: 3.60363, e: 99.0256, r: -23.5564, p: 16.1044}
+VEL: {v: 48.5711, s: 9.55505, e: -7.49314, r: 3.28914, p: -11.7815}
+Time EE pos(ms): 1737667676366
+EE pos = [256.8695, 707.0160, 318.1937]
+Time EE pos(ms): 1737667676370
+EE pos = [256.8695, 707.0160, 318.1937]
+Time EE pos(ms): 1737667676380
+EE pos = [256.8695, 707.0160, 318.1937]
+Time EE pos(ms): 1737667676390
+EE pos = [256.8695, 707.0160, 318.1937]
+Time EE pos(ms): 1737667676401
+EE pos = [256.8695, 707.0160, 318.1937]
+Time EE pos(ms): 1737667676410
+EE pos = [256.8695, 707.0160, 318.1937]
+Time EE pos(ms): 1737667676420
+EE pos = [256.8695, 707.0160, 318.1937]
+Time EE pos(ms): 1737667676426
+EE pos = [256.8695, 707.0160, 318.1937]
+Time axis (ms): 1737667676427
+POS: {v: 201.048, s: 3.60363, e: 99.0256, r: -23.5564, p: 16.1044}
+VEL: {v: 48.5711, s: 9.55505, e: -7.49314, r: 3.28914, p: -11.7815}
+Time EE pos(ms): 1737667676432
+EE pos = [256.6579, 711.3590, 318.5555]
+Time EE pos(ms): 1737667676440
+EE pos = [256.6579, 711.3590, 318.5555]
+Time EE pos(ms): 1737667676451
+EE pos = [256.6579, 711.3590, 318.5555]
+Time EE pos(ms): 1737667676461
+EE pos = [256.6579, 711.3590, 318.5555]
+Time EE pos(ms): 1737667676464
+EE pos = [256.6579, 711.3590, 318.5555]
+Time axis (ms): 1737667676466
+POS: {v: 203.365, s: 4.12314, e: 98.5952, r: -23.3634, p: 15.4173}
+VEL: {v: 48.6907, s: 9.45238, e: -7.66032, r: 3.44604, p: -11.7267}
+Time EE pos(ms): 1737667676472
+EE pos = [256.4851, 714.1868, 319.4214]
+Time EE pos(ms): 1737667676480
+EE pos = [256.4851, 714.1868, 319.4214]
+Time EE pos(ms): 1737667676490
+EE pos = [256.4851, 714.1868, 319.4214]
+Time EE pos(ms): 1737667676501
+EE pos = [256.4851, 714.1868, 319.4214]
+Time EE pos(ms): 1737667676511
+EE pos = [256.4851, 714.1868, 319.4214]
+Time EE pos(ms): 1737667676521
+EE pos = [256.4851, 714.1868, 319.4214]
+Time EE pos(ms): 1737667676523
+EE pos = [256.4851, 714.1868, 319.4214]
+Time axis (ms): 1737667676524
+POS: {v: 205.447, s: 4.46341, e: 98.3113, r: -23.2379, p: 14.9903}
+VEL: {v: 49.1418, s: 9.46602, e: -7.70876, r: 3.41594, p: -12.0965}
+Time EE pos(ms): 1737667676531
+EE pos = [255.9361, 719.7277, 320.4499]
+Time EE pos(ms): 1737667676541
+EE pos = [255.9361, 719.7277, 320.4499]
+Time EE pos(ms): 1737667676548
+EE pos = [255.9361, 719.7277, 320.4499]
+Time axis (ms): 1737667676549
+POS: {v: 208.848, s: 5.13858, e: 97.7614, r: -22.9964, p: 14.1598}
+VEL: {v: 47.1853, s: 9.60735, e: -7.98706, r: 3.53227, p: -11.6489}
+Time EE pos(ms): 1737667676555
+EE pos = [255.7390, 722.2361, 320.8848]
+Time EE pos(ms): 1737667676561
+EE pos = [255.7390, 722.2361, 320.8848]
+Time EE pos(ms): 1737667676572
+EE pos = [255.7390, 722.2361, 320.8848]
+Time EE pos(ms): 1737667676581
+EE pos = [255.7390, 722.2361, 320.8848]
+Time EE pos(ms): 1737667676591
+EE pos = [255.7390, 722.2361, 320.8848]
+Time EE pos(ms): 1737667676600
+EE pos = [255.7390, 722.2361, 320.8848]
+Time EE pos(ms): 1737667676611
+EE pos = [255.7390, 722.2361, 320.8848]
+Time EE pos(ms): 1737667676620
+EE pos = [255.7390, 722.2361, 320.8848]
+Time EE pos(ms): 1737667676631
+EE pos = [255.7390, 722.2361, 320.8848]
+Time EE pos(ms): 1737667676634
+EE pos = [255.7390, 722.2361, 320.8848]
+Time axis (ms): 1737667676636
+POS: {v: 210.371, s: 5.44389, e: 97.5054, r: -22.885, p: 13.7796}
+VEL: {v: 47.0085, s: 9.66105, e: -8.06566, r: 3.18505, p: -11.862}
+Time EE pos(ms): 1737667676643
+EE pos = [255.3808, 727.2584, 321.6533]
+Time EE pos(ms): 1737667676651
+EE pos = [255.3808, 727.2584, 321.6533]
+Time EE pos(ms): 1737667676660
+EE pos = [255.3808, 727.2584, 321.6533]
+Time EE pos(ms): 1737667676669
+EE pos = [255.3808, 727.2584, 321.6533]
+Time axis (ms): 1737667676670
+POS: {v: 213.348, s: 6.05639, e: 96.9837, r: -22.6588, p: 13.0095}
+VEL: {v: 47.0874, s: 9.64687, e: -8.17219, r: 3.40671, p: -11.7066}
+Time EE pos(ms): 1737667676679
+EE pos = [255.1232, 730.3930, 322.2713]
+Time EE pos(ms): 1737667676680
+EE pos = [255.1232, 730.3930, 322.2713]
+Time EE pos(ms): 1737667676691
+EE pos = [255.1232, 730.3930, 322.2713]
+Time EE pos(ms): 1737667676701
+EE pos = [255.1232, 730.3930, 322.2713]
+Time EE pos(ms): 1737667676710
+EE pos = [255.1232, 730.3930, 322.2713]
+Time EE pos(ms): 1737667676720
+EE pos = [255.1232, 730.3930, 322.2713]
+Time EE pos(ms): 1737667676723
+EE pos = [255.1232, 730.3930, 322.2713]
+Time axis (ms): 1737667676724
+POS: {v: 215.288, s: 6.44063, e: 96.6535, r: -22.5205, p: 12.5492}
+VEL: {v: 47.0197, s: 9.57687, e: -8.32393, r: 3.6564, p: -11.7083}
+Time EE pos(ms): 1737667676731
+EE pos = [254.8268, 734.7885, 322.9742]
+Time EE pos(ms): 1737667676741
+EE pos = [254.8268, 734.7885, 322.9742]
+Time EE pos(ms): 1737667676751
+EE pos = [254.8268, 734.7885, 322.9742]
+Time EE pos(ms): 1737667676761
+EE pos = [254.8268, 734.7885, 322.9742]
+Time EE pos(ms): 1737667676765
+EE pos = [254.8268, 734.7885, 322.9742]
+Time axis (ms): 1737667676766
+POS: {v: 217.92, s: 6.98005, e: 96.1818, r: -22.3207, p: 11.8786}
+VEL: {v: 46.4866, s: 9.71413, e: -8.47567, r: 3.58702, p: -11.6167}
+Time EE pos(ms): 1737667676774
+EE pos = [254.7003, 737.7174, 323.4519]
+Time EE pos(ms): 1737667676781
+EE pos = [254.7003, 737.7174, 323.4519]
+Time EE pos(ms): 1737667676791
+EE pos = [254.7003, 737.7174, 323.4519]
+Time EE pos(ms): 1737667676801
+EE pos = [254.7003, 737.7174, 323.4519]
+Time EE pos(ms): 1737667676811
+EE pos = [254.7003, 737.7174, 323.4519]
+Time EE pos(ms): 1737667676821
+EE pos = [254.7003, 737.7174, 323.4519]
+Time EE pos(ms): 1737667676824
+EE pos = [254.7003, 737.7174, 323.4519]
+Time axis (ms): 1737667676825
+POS: {v: 219.651, s: 7.33836, e: 95.8568, r: -22.1899, p: 11.4435}
+VEL: {v: 46.5499, s: 9.66078, e: -8.63503, r: 3.52729, p: -11.8244}
+Time EE pos(ms): 1737667676830
+EE pos = [254.1961, 743.8291, 324.4358]
+Time EE pos(ms): 1737667676841
+EE pos = [254.1961, 743.8291, 324.4358]
+Time EE pos(ms): 1737667676850
+EE pos = [254.1961, 743.8291, 324.4358]
+Time EE pos(ms): 1737667676860
+EE pos = [254.1961, 743.8291, 324.4358]
+Time EE pos(ms): 1737667676870
+EE pos = [254.1961, 743.8291, 324.4358]
+Time EE pos(ms): 1737667676879
+EE pos = [254.1961, 743.8291, 324.4358]
+Time axis (ms): 1737667676880
+POS: {v: 223.24, s: 8.09585, e: 95.185, r: -21.9184, p: 10.5408}
+VEL: {v: 46.6769, s: 9.63736, e: -8.83595, r: 3.49393, p: -11.8639}
+Time EE pos(ms): 1737667676884
+EE pos = [254.5569, 746.4402, 324.6220]
+Time EE pos(ms): 1737667676890
+EE pos = [254.5569, 746.4402, 324.6220]
+Time EE pos(ms): 1737667676900
+EE pos = [254.5569, 746.4402, 324.6220]
+Time EE pos(ms): 1737667676910
+EE pos = [254.5569, 746.4402, 324.6220]
+Time EE pos(ms): 1737667676920
+EE pos = [254.5569, 746.4402, 324.6220]
+Time EE pos(ms): 1737667676930
+EE pos = [254.5569, 746.4402, 324.6220]
+Time EE pos(ms): 1737667676940
+EE pos = [254.5569, 746.4402, 324.6220]
+Time EE pos(ms): 1737667676942
+EE pos = [254.5569, 746.4402, 324.6220]
+Time axis (ms): 1737667676944
+POS: {v: 224.775, s: 8.40775, e: 94.8575, r: -21.7768, p: 10.0739}
+VEL: {v: 46.8801, s: 9.73678, e: -8.87671, r: 3.41975, p: -11.7334}
+Time EE pos(ms): 1737667676950
+EE pos = [253.6574, 751.4490, 325.7156]
+Time EE pos(ms): 1737667676961
+EE pos = [253.6574, 751.4490, 325.7156]
+Time EE pos(ms): 1737667676970
+EE pos = [253.6574, 751.4490, 325.7156]
+Time EE pos(ms): 1737667676978
+EE pos = [253.6574, 751.4490, 325.7156]
+Time axis (ms): 1737667676981
+POS: {v: 227.78, s: 9.04387, e: 94.3197, r: -21.5774, p: 9.41281}
+VEL: {v: 46.1784, s: 9.85328, e: -9.11927, r: 3.87136, p: -11.3921}
+Time EE pos(ms): 1737667676985
+EE pos = [253.5864, 754.3772, 326.1327]
+Time EE pos(ms): 1737667676991
+EE pos = [253.5864, 754.3772, 326.1327]
+Time EE pos(ms): 1737667677001
+EE pos = [253.5864, 754.3772, 326.1327]
+Time EE pos(ms): 1737667677011
+EE pos = [253.5864, 754.3772, 326.1327]
+Time EE pos(ms): 1737667677017
+EE pos = [253.5864, 754.3772, 326.1327]
+Time axis (ms): 1737667677018
+POS: {v: 229.485, s: 9.40672, e: 93.9715, r: -21.4416, p: 8.96826}
+VEL: {v: 46.5334, s: 9.91128, e: -9.19491, r: 3.68152, p: -11.5823}
+Time EE pos(ms): 1737667677024
+EE pos = [253.2215, 758.5331, 326.8125]
+Time EE pos(ms): 1737667677032
+EE pos = [253.2215, 758.5331, 326.8125]
+Time EE pos(ms): 1737667677041
+EE pos = [253.2215, 758.5331, 326.8125]
+Time EE pos(ms): 1737667677051
+EE pos = [253.2215, 758.5331, 326.8125]
+Time EE pos(ms): 1737667677058
+EE pos = [253.2215, 758.5331, 326.8125]
+Time axis (ms): 1737667677060
+POS: {v: 231.919, s: 9.92977, e: 93.489, r: -21.2528, p: 8.36251}
+VEL: {v: 45.9637, s: 9.88473, e: -9.45114, r: 3.51623, p: -11.7311}
+Time EE pos(ms): 1737667677066
+EE pos = [253.3590, 761.8140, 327.1709]
+Time EE pos(ms): 1737667677071
+EE pos = [253.3590, 761.8140, 327.1709]
+Time EE pos(ms): 1737667677081
+EE pos = [253.3590, 761.8140, 327.1709]
+Time EE pos(ms): 1737667677091
+EE pos = [253.3590, 761.8140, 327.1709]
+Time EE pos(ms): 1737667677101
+EE pos = [253.3590, 761.8140, 327.1709]
+Time EE pos(ms): 1737667677111
+EE pos = [253.3590, 761.8140, 327.1709]
+Time EE pos(ms): 1737667677121
+EE pos = [253.3590, 761.8140, 327.1709]
+Time EE pos(ms): 1737667677126
+EE pos = [253.3590, 761.8140, 327.1709]
+Time axis (ms): 1737667677127
+POS: {v: 233.798, s: 10.3348, e: 93.0742, r: -21.0985, p: 7.83823}
+VEL: {v: 45.127, s: 9.94891, e: -9.55088, r: 3.77834, p: -11.5627}
+Time EE pos(ms): 1737667677132
+EE pos = [252.7483, 766.6357, 328.0143]
+Time EE pos(ms): 1737667677141
+EE pos = [252.7483, 766.6357, 328.0143]
+Time EE pos(ms): 1737667677151
+EE pos = [252.7483, 766.6357, 328.0143]
+Time EE pos(ms): 1737667677162
+EE pos = [252.7483, 766.6357, 328.0143]
+Time EE pos(ms): 1737667677168
+EE pos = [252.7483, 766.6357, 328.0143]
+Time axis (ms): 1737667677169
+POS: {v: 236.622, s: 10.9505, e: 92.5108, r: -20.8857, p: 7.15586}
+VEL: {v: 45.5434, s: 9.94358, e: -9.69383, r: 3.64797, p: -11.4636}
+Time EE pos(ms): 1737667677177
+EE pos = [252.5268, 770.1024, 328.5236]
+Time EE pos(ms): 1737667677182
+EE pos = [252.5268, 770.1024, 328.5236]
+Time EE pos(ms): 1737667677192
+EE pos = [252.5268, 770.1024, 328.5236]
+Time EE pos(ms): 1737667677201
+EE pos = [252.5268, 770.1024, 328.5236]
+Time EE pos(ms): 1737667677211
+EE pos = [252.5268, 770.1024, 328.5236]
+Time EE pos(ms): 1737667677215
+EE pos = [252.5268, 770.1024, 328.5236]
+Time axis (ms): 1737667677216
+POS: {v: 238.572, s: 11.3891, e: 92.0838, r: -20.733, p: 6.65954}
+VEL: {v: 45.3316, s: 9.83611, e: -9.8619, r: 3.42567, p: -11.3641}
+Time EE pos(ms): 1737667677223
+EE pos = [251.7923, 773.9443, 329.2393]
+Time EE pos(ms): 1737667677231
+EE pos = [251.7923, 773.9443, 329.2393]
+Time EE pos(ms): 1737667677241
+EE pos = [251.7923, 773.9443, 329.2393]
+Time EE pos(ms): 1737667677251
+EE pos = [251.7923, 773.9443, 329.2393]
+Time EE pos(ms): 1737667677261
+EE pos = [251.7923, 773.9443, 329.2393]
+Time EE pos(ms): 1737667677271
+EE pos = [251.7923, 773.9443, 329.2393]
+Time EE pos(ms): 1737667677280
+EE pos = [252.5319, 777.9756, 329.5857]
+Time axis (ms): 1737667677282
+POS: {v: 240.834, s: 11.8894, e: 91.64, r: -20.5706, p: 6.12689}
+VEL: {v: 44.9916, s: 10.0462, e: -9.92628, r: 3.56684, p: -11.4748}
+Time EE pos(ms): 1737667677289
+EE pos = [252.5319, 777.9756, 329.5857]
+Time EE pos(ms): 1737667677292
+EE pos = [252.5319, 777.9756, 329.5857]
+Time EE pos(ms): 1737667677301
+EE pos = [252.5319, 777.9756, 329.5857]
+Time EE pos(ms): 1737667677303
+EE pos = [252.5319, 777.9756, 329.5857]
+Time axis (ms): 1737667677306
+POS: {v: 243.081, s: 12.3813, e: 91.0593, r: -20.3721, p: 5.47285}
+VEL: {v: 45.4786, s: 10.1587, e: -10.0826, r: 3.54505, p: -11.2644}
+Time EE pos(ms): 1737667677312
+EE pos = [251.9071, 781.1264, 330.1730]
+Time EE pos(ms): 1737667677321
+EE pos = [251.9071, 781.1264, 330.1730]
+Time EE pos(ms): 1737667677331
+EE pos = [251.9071, 781.1264, 330.1730]
+Time EE pos(ms): 1737667677341
+EE pos = [251.9071, 781.1264, 330.1730]
+Time EE pos(ms): 1737667677351
+EE pos = [251.9071, 781.1264, 330.1730]
+Time EE pos(ms): 1737667677361
+EE pos = [251.9071, 781.1264, 330.1730]
+Time EE pos(ms): 1737667677371
+EE pos = [251.9071, 781.1264, 330.1730]
+Time EE pos(ms): 1737667677376
+EE pos = [251.9071, 781.1264, 330.1730]
+Time axis (ms): 1737667677377
+POS: {v: 244.924, s: 12.7949, e: 90.6863, r: -20.2438, p: 5.04064}
+VEL: {v: 44.2883, s: 10.0492, e: -10.1926, r: 3.46033, p: -11.6547}
+Time EE pos(ms): 1737667677382
+EE pos = [251.7000, 786.1088, 330.9065]
+Time EE pos(ms): 1737667677391
+EE pos = [251.7000, 786.1088, 330.9065]
+Time EE pos(ms): 1737667677401
+EE pos = [251.7000, 786.1088, 330.9065]
+Time EE pos(ms): 1737667677408
+EE pos = [251.7000, 786.1088, 330.9065]
+Time axis (ms): 1737667677409
+POS: {v: 247.732, s: 13.4325, e: 90.0302, r: -20.023, p: 4.3266}
+VEL: {v: 45.0343, s: 10.1525, e: -10.2525, r: 3.50555, p: -11.369}
+Time EE pos(ms): 1737667677415
+EE pos = [251.3721, 789.3945, 331.4357]
+Time EE pos(ms): 1737667677421
+EE pos = [251.3721, 789.3945, 331.4357]
+Time EE pos(ms): 1737667677431
+EE pos = [251.3721, 789.3945, 331.4357]
+Time EE pos(ms): 1737667677441
+EE pos = [251.3721, 789.3945, 331.4357]
+Time EE pos(ms): 1737667677451
+EE pos = [251.3721, 789.3945, 331.4357]
+Time EE pos(ms): 1737667677461
+EE pos = [251.3721, 789.3945, 331.4357]
+Time EE pos(ms): 1737667677471
+EE pos = [251.3721, 789.3945, 331.4357]
+Time EE pos(ms): 1737667677473
+EE pos = [251.3721, 789.3945, 331.4357]
+Time axis (ms): 1737667677474
+POS: {v: 249.607, s: 13.8594, e: 89.6054, r: -19.883, p: 3.86331}
+VEL: {v: 44.1759, s: 10.2263, e: -10.5345, r: 3.56955, p: -11.5615}
+Time EE pos(ms): 1737667677481
+EE pos = [251.7195, 793.9720, 331.8742]
+Time EE pos(ms): 1737667677491
+EE pos = [251.7195, 793.9720, 331.8742]
+Time EE pos(ms): 1737667677496
+EE pos = [251.7195, 793.9720, 331.8742]
+Time axis (ms): 1737667677498
+POS: {v: 252.123, s: 14.4411, e: 88.9467, r: -19.6699, p: 3.14758}
+VEL: {v: 44.625, s: 10.3907, e: -10.6758, r: 3.51725, p: -11.408}
+Time EE pos(ms): 1737667677503
+EE pos = [250.9486, 797.1167, 332.5377]
+Time EE pos(ms): 1737667677511
+EE pos = [250.9486, 797.1167, 332.5377]
+Time EE pos(ms): 1737667677521
+EE pos = [250.9486, 797.1167, 332.5377]
+Time EE pos(ms): 1737667677530
+EE pos = [250.9486, 797.1167, 332.5377]
+Time EE pos(ms): 1737667677541
+EE pos = [250.9486, 797.1167, 332.5377]
+Time EE pos(ms): 1737667677551
+EE pos = [250.9486, 797.1167, 332.5377]
+Time EE pos(ms): 1737667677561
+EE pos = [250.8125, 801.6264, 333.1405]
+Time axis (ms): 1737667677562
+POS: {v: 256.42, s: 15.4476, e: 87.9304, r: -19.3518, p: 2.1033}
+VEL: {v: 43.8706, s: 10.3586, e: -11.0426, r: 3.24637, p: -11.3329}
+Time EE pos(ms): 1737667677568
+EE pos = [250.8125, 801.6264, 333.1405]
+Time EE pos(ms): 1737667677571
+EE pos = [250.8125, 801.6264, 333.1405]
+Time EE pos(ms): 1737667677580
+EE pos = [250.8125, 801.6264, 333.1405]
+Time EE pos(ms): 1737667677590
+EE pos = [250.8125, 801.6264, 333.1405]
+Time EE pos(ms): 1737667677600
+EE pos = [250.8125, 801.6264, 333.1405]
+Time EE pos(ms): 1737667677610
+EE pos = [250.8125, 801.6264, 333.1405]
+Time EE pos(ms): 1737667677612
+EE pos = [250.8125, 801.6264, 333.1405]
+Time axis (ms): 1737667677613
+POS: {v: 256.42, s: 15.4476, e: 87.9304, r: -19.3518, p: 2.1033}
+VEL: {v: 43.8706, s: 10.3586, e: -11.0426, r: 3.24637, p: -11.3329}
+Time EE pos(ms): 1737667677621
+EE pos = [250.5171, 805.0741, 333.6258]
+Time EE pos(ms): 1737667677630
+EE pos = [250.5171, 805.0741, 333.6258]
+Time EE pos(ms): 1737667677640
+EE pos = [250.5171, 805.0741, 333.6258]
+Time EE pos(ms): 1737667677650
+EE pos = [250.5171, 805.0741, 333.6258]
+Time EE pos(ms): 1737667677660
+EE pos = [250.5171, 805.0741, 333.6258]
+Time EE pos(ms): 1737667677671
+EE pos = [250.5171, 805.0741, 333.6258]
+Time EE pos(ms): 1737667677673
+EE pos = [250.5171, 805.0741, 333.6258]
+Time axis (ms): 1737667677674
+POS: {v: 258.334, s: 15.9028, e: 87.4554, r: -19.2079, p: 1.61034}
+VEL: {v: 43.5875, s: 10.4224, e: -11.0344, r: 3.4218, p: -11.218}
+Time EE pos(ms): 1737667677680
+EE pos = [250.2826, 809.2493, 334.2030]
+Time EE pos(ms): 1737667677691
+EE pos = [250.2826, 809.2493, 334.2030]
+Time EE pos(ms): 1737667677700
+EE pos = [250.2826, 809.2493, 334.2030]
+Time EE pos(ms): 1737667677703
+EE pos = [250.2826, 809.2493, 334.2030]
+Time axis (ms): 1737667677705
+POS: {v: 260.631, s: 16.4529, e: 86.8629, r: -19.0319, p: 1.01656}
+VEL: {v: 42.8307, s: 10.3652, e: -11.3323, r: 3.32351, p: -11.3513}
+Time EE pos(ms): 1737667677711
+EE pos = [250.0649, 813.1981, 334.7709]
+Time EE pos(ms): 1737667677721
+EE pos = [250.0649, 813.1981, 334.7709]
+Time EE pos(ms): 1737667677730
+EE pos = [250.0649, 813.1981, 334.7709]
+Time EE pos(ms): 1737667677742
+EE pos = [250.0649, 813.1981, 334.7709]
+Time EE pos(ms): 1737667677751
+EE pos = [250.0649, 813.1981, 334.7709]
+Time EE pos(ms): 1737667677761
+EE pos = [250.0649, 813.1981, 334.7709]
+Time EE pos(ms): 1737667677772
+EE pos = [250.0649, 813.1981, 334.7709]
+Time EE pos(ms): 1737667677781
+EE pos = [250.0649, 813.1981, 334.7709]
+Time EE pos(ms): 1737667677787
+EE pos = [250.0649, 813.1981, 334.7709]
+Time axis (ms): 1737667677788
+POS: {v: 262.783, s: 16.9743, e: 86.2942, r: -18.8704, p: 0.469186}
+VEL: {v: 42.8867, s: 10.3539, e: -11.4389, r: 3.11847, p: -11.194}
+Time EE pos(ms): 1737667677795
+EE pos = [249.9326, 817.7889, 335.3637]
+Time EE pos(ms): 1737667677800
+EE pos = [249.9326, 817.7889, 335.3637]
+Time EE pos(ms): 1737667677804
+EE pos = [249.9326, 817.7889, 335.3637]
+Time axis (ms): 1737667677806
+POS: {v: 265.263, s: 17.5821, e: 85.614, r: -18.6831, p: -0.183963}
+VEL: {v: 42.5513, s: 10.49, e: -11.5825, r: 3.27892, p: -11.1749}
+Time EE pos(ms): 1737667677812
+EE pos = [249.6261, 821.5449, 335.8416]
+Time EE pos(ms): 1737667677820
+EE pos = [249.6261, 821.5449, 335.8416]
+Time EE pos(ms): 1737667677830
+EE pos = [249.6261, 821.5449, 335.8416]
+Time EE pos(ms): 1737667677840
+EE pos = [249.6261, 821.5449, 335.8416]
+Time EE pos(ms): 1737667677850
+EE pos = [249.6261, 821.5449, 335.8416]
+Time EE pos(ms): 1737667677860
+EE pos = [249.6261, 821.5449, 335.8416]
+Time EE pos(ms): 1737667677863
+EE pos = [249.6261, 821.5449, 335.8416]
+Time axis (ms): 1737667677864
+POS: {v: 267.299, s: 18.0879, e: 85.0639, r: -18.5323, p: -0.724069}
+VEL: {v: 42.5821, s: 10.5937, e: -11.8387, r: 3.01181, p: -10.8719}
+Time EE pos(ms): 1737667677871
+EE pos = [249.4031, 825.1032, 336.3139]
+Time EE pos(ms): 1737667677880
+EE pos = [249.4031, 825.1032, 336.3139]
+Time EE pos(ms): 1737667677890
+EE pos = [249.4031, 825.1032, 336.3139]
+Time EE pos(ms): 1737667677900
+EE pos = [249.4031, 825.1032, 336.3139]
+Time EE pos(ms): 1737667677907
+EE pos = [249.4031, 825.1032, 336.3139]
+Time axis (ms): 1737667677908
+POS: {v: 269.158, s: 18.5642, e: 84.5317, r: -18.3975, p: -1.20527}
+VEL: {v: 42.3853, s: 10.7012, e: -11.9466, r: 3.17813, p: -10.7931}
+Time EE pos(ms): 1737667677914
+EE pos = [249.2035, 828.8116, 336.8784]
+Time EE pos(ms): 1737667677921
+EE pos = [249.2035, 828.8116, 336.8784]
+Time EE pos(ms): 1737667677931
+EE pos = [249.2035, 828.8116, 336.8784]
+Time EE pos(ms): 1737667677940
+EE pos = [249.2035, 828.8116, 336.8784]
+Time EE pos(ms): 1737667677950
+EE pos = [249.2035, 828.8116, 336.8784]
+Time EE pos(ms): 1737667677960
+EE pos = [249.2035, 828.8116, 336.8784]
+Time EE pos(ms): 1737667677969
+EE pos = [249.2035, 828.8116, 336.8784]
+Time axis (ms): 1737667677970
+POS: {v: 271.173, s: 19.0623, e: 83.9672, r: -18.2547, p: -1.70936}
+VEL: {v: 42.3052, s: 10.6236, e: -12.0246, r: 2.91938, p: -11.1186}
+Time EE pos(ms): 1737667677977
+EE pos = [249.0501, 833.4817, 337.3004]
+Time EE pos(ms): 1737667677980
+EE pos = [249.0501, 833.4817, 337.3004]
+Time EE pos(ms): 1737667677990
+EE pos = [249.0501, 833.4817, 337.3004]
+Time EE pos(ms): 1737667678001
+EE pos = [249.0501, 833.4817, 337.3004]
+Time EE pos(ms): 1737667678011
+EE pos = [248.6985, 837.4009, 337.9513]
+Time EE pos(ms): 1737667678012
+EE pos = [248.6985, 837.4009, 337.9513]
+Time axis (ms): 1737667678013
+POS: {v: 275.68, s: 20.2301, e: 82.6336, r: -17.9306, p: -2.90668}
+VEL: {v: 41.2703, s: 10.8045, e: -12.3581, r: 2.83672, p: -10.6801}
+Time EE pos(ms): 1737667678020
+EE pos = [248.6985, 837.4009, 337.9513]
+Time EE pos(ms): 1737667678031
+EE pos = [248.6985, 837.4009, 337.9513]
+Time EE pos(ms): 1737667678040
+EE pos = [248.6985, 837.4009, 337.9513]
+Time EE pos(ms): 1737667678050
+EE pos = [248.6985, 837.4009, 337.9513]
+Time EE pos(ms): 1737667678061
+EE pos = [248.6985, 837.4009, 337.9513]
+Time EE pos(ms): 1737667678063
+EE pos = [248.6985, 837.4009, 337.9513]
+Time axis (ms): 1737667678064
+POS: {v: 275.68, s: 20.2301, e: 82.6336, r: -17.9306, p: -2.90668}
+VEL: {v: 41.2703, s: 10.8045, e: -12.3581, r: 2.83672, p: -10.6801}
+Time EE pos(ms): 1737667678071
+EE pos = [248.0941, 840.7615, 338.5623]
+Time EE pos(ms): 1737667678081
+EE pos = [248.0941, 840.7615, 338.5623]
+Time EE pos(ms): 1737667678091
+EE pos = [248.0941, 840.7615, 338.5623]
+Time EE pos(ms): 1737667678100
+EE pos = [248.0941, 840.7615, 338.5623]
+Time EE pos(ms): 1737667678111
+EE pos = [248.0941, 840.7615, 338.5623]
+Time EE pos(ms): 1737667678117
+EE pos = [248.0941, 840.7615, 338.5623]
+Time axis (ms): 1737667678118
+POS: {v: 277.495, s: 20.6948, e: 82.1338, r: -17.8174, p: -3.32778}
+VEL: {v: 40.9635, s: 10.827, e: -12.5704, r: 2.84647, p: -10.7527}
+Time EE pos(ms): 1737667678124
+EE pos = [248.1801, 845.6936, 339.0957]
+Time EE pos(ms): 1737667678131
+EE pos = [248.1801, 845.6936, 339.0957]
+Time EE pos(ms): 1737667678141
+EE pos = [248.1801, 845.6936, 339.0957]
+Time EE pos(ms): 1737667678151
+EE pos = [248.1801, 845.6936, 339.0957]
+Time EE pos(ms): 1737667678161
+EE pos = [248.1801, 845.6936, 339.0957]
+Time EE pos(ms): 1737667678169
+EE pos = [248.0006, 848.6801, 339.4454]
+Time axis (ms): 1737667678172
+POS: {v: 280.035, s: 21.3675, e: 81.3105, r: -17.6319, p: -4.03086}
+VEL: {v: 40.919, s: 10.8654, e: -12.6868, r: 2.80226, p: -10.7106}
+Time EE pos(ms): 1737667678178
+EE pos = [248.0006, 848.6801, 339.4454]
+Time EE pos(ms): 1737667678181
+EE pos = [248.0006, 848.6801, 339.4454]
+Time EE pos(ms): 1737667678192
+EE pos = [248.0006, 848.6801, 339.4454]
+Time EE pos(ms): 1737667678201
+EE pos = [248.0006, 848.6801, 339.4454]
+Time EE pos(ms): 1737667678211
+EE pos = [247.8919, 852.4876, 339.9201]
+Time axis (ms): 1737667678212
+POS: {v: 283.538, s: 22.3092, e: 80.1847, r: -17.388, p: -4.9729}
+VEL: {v: 40.5968, s: 11.037, e: -13.1181, r: 2.8261, p: -11.0042}
+Time EE pos(ms): 1737667678218
+EE pos = [247.8919, 852.4876, 339.9201]
+Time EE pos(ms): 1737667678221
+EE pos = [247.8919, 852.4876, 339.9201]
+Time EE pos(ms): 1737667678231
+EE pos = [247.8919, 852.4876, 339.9201]
+Time EE pos(ms): 1737667678240
+EE pos = [247.8919, 852.4876, 339.9201]
+Time EE pos(ms): 1737667678250
+EE pos = [247.8919, 852.4876, 339.9201]
+Time EE pos(ms): 1737667678258
+EE pos = [247.8919, 852.4876, 339.9201]
+Time axis (ms): 1737667678259
+POS: {v: 283.538, s: 22.3092, e: 80.1847, r: -17.388, p: -4.9729}
+VEL: {v: 40.5968, s: 11.037, e: -13.1181, r: 2.8261, p: -11.0042}
+Time EE pos(ms): 1737667678265
+EE pos = [247.5437, 856.1868, 340.4006]
+Time EE pos(ms): 1737667678270
+EE pos = [247.5437, 856.1868, 340.4006]
+Time EE pos(ms): 1737667678282
+EE pos = [247.5437, 856.1868, 340.4006]
+Time EE pos(ms): 1737667678290
+EE pos = [247.5437, 856.1868, 340.4006]
+Time EE pos(ms): 1737667678300
+EE pos = [247.5962, 860.6212, 340.8261]
+Time axis (ms): 1737667678301
+POS: {v: 285.443, s: 22.8292, e: 79.5753, r: -17.26, p: -5.4758}
+VEL: {v: 40.5848, s: 11.2126, e: -13.5419, r: 2.96351, p: -11.2002}
+Time EE pos(ms): 1737667678308
+EE pos = [247.5962, 860.6212, 340.8261]
+Time EE pos(ms): 1737667678310
+EE pos = [247.5962, 860.6212, 340.8261]
+Time EE pos(ms): 1737667678320
+EE pos = [247.5962, 860.6212, 340.8261]
+Time EE pos(ms): 1737667678331
+EE pos = [247.5962, 860.6212, 340.8261]
+Time EE pos(ms): 1737667678341
+EE pos = [247.5962, 860.6212, 340.8261]
+Time EE pos(ms): 1737667678351
+EE pos = [247.5962, 860.6212, 340.8261]
+Time EE pos(ms): 1737667678361
+EE pos = [247.5962, 860.6212, 340.8261]
+Time EE pos(ms): 1737667678371
+EE pos = [247.5962, 860.6212, 340.8261]
+Time EE pos(ms): 1737667678381
+EE pos = [247.5962, 860.6212, 340.8261]
+Time EE pos(ms): 1737667678388
+EE pos = [247.5962, 860.6212, 340.8261]
+Time axis (ms): 1737667678389
+POS: {v: 287.71, s: 23.4527, e: 78.7929, r: -17.0952, p: -6.12747}
+VEL: {v: 40.1719, s: 11.1289, e: -13.7391, r: 2.84442, p: -11.2269}
+Time EE pos(ms): 1737667678395
+EE pos = [247.2369, 864.8858, 341.3721]
+Time EE pos(ms): 1737667678401
+EE pos = [247.2369, 864.8858, 341.3721]
+Time EE pos(ms): 1737667678411
+EE pos = [247.2369, 864.8858, 341.3721]
+Time EE pos(ms): 1737667678422
+EE pos = [247.2369, 864.8858, 341.3721]
+Time EE pos(ms): 1737667678430
+EE pos = [247.2369, 864.8858, 341.3721]
+Time EE pos(ms): 1737667678435
+EE pos = [247.2369, 864.8858, 341.3721]
+Time axis (ms): 1737667678437
+POS: {v: 289.893, s: 24.0596, e: 78.0631, r: -16.9409, p: -6.70825}
+VEL: {v: 40.4442, s: 11.2786, e: -13.9946, r: 2.81849, p: -11.4788}
+Time EE pos(ms): 1737667678445
+EE pos = [246.9507, 868.6536, 341.7819]
+Time EE pos(ms): 1737667678450
+EE pos = [246.9507, 868.6536, 341.7819]
+Time EE pos(ms): 1737667678460
+EE pos = [246.9507, 868.6536, 341.7819]
+Time EE pos(ms): 1737667678470
+EE pos = [246.9507, 868.6536, 341.7819]
+Time EE pos(ms): 1737667678480
+EE pos = [246.9507, 868.6536, 341.7819]
+Time EE pos(ms): 1737667678486
+EE pos = [246.9507, 868.6536, 341.7819]
+Time axis (ms): 1737667678487
+POS: {v: 291.836, s: 24.6037, e: 77.4028, r: -16.8041, p: -7.25441}
+VEL: {v: 40.4524, s: 11.3717, e: -14.3509, r: 2.89896, p: -11.6962}
+Time EE pos(ms): 1737667678492
+EE pos = [246.8261, 873.0056, 342.1812]
+Time EE pos(ms): 1737667678500
+EE pos = [246.8261, 873.0056, 342.1812]
+Time EE pos(ms): 1737667678510
+EE pos = [246.8261, 873.0056, 342.1812]
+Time EE pos(ms): 1737667678520
+EE pos = [246.8261, 873.0056, 342.1812]
+Time EE pos(ms): 1737667678525
+EE pos = [246.8261, 873.0056, 342.1812]
+Time axis (ms): 1737667678527
+POS: {v: 294.026, s: 25.2335, e: 76.6099, r: -16.6373, p: -7.89358}
+VEL: {v: 40.1253, s: 11.535, e: -14.6564, r: 3.08086, p: -11.727}
+Time EE pos(ms): 1737667678533
+EE pos = [246.7659, 876.1000, 342.5420]
+Time EE pos(ms): 1737667678540
+EE pos = [246.7659, 876.1000, 342.5420]
+Time EE pos(ms): 1737667678550
+EE pos = [246.7659, 876.1000, 342.5420]
+Time EE pos(ms): 1737667678559
+EE pos = [246.9094, 880.2938, 342.8312]
+Time axis (ms): 1737667678562
+POS: {v: 295.641, s: 25.683, e: 76.0354, r: -16.5153, p: -8.34192}
+VEL: {v: 40.2971, s: 11.6169, e: -14.9938, r: 3.06722, p: -11.9564}
+Time EE pos(ms): 1737667678566
+EE pos = [246.9094, 880.2938, 342.8312]
+Time EE pos(ms): 1737667678570
+EE pos = [246.9094, 880.2938, 342.8312]
+Time EE pos(ms): 1737667678580
+EE pos = [246.9094, 880.2938, 342.8312]
+Time EE pos(ms): 1737667678590
+EE pos = [246.9094, 880.2938, 342.8312]
+Time EE pos(ms): 1737667678600
+EE pos = [246.9094, 880.2938, 342.8312]
+Time EE pos(ms): 1737667678610
+EE pos = [246.9094, 880.2938, 342.8312]
+Time EE pos(ms): 1737667678620
+EE pos = [246.9094, 880.2938, 342.8312]
+Time EE pos(ms): 1737667678623
+EE pos = [246.9094, 880.2938, 342.8312]
+Time axis (ms): 1737667678624
+POS: {v: 297.763, s: 26.3002, e: 75.2211, r: -16.3441, p: -9.00058}
+VEL: {v: 39.6926, s: 11.7096, e: -15.3841, r: 3.09172, p: -12.2933}
+Time EE pos(ms): 1737667678630
+EE pos = [246.9049, 883.9902, 342.7839]
+Time EE pos(ms): 1737667678641
+EE pos = [246.9049, 883.9902, 342.7839]
+Time EE pos(ms): 1737667678650
+EE pos = [246.9049, 883.9902, 342.7839]
+Time EE pos(ms): 1737667678654
+EE pos = [246.9049, 883.9902, 342.7839]
+Time axis (ms): 1737667678656
+POS: {v: 299.709, s: 26.8758, e: 74.4808, r: -16.1606, p: -9.71963}
+VEL: {v: 38.8422, s: 11.6206, e: -15.5165, r: 3.1834, p: -12.1407}
+Time EE pos(ms): 1737667678661
+EE pos = [246.8869, 887.9854, 343.4227]
+Time EE pos(ms): 1737667678670
+EE pos = [246.8869, 887.9854, 343.4227]
+Time EE pos(ms): 1737667678680
+EE pos = [246.8869, 887.9854, 343.4227]
+Time EE pos(ms): 1737667678690
+EE pos = [246.8869, 887.9854, 343.4227]
+Time EE pos(ms): 1737667678700
+EE pos = [246.8869, 887.9854, 343.4227]
+Time EE pos(ms): 1737667678710
+EE pos = [246.8869, 887.9854, 343.4227]
+Time EE pos(ms): 1737667678714
+EE pos = [246.8869, 887.9854, 343.4227]
+Time axis (ms): 1737667678714
+POS: {v: 301.622, s: 27.4488, e: 73.7138, r: -16.0311, p: -10.1801}
+VEL: {v: 38.3664, s: 11.8191, e: -15.6407, r: 3.35154, p: -11.8146}
+Time EE pos(ms): 1737667678720
+EE pos = [247.0693, 892.5435, 343.6614]
+Time EE pos(ms): 1737667678731
+EE pos = [247.0693, 892.5435, 343.6614]
+Time EE pos(ms): 1737667678740
+EE pos = [247.0693, 892.5435, 343.6614]
+Time EE pos(ms): 1737667678751
+EE pos = [247.0693, 892.5435, 343.6614]
+Time EE pos(ms): 1737667678761
+EE pos = [247.0693, 892.5435, 343.6614]
+Time EE pos(ms): 1737667678764
+EE pos = [247.0693, 892.5435, 343.6614]
+Time axis (ms): 1737667678765
+POS: {v: 303.842, s: 28.1388, e: 72.7759, r: -15.8319, p: -10.899}
+VEL: {v: 35.0961, s: 10.6995, e: -15.1797, r: 3.36445, p: -11.9316}
+Time EE pos(ms): 1737667678773
+EE pos = [247.5058, 895.0353, 343.6887]
+Time EE pos(ms): 1737667678782
+EE pos = [247.5058, 895.0353, 343.6887]
+Time EE pos(ms): 1737667678792
+EE pos = [247.5058, 895.0353, 343.6887]
+Time EE pos(ms): 1737667678802
+EE pos = [247.5058, 895.0353, 343.6887]
+Time EE pos(ms): 1737667678811
+EE pos = [247.5058, 895.0353, 343.6887]
+Time EE pos(ms): 1737667678813
+EE pos = [247.5058, 895.0353, 343.6887]
+Time axis (ms): 1737667678814
+POS: {v: 305.064, s: 28.5204, e: 72.2197, r: -15.7081, p: -11.3339}
+VEL: {v: 32.7224, s: 10.3605, e: -15.1048, r: 3.29927, p: -11.7314}
+Time EE pos(ms): 1737667678821
+EE pos = [248.0167, 898.9660, 343.6544]
+Time EE pos(ms): 1737667678831
+EE pos = [248.0167, 898.9660, 343.6544]
+Time EE pos(ms): 1737667678841
+EE pos = [248.0167, 898.9660, 343.6544]
+Time EE pos(ms): 1737667678851
+EE pos = [248.0167, 898.9660, 343.6544]
+Time EE pos(ms): 1737667678861
+EE pos = [248.0167, 898.9660, 343.6544]
+Time EE pos(ms): 1737667678871
+EE pos = [248.0167, 898.9660, 343.6544]
+Time EE pos(ms): 1737667678876
+EE pos = [248.0167, 898.9660, 343.6544]
+Time axis (ms): 1737667678877
+POS: {v: 306.934, s: 29.1337, e: 71.3407, r: -15.5122, p: -12.0298}
+VEL: {v: 29.887, s: 9.55822, e: -14.6232, r: 3.31752, p: -11.2753}
+Time EE pos(ms): 1737667678883
+EE pos = [248.9909, 902.2149, 343.5672]
+Time EE pos(ms): 1737667678891
+EE pos = [248.9909, 902.2149, 343.5672]
+Time EE pos(ms): 1737667678901
+EE pos = [248.9909, 902.2149, 343.5672]
+Time EE pos(ms): 1737667678911
+EE pos = [248.9909, 902.2149, 343.5672]
+Time EE pos(ms): 1737667678917
+EE pos = [248.9909, 902.2149, 343.5672]
+Time axis (ms): 1737667678918
+POS: {v: 308.524, s: 29.6439, e: 70.546, r: -15.3287, p: -12.6451}
+VEL: {v: 21.7968, s: 8.07354, e: -12.1089, r: 2.59118, p: -8.44185}
+Time EE pos(ms): 1737667678923
+EE pos = [249.1098, 904.6148, 343.5743]
+Time EE pos(ms): 1737667678931
+EE pos = [249.1098, 904.6148, 343.5743]
+Time EE pos(ms): 1737667678941
+EE pos = [249.1098, 904.6148, 343.5743]
+Time EE pos(ms): 1737667678947
+EE pos = [249.1098, 904.6148, 343.5743]
+Time axis (ms): 1737667678948
+POS: {v: 309.548, s: 30.0199, e: 70.016, r: -15.2177, p: -13.0194}
+VEL: {v: 16.7134, s: 6.21167, e: -9.81435, r: 2.23191, p: -6.90224}
+Time EE pos(ms): 1737667678954
+EE pos = [249.9296, 905.9135, 343.3517]
+Time EE pos(ms): 1737667678961
+EE pos = [249.9296, 905.9135, 343.3517]
+Time EE pos(ms): 1737667678972
+EE pos = [249.9296, 905.9135, 343.3517]
+Time EE pos(ms): 1737667678983
+EE pos = [249.9296, 905.9135, 343.3517]
+Time EE pos(ms): 1737667678992
+EE pos = [249.9296, 905.9135, 343.3517]
+Time EE pos(ms): 1737667679002
+EE pos = [249.9296, 905.9135, 343.3517]
+Time EE pos(ms): 1737667679008
+EE pos = [249.9296, 905.9135, 343.3517]
+Time axis (ms): 1737667679009
+POS: {v: 310.043, s: 30.223, e: 69.6502, r: -15.134, p: -13.2835}
+VEL: {v: 10.8459, s: 4.42402, e: -7.35896, r: 1.77898, p: -5.20086}
+Time EE pos(ms): 1737667679016
+EE pos = [250.7650, 907.2708, 343.1050]
+Time EE pos(ms): 1737667679022
+EE pos = [250.7650, 907.2708, 343.1050]
+Time EE pos(ms): 1737667679032
+EE pos = [250.7650, 907.2708, 343.1050]
+Time EE pos(ms): 1737667679042
+EE pos = [250.7650, 907.2708, 343.1050]
+Time EE pos(ms): 1737667679051
+EE pos = [250.7650, 907.2708, 343.1050]
+Time EE pos(ms): 1737667679053
+EE pos = [250.7650, 907.2708, 343.1050]
+Time axis (ms): 1737667679054
+POS: {v: 310.596, s: 30.4411, e: 69.2622, r: -15.0399, p: -13.5783}
+VEL: {v: 7.06703, s: 2.54308, e: -5.37703, r: 1.32173, p: -4.02144}
+Time EE pos(ms): 1737667679061
+EE pos = [251.3813, 907.8420, 342.9630]
+Time EE pos(ms): 1737667679072
+EE pos = [251.3813, 907.8420, 342.9630]
+Time EE pos(ms): 1737667679081
+EE pos = [251.3813, 907.8420, 342.9630]
+Time EE pos(ms): 1737667679091
+EE pos = [251.3813, 907.8420, 342.9630]
+Time EE pos(ms): 1737667679101
+EE pos = [251.3813, 907.8420, 342.9630]
+Time EE pos(ms): 1737667679111
+EE pos = [251.3813, 907.8420, 342.9630]
+Time EE pos(ms): 1737667679122
+EE pos = [252.1594, 908.5689, 342.7541]
+Time EE pos(ms): 1737667679123
+EE pos = [252.1594, 908.5689, 342.7541]
+Time axis (ms): 1737667679123
+POS: {v: 311.143, s: 30.6511, e: 68.826, r: -14.9307, p: -13.9098}
+VEL: {v: 3.90709, s: 1.63858, e: -3.25667, r: 0.759705, p: -2.43092}
+Time EE pos(ms): 1737667679131
+EE pos = [252.1594, 908.5689, 342.7541]
+Time EE pos(ms): 1737667679141
+EE pos = [252.1594, 908.5689, 342.7541]
+Time EE pos(ms): 1737667679151
+EE pos = [252.1594, 908.5689, 342.7541]
+Time EE pos(ms): 1737667679161
+EE pos = [252.1594, 908.5689, 342.7541]
+Time EE pos(ms): 1737667679162
+EE pos = [252.1594, 908.5689, 342.7541]
+Time axis (ms): 1737667679163
+POS: {v: 311.143, s: 30.6511, e: 68.826, r: -14.9307, p: -13.9098}
+VEL: {v: 3.90709, s: 1.63858, e: -3.25667, r: 0.759705, p: -2.43092}
+Time EE pos(ms): 1737667679171
+EE pos = [252.4733, 908.8986, 342.6599]
+Time EE pos(ms): 1737667679181
+EE pos = [252.4733, 908.8986, 342.6599]
+Time EE pos(ms): 1737667679191
+EE pos = [252.4733, 908.8986, 342.6599]
+Time EE pos(ms): 1737667679201
+EE pos = [252.4733, 908.8986, 342.6599]
+Time EE pos(ms): 1737667679211
+EE pos = [252.4733, 908.8986, 342.6599]
+Time EE pos(ms): 1737667679221
+EE pos = [252.4733, 908.8986, 342.6599]
+Time EE pos(ms): 1737667679225
+EE pos = [252.4733, 908.8986, 342.6599]
+Time axis (ms): 1737667679226
+POS: {v: 311.268, s: 30.7049, e: 68.7187, r: -14.9052, p: -13.9911}
+VEL: {v: 2.67288, s: 1.3144, e: -2.56044, r: 0.684814, p: -1.92137}
+Time EE pos(ms): 1737667679231
+EE pos = [252.8549, 909.3414, 342.5280]
+Time EE pos(ms): 1737667679241
+EE pos = [252.8549, 909.3414, 342.5280]
+Time EE pos(ms): 1737667679251
+EE pos = [252.8549, 909.3414, 342.5280]
+Time EE pos(ms): 1737667679262
+EE pos = [252.8549, 909.3414, 342.5280]
+Time EE pos(ms): 1737667679264
+EE pos = [252.8549, 909.3414, 342.5280]
+Time axis (ms): 1737667679266
+POS: {v: 311.424, s: 30.7775, e: 68.5781, r: -14.8721, p: -14.0981}
+VEL: {v: 2.28874, s: 1.16297, e: -2.13434, r: 0.446448, p: -1.53509}
+Time EE pos(ms): 1737667679274
+EE pos = [253.0680, 909.6686, 342.4514]
+Time EE pos(ms): 1737667679282
+EE pos = [253.0680, 909.6686, 342.4514]
+Time EE pos(ms): 1737667679291
+EE pos = [253.0680, 909.6686, 342.4514]
+Time EE pos(ms): 1737667679301
+EE pos = [253.0680, 909.6686, 342.4514]
+Time EE pos(ms): 1737667679312
+EE pos = [253.0680, 909.6686, 342.4514]
+Time EE pos(ms): 1737667679321
+EE pos = [253.0680, 909.6686, 342.4514]
+Time EE pos(ms): 1737667679330
+EE pos = [253.0680, 909.6686, 342.4514]
+Time EE pos(ms): 1737667679340
+EE pos = [253.0680, 909.6686, 342.4514]
+Time EE pos(ms): 1737667679345
+EE pos = [253.0680, 909.6686, 342.4514]
+Time axis (ms): 1737667679346
+POS: {v: 311.527, s: 30.8299, e: 68.4826, r: -14.8508, p: -14.1646}
+VEL: {v: 2.21062, s: 1.0939, e: -1.90802, r: 0.389484, p: -1.40644}
+Time EE pos(ms): 1737667679352
+EE pos = [253.2536, 910.0777, 342.3602]
+Time EE pos(ms): 1737667679361
+EE pos = [253.2536, 910.0777, 342.3602]
+Time EE pos(ms): 1737667679371
+EE pos = [253.2536, 910.0777, 342.3602]
+Time EE pos(ms): 1737667679380
+EE pos = [253.2536, 910.0777, 342.3602]
+Time EE pos(ms): 1737667679385
+EE pos = [253.2536, 910.0777, 342.3602]
+Time axis (ms): 1737667679386
+POS: {v: 311.651, s: 30.8962, e: 68.3711, r: -14.8303, p: -14.2449}
+VEL: {v: 2.06787, s: 1.07608, e: -1.7692, r: 0.2430[2025-01-23T16:27:59.390-05:00][gps_controller2.exe][9308][D] GmMotion.cpp(1062): "MTN: Move Mode -TRAJECTORY_MODE"36
+, p: -1.1175}
+[2025-01-23T16:27:59.392-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.392-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000bff & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.393-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.393-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.393-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.394-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.394-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.394-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.395-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.395-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.395-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.396-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.396-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.396-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.397-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.397-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.400-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.400-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.401-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.401-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.402-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.402-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.404-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.404-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.405-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.406-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.406-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.407-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.407-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.407-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.408-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.411-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.412-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.412-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.412-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.413-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.413-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.414-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.414-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.414-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.415-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.415-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.415-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.416-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.416-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.416-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.417-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.417-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.417-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.418-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.418-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.418-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.419-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.419-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.423-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.424-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.424-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.424-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.425-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.425-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.425-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.426-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.426-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.426-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.427-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.427-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.427-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.428-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.428-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.428-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.429-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.429-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.429-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.430-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.430-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.430-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.431-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.435-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.436-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.437-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.438-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.438-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+[2025-01-23T16:27:59.439-05:00][gps_controller2.exe][3020][I] TrajectoryMotionSession.cpp(156): Setting low precision tracking to false.
+[2025-01-23T16:27:59.439-05:00][gps_controller2.exe][3020][D] SensorHubProxy.cpp(89): [cd0d0096-fac6-4dd7-9a3a-3e38f2249a96 (gps_controller2.exe:12108:1)] Allowed pose warnings: 0x00000880 & 0xfffff400 | 0x00000880 = 0x00000880
+Time EE pos(ms): 1737667679440
+EE pos = [253.2828, 910.4892, 342.2624]
+Time EE pos(ms): 1737667679441
+EE pos = [253.2828, 910.4892, 342.2624]
+Time EE pos(ms): 1737667679442
+EE pos = [253.2828, 910.4892, 342.2624]
+Time axis (ms): 1737667679442
+POS: {v: 311.774, s: 30.9661, e: 68.272, r: -14.8122, p: -14.3277}
+VEL: {v: 5.11307, s: 0.305062, e: -0.209395, r: 0.245947, p: -1.81894}
+Time EE pos(ms): 1737667679449
+EE pos = [253.2828, 910.4892, 342.2624]
+Time EE pos(ms): 1737667679450
+EE pos = [253.2711, 910.4550, 342.3193]
+Time EE pos(ms): 1737667679451
+EE pos = [253.2711, 910.4550, 342.3193]
+Time EE pos(ms): 1737667679452
+EE pos = [253.2711, 910.4550, 342.3193]
+Time EE pos(ms): 1737667679455
+EE pos = [253.2711, 910.4550, 342.3193]
+Time axis (ms): 1737667679456
+POS: {v: 312.017, s: 30.9766, e: 68.2645, r: -14.8033, p: -14.3983}
+VEL: {v: 4.43771, s: 0.187127, e: -0.178634, r: 0.126361, p: -1.26742}
+Time EE pos(ms): 1737667679461
+EE pos = [253.2711, 910.4550, 342.3193]
+Time EE pos(ms): 1737667679462
+EE pos = [253.2711, 910.4550, 342.3193]
+Time EE pos(ms): 1737667679470
+EE pos = [253.2711, 910.4550, 342.3193]
+Time EE pos(ms): 1737667679481
+EE pos = [253.2711, 910.4550, 342.3193]
+Time EE pos(ms): 1737667679490
+EE pos = [253.2711, 910.4550, 342.3193]
+Time EE pos(ms): 1737667679501
+EE pos = [253.2711, 910.4550, 342.3193]
+Time EE pos(ms): 1737667679511
+EE pos = [253.2711, 910.4550, 342.3193]
+Time EE pos(ms): 1737667679520
+EE pos = [253.2711, 910.4550, 342.3193]
+Time EE pos(ms): 1737667679524
+EE pos = [253.2711, 910.4550, 342.3193]
+Time axis (ms): 1737667679525
+POS: {v: 312.017, s: 30.9766, e: 68.2645, r: -14.8033, p: -14.3983}
+VEL: {v: 4.43771, s: 0.187127, e: -0.178634, r: 0.126361, p: -1.26742}
+Time EE pos(ms): 1737667679531
+EE pos = [253.2986, 910.4376, 342.3780]
+Time EE pos(ms): 1737667679540
+EE pos = [253.2986, 910.4376, 342.3780]
+Time EE pos(ms): 1737667679550
+EE pos = [253.2986, 910.4376, 342.3780]
+Time EE pos(ms): 1737667679561
+EE pos = [253.3138, 910.4530, 342.3826]
+Time axis (ms): 1737667679562
+POS: {v: 312.332, s: 30.9957, e: 68.241, r: -14.7929, p: -14.4943}
+VEL: {v: 1.35849, s: 0.176501, e: -0.225251, r: -0.00159302, p: -0.46374}
+Time EE pos(ms): 1737667679568
+EE pos = [253.3138, 910.4530, 342.3826]
+Time EE pos(ms): 1737667679571
+EE pos = [253.3138, 910.4530, 342.3826]
+Time EE pos(ms): 1737667679580
+EE pos = [253.3138, 910.4530, 342.3826]
+Time EE pos(ms): 1737667679590
+EE pos = [253.3138, 910.4530, 342.3826]
+Time EE pos(ms): 1737667679600
+EE pos = [253.3138, 910.4530, 342.3826]
+Time EE pos(ms): 1737667679611
+EE pos = [253.3138, 910.4530, 342.3826]
+Time EE pos(ms): 1737667679621
+EE pos = [253.3138, 910.4530, 342.3826]
+Time EE pos(ms): 1737667679631
+EE pos = [253.3138, 910.4530, 342.3826]
+Time EE pos(ms): 1737667679635
+EE pos = [253.3138, 910.4530, 342.3826]
+Time axis (ms): 1737667679636
+POS: {v: 312.332, s: 30.9957, e: 68.241, r: -14.7929, p: -14.4943}
+VEL: {v: 1.35849, s: 0.176501, e: -0.225251, r: -0.00159302, p: -0.46374}
+Time EE pos(ms): 1737667679644
+EE pos = [253.2951, 910.5290, 342.4884]
+Time EE pos(ms): 1737667679651
+EE pos = [253.2951, 910.5290, 342.4884]
+Time EE pos(ms): 1737667679660
+EE pos = [253.3658, 910.5409, 342.3982]
+Time axis (ms): 1737667679662
+POS: {v: 312.31, s: 30.9958, e: 68.2394, r: -14.8065, p: -14.4464}
+VEL: {v: -6.96503, s: -0.214443, e: 0.0295425, r: -0.870062, p: 1.15335}
+Time EE pos(ms): 1737667679668
+EE pos = [253.3658, 910.5409, 342.3982]
+Time EE pos(ms): 1737667679672
+EE pos = [253.3658, 910.5409, 342.3982]
+Time EE pos(ms): 1737667679681
+EE pos = [253.3658, 910.5409, 342.3982]
+Time EE pos(ms): 1737667679691
+EE pos = [253.3658, 910.5409, 342.3982]
+Time EE pos(ms): 1737667679701
+EE pos = [253.3658, 910.5409, 342.3982]
+Time EE pos(ms): 1737667679711
+EE pos = [253.3658, 910.5409, 342.3982]
+Time EE pos(ms): 1737667679716
+EE pos = [253.3658, 910.5409, 342.3982]
+Time axis (ms): 1737667679717
+POS: {v: 312.134, s: 30.9895, e: 68.2402, r: -14.8291, p: -14.4158}
+VEL: {v: -4.14154, s: -0.176448, e: -0.00371738, r: -0.413654, p: 0.864133}
+Time EE pos(ms): 1737667679724
+EE pos = [253.4741, 910.5805, 342.3146]
+Time EE pos(ms): 1737667679731
+EE pos = [253.4741, 910.5805, 342.3146]
+Time EE pos(ms): 1737667679741
+EE pos = [253.4741, 910.5805, 342.3146]
+Time EE pos(ms): 1737667679752
+EE pos = [253.4741, 910.5805, 342.3146]
+Time EE pos(ms): 1737667679758
+EE pos = [253.4741, 910.5805, 342.3146]
+Time axis (ms): 1737667679759
+POS: {v: 311.918, s: 30.9825, e: 68.2358, r: -14.85, p: -14.3673}
+VEL: {v: -2.50259, s: -0.0533492, e: -0.106546, r: -0.158936, p: 0.646884}
+Time EE pos(ms): 1737667679766
+EE pos = [253.5185, 910.6090, 342.2907]
+Time EE pos(ms): 1737667679772
+EE pos = [253.5185, 910.6090, 342.2907]
+Time EE pos(ms): 1737667679782
+EE pos = [253.5185, 910.6090, 342.2907]
+Time EE pos(ms): 1737667679791
+EE pos = [253.5185, 910.6090, 342.2907]
+Time EE pos(ms): 1737667679800
+EE pos = [253.5185, 910.6090, 342.2907]
+Time EE pos(ms): 1737667679811
+EE pos = [253.5185, 910.6090, 342.2907]
+Time EE pos(ms): 1737667679814
+EE pos = [253.5185, 910.6090, 342.2907]
+Time axis (ms): 1737667679815
+POS: {v: 311.835, s: 30.9808, e: 68.232, r: -14.8586, p: -14.3456}
+VEL: {v: -1.35117, s: -0.0459512, e: -0.00018469, r: -0.317542, p: 0.346513}
+Time EE pos(ms): 1737667679821
+EE pos = [253.5380, 910.5687, 342.2138]
+Time EE pos(ms): 1737667679831
+EE pos = [253.5380, 910.5687, 342.2138]
+Time EE pos(ms): 1737667679840
+EE pos = [253.5380, 910.5687, 342.2138]
+Time EE pos(ms): 1737667679850
+EE pos = [253.5380, 910.5687, 342.2138]
+Time EE pos(ms): 1737667679861
+EE pos = [253.5380, 910.5687, 342.2138]
+Time EE pos(ms): 1737667679870
+EE pos = [253.5380, 910.5687, 342.2138]
+Time EE pos(ms): 1737667679872
+EE pos = [253.5380, 910.5687, 342.2138]
+Time axis (ms): 1737667679874
+POS: {v: 311.713, s: 30.9719, e: 68.243, r: -14.8727, p: -14.3298}
+VEL: {v: -9.30565, s: -0.557952, e: 0.594427, r: -0.183636, p: 0.194622}
+Time EE pos(ms): 1737667679880
+EE pos = [253.7169, 910.3299, 341.5541]
+Time EE pos(ms): 1737667679891
+EE pos = [253.7169, 910.3299, 341.5541]
+Time EE pos(ms): 1737667679901
+EE pos = [253.7169, 910.3299, 341.5541]
+Time EE pos(ms): 1737667679910
+EE pos = [253.7169, 910.3299, 341.5541]
+Time EE pos(ms): 1737667679920
+EE pos = [253.7169, 910.3299, 341.5541]
+Time EE pos(ms): 1737667679930
+EE pos = [253.7169, 910.3299, 341.5541]
+Time EE pos(ms): 1737667679934
+EE pos = [253.7169, 910.3299, 341.5541]
+Time axis (ms): 1737667679935
+POS: {v: 311.018, s: 30.9354, e: 68.2773, r: -14.8851, p: -14.3174}
+VEL: {v: -16.4912, s: -0.686748, e: 0.520386, r: -0.211523, p: 0.150793}
+Time EE pos(ms): 1737667679943
+EE pos = [253.9343, 910.1301, 340.7816]
+Time EE pos(ms): 1737667679951
+EE pos = [253.9343, 910.1301, 340.7816]
+Time EE pos(ms): 1737667679961
+EE pos = [253.9343, 910.1301, 340.7816]
+Time EE pos(ms): 1737667679970
+EE pos = [254.1529, 909.9459, 340.0066]
+Time axis (ms): 1737667679972
+POS: {v: 310.223, s: 30.9043, e: 68.2993, r: -14.8935, p: -14.3099}
+VEL: {v: -19.4068, s: -0.721428, e: 0.487024, r: -0.163055, p: 0.180036}
+Time EE pos(ms): 1737667679977
+EE pos = [254.1529, 909.9459, 340.0066]
+Time EE pos(ms): 1737667679981
+EE pos = [254.1529, 909.9459, 340.0066]
+Time EE pos(ms): 1737667679991
+EE pos = [254.1529, 909.9459, 340.0066]
+Time EE pos(ms): 1737667680001
+EE pos = [254.1529, 909.9459, 340.0066]
+Time EE pos(ms): 1737667680011
+EE pos = [254.1529, 909.9459, 340.0066]
+Time EE pos(ms): 1737667680021
+EE pos = [254.1529, 909.9459, 340.0066]
+Time EE pos(ms): 1737667680031
+EE pos = [254.1529, 909.9459, 340.0066]
+Time EE pos(ms): 1737667680040
+EE pos = [254.5450, 909.6031, 338.6054]
+Time axis (ms): 1737667680041
+POS: {v: 307.806, s: 30.8075, e: 68.3691, r: -14.9269, p: -14.2211}
+VEL: {v: -26.9841, s: -1.20536, e: 0.800254, r: -0.379834, p: 1.2663}
+Time EE pos(ms): 1737667680047
+EE pos = [254.5450, 909.6031, 338.6054]
+Time EE pos(ms): 1737667680050
+EE pos = [254.5450, 909.6031, 338.6054]
+Time EE pos(ms): 1737667680060
+EE pos = [254.5450, 909.6031, 338.6054]
+Time EE pos(ms): 1737667680063
+EE pos = [254.5450, 909.6031, 338.6054]
+Time axis (ms): 1737667680064
+POS: {v: 307.806, s: 30.8075, e: 68.3691, r: -14.9269, p: -14.2211}
+VEL: {v: -26.9841, s: -1.20536, e: 0.800254, r: -0.379834, p: 1.2663}
+Time EE pos(ms): 1737667680072
+EE pos = [254.8782, 909.3419, 337.6265]
+Time EE pos(ms): 1737667680081
+EE pos = [254.8782, 909.3419, 337.6265]
+Time EE pos(ms): 1737667680090
+EE pos = [254.8782, 909.3419, 337.6265]
+Time EE pos(ms): 1737667680100
+EE pos = [254.8782, 909.3419, 337.6265]
+Time EE pos(ms): 1737667680110
+EE pos = [254.8782, 909.3419, 337.6265]
+Time EE pos(ms): 1737667680120
+EE pos = [255.3939, 908.9483, 335.9493]
+Time axis (ms): 1737667680121
+POS: {v: 306.704, s: 30.7587, e: 68.401, r: -14.9416, p: -14.1754}
+VEL: {v: -26.8076, s: -1.11489, e: 0.710974, r: -0.353394, p: 0.977923}
+Time EE pos(ms): 1737667680127
+EE pos = [255.3939, 908.9483, 335.9493]
+Time EE pos(ms): 1737667680130
+EE pos = [255.3939, 908.9483, 335.9493]
+Time EE pos(ms): 1737667680141
+EE pos = [255.3939, 908.9483, 335.9493]
+Time EE pos(ms): 1737667680151
+EE pos = [255.3939, 908.9483, 335.9493]
+Time EE pos(ms): 1737667680161
+EE pos = [255.3939, 908.9483, 335.9493]
+Time EE pos(ms): 1737667680163
+EE pos = [255.3939, 908.9483, 335.9493]
+Time axis (ms): 1737667680164
+POS: {v: 304.871, s: 30.6874, e: 68.4456, r: -14.9632, p: -14.1179}
+VEL: {v: -26.9925, s: -1.02106, e: 0.607304, r: -0.285901, p: 0.699665}
+Time EE pos(ms): 1737667680172
+EE pos = [255.6602, 908.7547, 335.1060]
+Time EE pos(ms): 1737667680181
+EE pos = [255.6602, 908.7547, 335.1060]
+Time EE pos(ms): 1737667680191
+EE pos = [255.6602, 908.7547, 335.1060]
+Time EE pos(ms): 1737667680201
+EE pos = [255.6602, 908.7547, 335.1060]
+Time EE pos(ms): 1737667680207
+EE pos = [255.6602, 908.7547, 335.1060]
+Time axis (ms): 1737667680208
+POS: {v: 303.966, s: 30.6533, e: 68.4651, r: -14.9723, p: -14.0952}
+VEL: {v: -26.8504, s: -1.1197, e: 0.863858, r: -0.265887, p: 0.706327}
+Time EE pos(ms): 1737667680214
+EE pos = [255.9770, 908.4351, 333.9521]
+Time EE pos(ms): 1737667680221
+EE pos = [255.9770, 908.4351, 333.9521]
+Time EE pos(ms): 1737667680231
+EE pos = [255.9770, 908.4351, 333.9521]
+Time EE pos(ms): 1737667680240
+EE pos = [255.9770, 908.4351, 333.9521]
+Time EE pos(ms): 1737667680250
+EE pos = [255.9770, 908.4351, 333.9521]
+Time EE pos(ms): 1737667680260
+EE pos = [255.9770, 908.4351, 333.9521]
+Time EE pos(ms): 1737667680270
+EE pos = [255.9770, 908.4351, 333.9521]
+Time EE pos(ms): 1737667680279
+EE pos = [256.3805, 908.0748, 332.5618]
+Time axis (ms): 1737667680280
+POS: {v: 302.718, s: 30.5996, e: 68.5068, r: -14.9849, p: -14.0603}
+VEL: {v: -26.8911, s: -1.1091, e: 0.78103, r: -0.276782, p: 0.590153}
+Time EE pos(ms): 1737667680286
+EE pos = [256.3805, 908.0748, 332.5618]
+Time EE pos(ms): 1737667680290
+EE pos = [256.3805, 908.0748, 332.5618]
+Time EE pos(ms): 1737667680300
+EE pos = [256.3805, 908.0748, 332.5618]
+Time EE pos(ms): 1737667680310
+EE pos = [256.3805, 908.0748, 332.5618]
+Time EE pos(ms): 1737667680317
+EE pos = [256.3805, 908.0748, 332.5618]
+Time axis (ms): 1737667680318
+POS: {v: 301.249, s: 30.5405, e: 68.5476, r: -14.9975, p: -14.0315}
+VEL: {v: -26.2367, s: -0.997406, e: 0.645621, r: -0.186456, p: 0.425381}
+Time EE pos(ms): 1737667680324
+EE pos = [256.7392, 907.7761, 331.3142]
+Time EE pos(ms): 1737667680330
+EE pos = [256.7392, 907.7761, 331.3142]
+Time EE pos(ms): 1737667680340
+EE pos = [256.7392, 907.7761, 331.3142]
+Time EE pos(ms): 1737667680350
+EE pos = [256.7392, 907.7761, 331.3142]
+Time EE pos(ms): 1737667680361
+EE pos = [257.0612, 907.5210, 330.2270]
+Time axis (ms): 1737667680362
+POS: {v: 299.948, s: 30.4921, e: 68.5784, r: -15.0074, p: -14.0121}
+VEL: {v: -25.6418, s: -0.917102, e: 0.537982, r: -0.177704, p: 0.32779}
+Time EE pos(ms): 1737667680367
+EE pos = [257.0612, 907.5210, 330.2270]
+Time EE pos(ms): 1737667680372
+EE pos = [257.0612, 907.5210, 330.2270]
+Time EE pos(ms): 1737667680381
+EE pos = [257.0612, 907.5210, 330.2270]
+Time EE pos(ms): 1737667680391
+EE pos = [257.0612, 907.5210, 330.2270]
+Time EE pos(ms): 1737667680401
+EE pos = [257.0612, 907.5210, 330.2270]
+Time EE pos(ms): 1737667680411
+EE pos = [257.0612, 907.5210, 330.2270]
+Time EE pos(ms): 1737667680421
+EE pos = [257.0612, 907.5210, 330.2270]
+Time EE pos(ms): 1737667680423
+EE pos = [257.0612, 907.5210, 330.2270]
+Time axis (ms): 1737667680424
+POS: {v: 298.811, s: 30.4503, e: 68.6035, r: -15.016, p: -13.9942}
+VEL: {v: -26.9699, s: -1.11362, e: 0.898312, r: -0.243622, p: 0.827481}
+Time EE pos(ms): 1737667680431
+EE pos = [257.4092, 907.1782, 328.9219]
+Time EE pos(ms): 1737667680441
+EE pos = [257.4092, 907.1782, 328.9219]
+Time EE pos(ms): 1737667680451
+EE pos = [257.4092, 907.1782, 328.9219]
+Time EE pos(ms): 1737667680461
+EE pos = [257.4092, 907.1782, 328.9219]
+Time EE pos(ms): 1737667680464
+EE pos = [257.4092, 907.1782, 328.9219]
+Time axis (ms): 1737667680465
+POS: {v: 297.397, s: 30.3921, e: 68.6478, r: -15.0299, p: -13.9539}
+VEL: {v: -25.7308, s: -1.06675, e: 0.704836, r: -0.237946, p: 0.515937}
+Time EE pos(ms): 1737667680472
+EE pos = [257.7656, 906.8674, 327.8213]
+Time EE pos(ms): 1737667680483
+EE pos = [257.7656, 906.8674, 327.8213]
+Time EE pos(ms): 1737667680490
+EE pos = [257.7656, 906.8674, 327.8213]
+Time EE pos(ms): 1737667680500
+EE pos = [257.7656, 906.8674, 327.8213]
+Time EE pos(ms): 1737667680511
+EE pos = [257.7656, 906.8674, 327.8213]
+Time EE pos(ms): 1737667680520
+EE pos = [257.7656, 906.8674, 327.8213]
+Time EE pos(ms): 1737667680530
+EE pos = [258.1291, 906.5643, 326.4476]
+Time axis (ms): 1737667680531
+POS: {v: 296.217, s: 30.3402, e: 68.6829, r: -15.0413, p: -13.9248}
+VEL: {v: -25.2276, s: -0.995836, e: 0.639483, r: -0.207184, p: 0.567549}
+Time EE pos(ms): 1737667680539
+EE pos = [258.1291, 906.5643, 326.4476]
+Time EE pos(ms): 1737667680540
+EE pos = [258.1291, 906.5643, 326.4476]
+Time EE pos(ms): 1737667680551
+EE pos = [258.1291, 906.5643, 326.4476]
+Time EE pos(ms): 1737667680562
+EE pos = [258.1291, 906.5643, 326.4476]
+Time EE pos(ms): 1737667680563
+EE pos = [258.1291, 906.5643, 326.4476]
+Time axis (ms): 1737667680565
+POS: {v: 294.776, s: 30.2902, e: 68.7149, r: -15.0522, p: -13.9002}
+VEL: {v: -22.9416, s: -0.846538, e: 0.503162, r: -0.193048, p: 0.379823}
+Time EE pos(ms): 1737667680571
+EE pos = [258.4953, 906.2493, 325.1621]
+Time EE pos(ms): 1737667680581
+EE pos = [258.4953, 906.2493, 325.1621]
+Time EE pos(ms): 1737667680591
+EE pos = [258.4953, 906.2493, 325.1621]
+Time EE pos(ms): 1737667680601
+EE pos = [258.4953, 906.2493, 325.1621]
+Time EE pos(ms): 1737667680611
+EE pos = [258.4953, 906.2493, 325.1621]
+Time EE pos(ms): 1737667680622
+EE pos = [258.4953, 906.2493, 325.1621]
+Time EE pos(ms): 1737667680631
+EE pos = [258.8203, 905.9341, 324.0910]
+Time axis (ms): 1737667680632
+POS: {v: 292.36, s: 30.1935, e: 68.7801, r: -15.0672, p: -13.8789}
+VEL: {v: -20.3853, s: -0.828864, e: 0.557607, r: -0.10459, p: 0.0989705}
+Time EE pos(ms): 1737667680640
+EE pos = [258.8203, 905.9341, 324.0910]
+Time EE pos(ms): 1737667680641
+EE pos = [258.8203, 905.9341, 324.0910]
+Time EE pos(ms): 1737667680651
+EE pos = [258.8203, 905.9341, 324.0910]
+Time EE pos(ms): 1737667680661
+EE pos = [258.8203, 905.9341, 324.0910]
+Time EE pos(ms): 1737667680671
+EE pos = [258.8203, 905.9341, 324.0910]
+Time EE pos(ms): 1737667680672
+EE pos = [258.8203, 905.9341, 324.0910]
+Time axis (ms): 1737667680673
+POS: {v: 292.36, s: 30.1935, e: 68.7801, r: -15.0672, p: -13.8789}
+VEL: {v: -20.3853, s: -0.828864, e: 0.557607, r: -0.10459, p: 0.0989705}
+Time EE pos(ms): 1737667680681
+EE pos = [259.0716, 905.6928, 323.1356]
+Time EE pos(ms): 1737667680691
+EE pos = [259.0716, 905.6928, 323.1356]
+Time EE pos(ms): 1737667680696
+EE pos = [259.0716, 905.6928, 323.1356]
+Time axis (ms): 1737667680697
+POS: {v: 291.391, s: 30.1574, e: 68.8054, r: -15.0724, p: -13.874}
+VEL: {v: -21.013, s: -0.772577, e: 0.463458, r: -0.120795, p: 0.121691}
+Time EE pos(ms): 1737667680703
+EE pos = [259.3362, 905.4863, 322.3080]
+Time EE pos(ms): 1737667680711
+EE pos = [259.3362, 905.4863, 322.3080]
+Time EE pos(ms): 1737667680721
+EE pos = [259.3362, 905.4863, 322.3080]
+Time EE pos(ms): 1737667680731
+EE pos = [259.3362, 905.4863, 322.3080]
+Time EE pos(ms): 1737667680741
+EE pos = [259.3362, 905.4863, 322.3080]
+Time EE pos(ms): 1737667680751
+EE pos = [259.6956, 905.2060, 321.0527]
+Time axis (ms): 1737667680752
+POS: {v: 290.551, s: 30.1257, e: 68.8228, r: -15.0768, p: -13.8699}
+VEL: {v: -21.7967, s: -0.756096, e: 0.413281, r: -0.109589, p: 0.0625286}
+Time EE pos(ms): 1737667680757
+EE pos = [259.6956, 905.2060, 321.0527]
+Time EE pos(ms): 1737667680761
+EE pos = [259.6956, 905.2060, 321.0527]
+Time EE pos(ms): 1737667680771
+EE pos = [259.6956, 905.2060, 321.0527]
+Time EE pos(ms): 1737667680781
+EE pos = [259.6956, 905.2060, 321.0527]
+Time EE pos(ms): 1737667680791
+EE pos = [259.6956, 905.2060, 321.0527]
+Time EE pos(ms): 1737667680801
+EE pos = [259.6956, 905.2060, 321.0527]
+Time EE pos(ms): 1737667680809
+EE pos = [259.6956, 905.2060, 321.0527]
+Time axis (ms): 1737667680810
+POS: {v: 289.279, s: 30.0827, e: 68.8465, r: -15.0829, p: -13.8641}
+VEL: {v: -22.1005, s: -0.859316, e: 0.555968, r: -0.109479, p: 0.0522201}
+Time EE pos(ms): 1737667680817
+EE pos = [260.0417, 904.8947, 319.8873]
+Time EE pos(ms): 1737667680821
+EE pos = [260.0417, 904.8947, 319.8873]
+Time EE pos(ms): 1737667680831
+EE pos = [260.0417, 904.8947, 319.8873]
+Time EE pos(ms): 1737667680841
+EE pos = [260.0417, 904.8947, 319.8873]
+Time EE pos(ms): 1737667680851
+EE pos = [260.0417, 904.8947, 319.8873]
+Time EE pos(ms): 1737667680861
+EE pos = [260.0417, 904.8947, 319.8873]
+Time EE pos(ms): 1737667680868
+EE pos = [260.0417, 904.8947, 319.8873]
+Time axis (ms): 1737667680869
+POS: {v: 288.105, s: 30.0366, e: 68.8763, r: -15.0886, p: -13.8617}
+VEL: {v: -23.6478, s: -0.92232, e: 0.584964, r: -0.109241, p: 0.0674607}
+Time EE pos(ms): 1737667680875
+EE pos = [260.4818, 904.5352, 318.4159]
+Time EE pos(ms): 1737667680881
+EE pos = [260.4818, 904.5352, 318.4159]
+Time EE pos(ms): 1737667680891
+EE pos = [260.4818, 904.5352, 318.4159]
+Time EE pos(ms): 1737667680901
+EE pos = [260.4818, 904.5352, 318.4159]
+Time EE pos(ms): 1737667680905
+EE pos = [260.4818, 904.5352, 318.4159]
+Time axis (ms): 1737667680906
+POS: {v: 286.62, s: 29.9824, e: 68.9075, r: -15.0955, p: -13.8573}
+VEL: {v: -25.3915, s: -0.879921, e: 0.485, r: -0.122461, p: 0.104814}
+Time EE pos(ms): 1737667680911
+EE pos = [260.7785, 904.3073, 317.4193]
+Time EE pos(ms): 1737667680921
+EE pos = [260.7785, 904.3073, 317.4193]
+Time EE pos(ms): 1737667680931
+EE pos = [260.7785, 904.3073, 317.4193]
+Time EE pos(ms): 1737667680941
+EE pos = [260.7785, 904.3073, 317.4193]
+Time EE pos(ms): 1737667680951
+EE pos = [260.7785, 904.3073, 317.4193]
+Time EE pos(ms): 1737667680961
+EE pos = [260.7785, 904.3073, 317.4193]
+Time EE pos(ms): 1737667680971
+EE pos = [260.7785, 904.3073, 317.4193]
+Time EE pos(ms): 1737667680981
+EE pos = [260.7785, 904.3073, 317.4193]
+Time EE pos(ms): 1737667680991
+EE pos = [260.7785, 904.3073, 317.4193]
+Time EE pos(ms): 1737667680997
+EE pos = [260.7785, 904.3073, 317.4193]
+Time axis (ms): 1737667680998
+POS: {v: 285.613, s: 29.9477, e: 68.9259, r: -15.1003, p: -13.8538}
+VEL: {v: -25.0381, s: -0.869663, e: 0.44671, r: -0.113177, p: 0.129475}
+Time EE pos(ms): 1737667681005
+EE pos = [261.1982, 903.9972, 316.0299]
+Time EE pos(ms): 1737667681010
+EE pos = [261.1982, 903.9972, 316.0299]
+Time EE pos(ms): 1737667681015
+EE pos = [261.1982, 903.9972, 316.0299]
+Time axis (ms): 1737667681016
+POS: {v: 284.208, s: 29.9, e: 68.9496, r: -15.1066, p: -13.8485}
+VEL: {v: -25.3539, s: -0.877758, e: 0.471592, r: -0.0889893, p: -0.00130901}
+Time EE pos(ms): 1737667681021
+EE pos = [261.5001, 903.7512, 315.0702]
+Time EE pos(ms): 1737667681031
+EE pos = [261.5001, 903.7512, 315.0702]
+Time EE pos(ms): 1737667681041
+EE pos = [261.5001, 903.7512, 315.0702]
+Time EE pos(ms): 1737667681051
+EE pos = [261.5001, 903.7512, 315.0702]
+Time EE pos(ms): 1737667681061
+EE pos = [261.5001, 903.7512, 315.0702]
+Time EE pos(ms): 1737667681063
+EE pos = [261.5001, 903.7512, 315.0702]
+Time axis (ms): 1737667681064
+POS: {v: 283.255, s: 29.8642, e: 68.9695, r: -15.1098, p: -13.8511}
+VEL: {v: -25.0026, s: -0.89966, e: 0.49113, r: -0.0641968, p: -0.132888}
+Time EE pos(ms): 1737667681071
+EE pos = [261.9317, 903.4126, 313.6516]
+Time EE pos(ms): 1737667681081
+EE pos = [261.9317, 903.4126, 313.6516]
+Time EE pos(ms): 1737667681091
+EE pos = [261.9317, 903.4126, 313.6516]
+Time EE pos(ms): 1737667681101
+EE pos = [261.9317, 903.4126, 313.6516]
+Time EE pos(ms): 1737667681110
+EE pos = [261.9317, 903.4126, 313.6516]
+Time EE pos(ms): 1737667681121
+EE pos = [261.9317, 903.4126, 313.6516]
+Time EE pos(ms): 1737667681127
+EE pos = [261.9317, 903.4126, 313.6516]
+Time axis (ms): 1737667681129
+POS: {v: 281.849, s: 29.815, e: 68.9952, r: -15.1146, p: -13.8566}
+VEL: {v: -24.7822, s: -0.845253, e: 0.440486, r: -0.0938782, p: -0.0342446}
+Time EE pos(ms): 1737667681135
+EE pos = [262.3695, 903.0815, 312.2093]
+Time EE pos(ms): 1737667681140
+EE pos = [262.3695, 903.0815, 312.2093]
+Time EE pos(ms): 1737667681150
+EE pos = [262.3695, 903.0815, 312.2093]
+Time EE pos(ms): 1737667681160
+EE pos = [262.3695, 903.0815, 312.2093]
+Time EE pos(ms): 1737667681168
+EE pos = [262.3695, 903.0815, 312.2093]
+Time axis (ms): 1737667681169
+POS: {v: 280.407, s: 29.7657, e: 69.0199, r: -15.1205, p: -13.8574}
+VEL: {v: -24.3591, s: -0.84732, e: 0.393653, r: -0.134564, p: -9.35007e-05}
+Time EE pos(ms): 1737667681175
+EE pos = [262.7164, 902.8296, 311.0922]
+Time EE pos(ms): 1737667681180
+EE pos = [262.7164, 902.8296, 311.0922]
+Time EE pos(ms): 1737667681190
+EE pos = [262.7164, 902.8296, 311.0922]
+Time EE pos(ms): 1737667681202
+EE pos = [262.7164, 902.8296, 311.0922]
+Time EE pos(ms): 1737667681205
+EE pos = [262.7164, 902.8296, 311.0922]
+Time axis (ms): 1737667681206
+POS: {v: 279.288, s: 29.7278, e: 69.0376, r: -15.125, p: -13.857}
+VEL: {v: -24.0275, s: -0.902402, e: 0.50864, r: -0.094574, p: 0}
+Time EE pos(ms): 1737667681210
+EE pos = [263.0253, 902.5888, 310.1899]
+Time EE pos(ms): 1737667681221
+EE pos = [263.0253, 902.5888, 310.1899]
+Time EE pos(ms): 1737667681230
+EE pos = [263.0253, 902.5888, 310.1899]
+Time EE pos(ms): 1737667681241
+EE pos = [263.0253, 902.5888, 310.1899]
+Time EE pos(ms): 1737667681251
+EE pos = [263.0253, 902.5888, 310.1899]
+Time EE pos(ms): 1737667681263
+EE pos = [263.0253, 902.5888, 310.1899]
+Time EE pos(ms): 1737667681271
+EE pos = [263.3987, 902.3032, 308.9525]
+Time axis (ms): 1737667681272
+POS: {v: 277.15, s: 29.6498, e: 69.0775, r: -15.1334, p: -13.8587}
+VEL: {v: -24.5417, s: -0.842032, e: 0.389209, r: -0.128851, p: 0}
+Time EE pos(ms): 1737667681280
+EE pos = [263.3987, 902.3032, 308.9525]
+Time EE pos(ms): 1737667681281
+EE pos = [263.3987, 902.3032, 308.9525]
+Time EE pos(ms): 1737667681290
+EE pos = [263.3987, 902.3032, 308.9525]
+Time EE pos(ms): 1737667681300
+EE pos = [263.3987, 902.3032, 308.9525]
+Time EE pos(ms): 1737667681306
+EE pos = [263.3987, 902.3032, 308.9525]
+Time axis (ms): 1737667681307
+POS: {v: 277.15, s: 29.6498, e: 69.0775, r: -15.1334, p: -13.8587}
+VEL: {v: -24.5417, s: -0.842032, e: 0.389209, r: -0.128851, p: 0}
+Time EE pos(ms): 1737667681312
+EE pos = [263.8268, 901.9968, 307.6171]
+Time EE pos(ms): 1737667681320
+EE pos = [263.8268, 901.9968, 307.6171]
+Time EE pos(ms): 1737667681330
+EE pos = [263.8268, 901.9968, 307.6171]
+Time EE pos(ms): 1737667681340
+EE pos = [263.8268, 901.9968, 307.6171]
+Time EE pos(ms): 1737667681350
+EE pos = [263.8268, 901.9968, 307.6171]
+Time EE pos(ms): 1737667681360
+EE pos = [263.8268, 901.9968, 307.6171]
+Time EE pos(ms): 1737667681371
+EE pos = [263.8268, 901.9968, 307.6171]
+Time EE pos(ms): 1737667681381
+EE pos = [263.8268, 901.9968, 307.6171]
+Time EE pos(ms): 1737667681386
+EE pos = [263.8268, 901.9968, 307.6171]
+Time axis (ms): 1737667681388
+POS: {v: 275.811, s: 29.6037, e: 69.0984, r: -15.1393, p: -13.8581}
+VEL: {v: -24.8682, s: -0.850814, e: 0.380453, r: -0.120099, p: 0.0596067}
+Time EE pos(ms): 1737667681394
+EE pos = [264.2425, 901.7020, 306.3050]
+Time EE pos(ms): 1737667681402
+EE pos = [264.2425, 901.7020, 306.3050]
+Time EE pos(ms): 1737667681409
+EE pos = [264.2425, 901.7020, 306.3050]
+Time axis (ms): 1737667681410
+POS: {v: 274.488, s: 29.5586, e: 69.1187, r: -15.1446, p: -13.8546}
+VEL: {v: -24.2337, s: -0.976764, e: 0.524681, r: -0.0755676, p: 0.00100513}
+Time EE pos(ms): 1737667681416
+EE pos = [264.6166, 901.4024, 305.1583]
+Time EE pos(ms): 1737667681422
+EE pos = [264.6166, 901.4024, 305.1583]
+Time EE pos(ms): 1737667681431
+EE pos = [264.6166, 901.4024, 305.1583]
+Time EE pos(ms): 1737667681441
+EE pos = [264.6166, 901.4024, 305.1583]
+Time EE pos(ms): 1737667681451
+EE pos = [264.6166, 901.4024, 305.1583]
+Time EE pos(ms): 1737667681460
+EE pos = [264.6166, 901.4024, 305.1583]
+Time EE pos(ms): 1737667681463
+EE pos = [264.6166, 901.4024, 305.1583]
+Time axis (ms): 1737667681464
+POS: {v: 273.343, s: 29.5146, e: 69.1424, r: -15.1494, p: -13.8556}
+VEL: {v: -24.6732, s: -0.923854, e: 0.482791, r: -0.109662, p: -0.0747538}
+Time EE pos(ms): 1737667681472
+EE pos = [265.0438, 901.0683, 303.8008]
+Time EE pos(ms): 1737667681481
+EE pos = [265.0438, 901.0683, 303.8008]
+Time EE pos(ms): 1737667681490
+EE pos = [265.0438, 901.0683, 303.8008]
+Time EE pos(ms): 1737667681500
+EE pos = [265.0438, 901.0683, 303.8008]
+Time EE pos(ms): 1737667681510
+EE pos = [265.4476, 900.7625, 302.5144]
+Time axis (ms): 1737667681512
+POS: {v: 270.701, s: 29.4201, e: 69.1903, r: -15.1609, p: -13.8576}
+VEL: {v: -24.3185, s: -0.861431, e: 0.397237, r: -0.0893372, p: 0.0248946}
+Time EE pos(ms): 1737667681519
+EE pos = [265.4476, 900.7625, 302.5144]
+Time EE pos(ms): 1737667681520
+EE pos = [265.4476, 900.7625, 302.5144]
+Time EE pos(ms): 1737667681531
+EE pos = [265.4476, 900.7625, 302.5144]
+Time EE pos(ms): 1737667681540
+EE pos = [265.4476, 900.7625, 302.5144]
+Time EE pos(ms): 1737667681550
+EE pos = [265.4476, 900.7625, 302.5144]
+Time EE pos(ms): 1737667681561
+EE pos = [265.4476, 900.7625, 302.5144]
+Time EE pos(ms): 1737667681571
+EE pos = [265.4476, 900.7625, 302.5144]
+Time EE pos(ms): 1737667681577
+EE pos = [265.4476, 900.7625, 302.5144]
+Time axis (ms): 1737667681578
+POS: {v: 270.701, s: 29.4201, e: 69.1903, r: -15.1609, p: -13.8576}
+VEL: {v: -24.3185, s: -0.861431, e: 0.397237, r: -0.0893372, p: 0.0248946}
+Time EE pos(ms): 1737667681585
+EE pos = [265.9035, 900.4365, 301.0864]
+Time EE pos(ms): 1737667681591
+EE pos = [265.9035, 900.4365, 301.0864]
+Time EE pos(ms): 1737667681602
+EE pos = [265.9035, 900.4365, 301.0864]
+Time EE pos(ms): 1737667681612
+EE pos = [265.9035, 900.4365, 301.0864]
+Time EE pos(ms): 1737667681616
+EE pos = [265.9035, 900.4365, 301.0864]
+Time axis (ms): 1737667681617
+POS: {v: 269.261, s: 29.3704, e: 69.2127, r: -15.1667, p: -13.8536}
+VEL: {v: -24.1129, s: -0.961733, e: 0.51213, r: -0.119293, p: 0.0511682}
+Time EE pos(ms): 1737667681624
+EE pos = [266.3014, 900.1230, 299.9082]
+Time EE pos(ms): 1737667681632
+EE pos = [266.3014, 900.1230, 299.9082]
+Time EE pos(ms): 1737667681642
+EE pos = [266.3014, 900.1230, 299.9082]
+Time EE pos(ms): 1737667681651
+EE pos = [266.3014, 900.1230, 299.9082]
+Time EE pos(ms): 1737667681662
+EE pos = [266.3014, 900.1230, 299.9082]
+Time EE pos(ms): 1737667681663
+EE pos = [266.3014, 900.1230, 299.9082]
+Time axis (ms): 1737667681663
+POS: {v: 268.072, s: 29.3235, e: 69.2377, r: -15.1729, p: -13.8503}
+VEL: {v: -22.0229, s: -0.871059, e: 0.467706, r: -0.130115, p: 0.0519396}
+Time EE pos(ms): 1737667681671
+EE pos = [266.5510, 899.9267, 299.1566]
+Time EE pos(ms): 1737667681681
+EE pos = [266.5510, 899.9267, 299.1566]
+Time EE pos(ms): 1737667681691
+EE pos = [266.5510, 899.9267, 299.1566]
+Time EE pos(ms): 1737667681702
+EE pos = [266.5510, 899.9267, 299.1566]
+Time EE pos(ms): 1737667681704
+EE pos = [266.5510, 899.9267, 299.1566]
+Time axis (ms): 1737667681706
+POS: {v: 267.313, s: 29.294, e: 69.2534, r: -15.177, p: -13.8479}
+VEL: {v: -21.3969, s: -0.791628, e: 0.393861, r: -0.107959, p: 0.066853}
+Time EE pos(ms): 1737667681713
+EE pos = [266.9696, 899.6162, 297.8706]
+Time EE pos(ms): 1737667681721
+EE pos = [266.9696, 899.6162, 297.8706]
+Time EE pos(ms): 1737667681731
+EE pos = [266.9696, 899.6162, 297.8706]
+Time EE pos(ms): 1737667681741
+EE pos = [266.9696, 899.6162, 297.8706]
+Time EE pos(ms): 1737667681751
+EE pos = [266.9696, 899.6162, 297.8706]
+Time EE pos(ms): 1737667681761
+EE pos = [266.9696, 899.6162, 297.8706]
+Time EE pos(ms): 1737667681772
+EE pos = [266.9696, 899.6162, 297.8706]
+Time EE pos(ms): 1737667681781
+EE pos = [266.9696, 899.6162, 297.8706]
+Time EE pos(ms): 1737667681790
+EE pos = [266.9696, 899.6162, 297.8706]
+Time EE pos(ms): 1737667681801
+EE pos = [266.9696, 899.6162, 297.8706]
+Time EE pos(ms): 1737667681807
+EE pos = [266.9696, 899.6162, 297.8706]
+Time axis (ms): 1737667681809
+POS: {v: 266.014, s: 29.2469, e: 69.2761, r: -15.1831, p: -13.8435}
+VEL: {v: -22.1341, s: -0.747992, e: 0.358228, r: -0.117883, p: 0.0702424}
+Time EE pos(ms): 1737667681814
+EE pos = [267.6266, 899.1074, 295.8004]
+Time axis (ms): 1737667681815
+POS: {v: 263.918, s: 29.1699, e: 69.316, r: -15.1933, p: -13.8346}
+VEL: {v: -21.6553, s: -0.90106, e: 0.4879, r: -0.0819763, p: 0.0920046}
+Time EE pos(ms): 1737667681822
+EE pos = [267.6266, 899.1074, 295.8004]
+Time EE pos(ms): 1737667681823
+EE pos = [267.6266, 899.1074, 295.8004]
+Time EE pos(ms): 1737667681830
+EE pos = [267.6266, 899.1074, 295.8004]
+Time EE pos(ms): 1737667681841
+EE pos = [267.6266, 899.1074, 295.8004]
+Time EE pos(ms): 1737667681850
+EE pos = [267.6266, 899.1074, 295.8004]
+Time EE pos(ms): 1737667681860
+EE pos = [267.6266, 899.1074, 295.8004]
+Time EE pos(ms): 1737667681870
+EE pos = [267.6266, 899.1074, 295.8004]
+Time EE pos(ms): 1737667681872
+EE pos = [267.6266, 899.1074, 295.8004]
+Time axis (ms): 1737667681873
+POS: {v: 263.918, s: 29.1699, e: 69.316, r: -15.1933, p: -13.8346}
+VEL: {v: -21.6553, s: -0.90106, e: 0.4879, r: -0.0819763, p: 0.0920046}
+Time EE pos(ms): 1737667681880
+EE pos = [268.0155, 898.7947, 294.5912]
+Time EE pos(ms): 1737667681891
+EE pos = [268.0155, 898.7947, 294.5912]
+Time EE pos(ms): 1737667681900
+EE pos = [268.0155, 898.7947, 294.5912]
+Time EE pos(ms): 1737667681911
+EE pos = [268.0155, 898.7947, 294.5912]
+Time EE pos(ms): 1737667681914
+EE pos = [268.0155, 898.7947, 294.5912]
+Time axis (ms): 1737667681915
+POS: {v: 262.692, s: 29.1228, e: 69.3416, r: -15.1989, p: -13.829}
+VEL: {v: -22.8907, s: -0.854056, e: 0.432143, r: -0.113635, p: 0.114118}
+Time EE pos(ms): 1737667681921
+EE pos = [268.3562, 898.5351, 293.5585]
+Time EE pos(ms): 1737667681930
+EE pos = [268.3562, 898.5351, 293.5585]
+Time EE pos(ms): 1737667681941
+EE pos = [268.3562, 898.5351, 293.5585]
+Time EE pos(ms): 1737667681951
+EE pos = [268.3562, 898.5351, 293.5585]
+Time EE pos(ms): 1737667681961
+EE pos = [268.3562, 898.5351, 293.5585]
+Time EE pos(ms): 1737667681970
+EE pos = [268.3562, 898.5351, 293.5585]
+Time EE pos(ms): 1737667681980
+EE pos = [268.3562, 898.5351, 293.5585]
+Time EE pos(ms): 1737667681984
+EE pos = [268.3562, 898.5351, 293.5585]
+Time axis (ms): 1737667681985
+POS: {v: 261.645, s: 29.0834, e: 69.3614, r: -15.204, p: -13.824}
+VEL: {v: -21.5852, s: -0.798847, e: 0.370708, r: -0.120483, p: 0.106754}
+Time EE pos(ms): 1737667681992
+EE pos = [268.6875, 898.2898, 292.5031]
+Time EE pos(ms): 1737667682000
+EE pos = [268.6875, 898.2898, 292.5031]
+Time EE pos(ms): 1737667682011
+EE pos = [268.6875, 898.2898, 292.5031]
+Time EE pos(ms): 1737667682021
+EE pos = [268.6875, 898.2898, 292.5031]
+Time EE pos(ms): 1737667682027
+EE pos = [268.6875, 898.2898, 292.5031]
+Time axis (ms): 1737667682028
+POS: {v: 260.574, s: 29.0459, e: 69.3794, r: -15.209, p: -13.8186}
+VEL: {v: -22.613, s: -0.914024, e: 0.551579, r: -0.125189, p: 0.139269}
+Time EE pos(ms): 1737667682037
+EE pos = [269.1143, 897.9289, 291.1840]
+Time EE pos(ms): 1737667682040
+EE pos = [269.1143, 897.9289, 291.1840]
+Time EE pos(ms): 1737667682050
+EE pos = [269.1143, 897.9289, 291.1840]
+Time EE pos(ms): 1737667682060
+EE pos = [269.1143, 897.9289, 291.1840]
+Time EE pos(ms): 1737667682071
+EE pos = [269.1143, 897.9289, 291.1840]
+Time EE pos(ms): 1737667682081
+EE pos = [269.1143, 897.9289, 291.1840]
+Time EE pos(ms): 1737667682091
+EE pos = [269.1143, 897.9289, 291.1840]
+Time EE pos(ms): 1737667682101
+EE pos = [269.1143, 897.9289, 291.1840]
+Time EE pos(ms): 1737667682105
+EE pos = [269.1143, 897.9289, 291.1840]
+Time axis (ms): 1737667682106
+POS: {v: 259.231, s: 28.9916, e: 69.4113, r: -15.2169, p: -13.8104}
+VEL: {v: -23.6196, s: -0.946108, e: 0.523738, r: -0.115137, p: 0.134851}
+Time EE pos(ms): 1737667682112
+EE pos = [269.4672, 897.6510, 290.1338]
+Time EE pos(ms): 1737667682121
+EE pos = [269.4672, 897.6510, 290.1338]
+Time EE pos(ms): 1737667682132
+EE pos = [269.4672, 897.6510, 290.1338]
+Time EE pos(ms): 1737667682133
+EE pos = [269.4672, 897.6510, 290.1338]
+Time axis (ms): 1737667682134
+POS: {v: 258.164, s: 28.9495, e: 69.4334, r: -15.2221, p: -13.8043}
+VEL: {v: -23.7788, s: -0.883576, e: 0.444682, r: -0.101331, p: 0.161242}
+Time EE pos(ms): 1737667682142
+EE pos = [269.8793, 897.3423, 288.8559]
+Time EE pos(ms): 1737667682151
+EE pos = [269.8793, 897.3423, 288.8559]
+Time EE pos(ms): 1737667682161
+EE pos = [269.8793, 897.3423, 288.8559]
+Time EE pos(ms): 1737667682171
+EE pos = [269.8793, 897.3423, 288.8559]
+Time EE pos(ms): 1737667682175
+EE pos = [269.8793, 897.3423, 288.8559]
+Time axis (ms): 1737667682176
+POS: {v: 256.865, s: 28.9024, e: 69.4564, r: -15.2285, p: -13.7972}
+VEL: {v: -22.1358, s: -0.802789, e: 0.382104, r: -0.120319, p: 0.132748}
+Time EE pos(ms): 1737667682182
+EE pos = [270.2052, 897.0881, 287.8219]
+Time EE pos(ms): 1737667682191
+EE pos = [270.2052, 897.0881, 287.8219]
+Time EE pos(ms): 1737667682201
+EE pos = [270.2052, 897.0881, 287.8219]
+Time EE pos(ms): 1737667682211
+EE pos = [270.2052, 897.0881, 287.8219]
+Time EE pos(ms): 1737667682218
+EE pos = [270.2052, 897.0881, 287.8219]
+Time axis (ms): 1737667682219
+POS: {v: 255.813, s: 28.8637, e: 69.4766, r: -15.2342, p: -13.7907}
+VEL: {v: -21.6547, s: -0.860307, e: 0.475164, r: -0.113123, p: 0.165309}
+Time EE pos(ms): 1737667682226
+EE pos = [270.5271, 896.8345, 286.8455]
+Time EE pos(ms): 1737667682231
+EE pos = [270.5271, 896.8345, 286.8455]
+Time EE pos(ms): 1737667682241
+EE pos = [270.5271, 896.8345, 286.8455]
+Time EE pos(ms): 1737667682251
+EE pos = [270.5271, 896.8345, 286.8455]
+Time EE pos(ms): 1737667682252
+EE pos = [270.5271, 896.8345, 286.8455]
+Time axis (ms): 1737667682253
+POS: {v: 254.817, s: 28.8251, e: 69.497, r: -15.239, p: -13.7836}
+VEL: {v: -20.5297, s: -0.791155, e: 0.40007, r: -0.0776917, p: 0.144318}
+Time EE pos(ms): 1737667682261
+EE pos = [270.8083, 896.6158, 285.9599]
+Time EE pos(ms): 1737667682271
+EE pos = [270.8083, 896.6158, 285.9599]
+Time EE pos(ms): 1737667682281
+EE pos = [270.8083, 896.6158, 285.9599]
+Time EE pos(ms): 1737667682291
+EE pos = [270.8083, 896.6158, 285.9599]
+Time EE pos(ms): 1737667682301
+EE pos = [270.8083, 896.6158, 285.9599]
+Time EE pos(ms): 1737667682312
+EE pos = [270.8083, 896.6158, 285.9599]
+Time EE pos(ms): 1737667682313
+EE pos = [270.8083, 896.6158, 285.9599]
+Time axis (ms): 1737667682313
+POS: {v: 253.913, s: 28.7916, e: 69.5143, r: -15.2437, p: -13.7773}
+VEL: {v: -21.5502, s: -0.743789, e: 0.364602, r: -0.109497, p: 0.129195}
+Time EE pos(ms): 1737667682321
+EE pos = [271.2003, 896.3303, 284.7131]
+Time EE pos(ms): 1737667682332
+EE pos = [271.2003, 896.3303, 284.7131]
+Time EE pos(ms): 1737667682341
+EE pos = [271.2003, 896.3303, 284.7131]
+Time EE pos(ms): 1737667682342
+EE pos = [271.2003, 896.3303, 284.7131]
+Time axis (ms): 1737667682342
+POS: {v: 252.645, s: 28.7478, e: 69.5345, r: -15.2492, p: -13.7696}
+VEL: {v: -21.7471, s: -0.733442, e: 0.336336, r: -0.101605, p: 0.147988}
+Time EE pos(ms): 1737667682351
+EE pos = [271.4475, 896.1536, 283.9181]
+Time EE pos(ms): 1737667682361
+EE pos = [271.4475, 896.1536, 283.9181]
+Time EE pos(ms): 1737667682371
+EE pos = [271.4475, 896.1536, 283.9181]
+Time EE pos(ms): 1737667682381
+EE pos = [271.4475, 896.1536, 283.9181]
+Time EE pos(ms): 1737667682391
+EE pos = [271.4475, 896.1536, 283.9181]
+Time EE pos(ms): 1737667682401
+EE pos = [271.4475, 896.1536, 283.9181]
+Time EE pos(ms): 1737667682411
+EE pos = [271.4475, 896.1536, 283.9181]
+Time EE pos(ms): 1737667682422
+EE pos = [271.4475, 896.1536, 283.9181]
+Time EE pos(ms): 1737667682432
+EE pos = [271.4475, 896.1536, 283.9181]
+Time EE pos(ms): 1737667682434
+EE pos = [271.4475, 896.1536, 283.9181]
+Time axis (ms): 1737667682435
+POS: {v: 251.836, s: 28.7206, e: 69.5467, r: -15.2532, p: -13.7648}
+VEL: {v: -21.6882, s: -0.710103, e: 0.320276, r: -0.117499, p: 0.119681}
+Time EE pos(ms): 1737667682444
+EE pos = [271.7806, 895.8744, 282.8837]
+Time EE pos(ms): 1737667682451
+EE pos = [271.7806, 895.8744, 282.8837]
+Time EE pos(ms): 1737667682457
+EE pos = [271.7806, 895.8744, 282.8837]
+Time axis (ms): 1737667682458
+POS: {v: 250.781, s: 28.6785, e: 69.5707, r: -15.2589, p: -13.7576}
+VEL: {v: -18.7362, s: -0.846559, e: 0.510043, r: -0.112225, p: 0.140461}
+Time EE pos(ms): 1737667682464
+EE pos = [272.0633, 895.6315, 282.0466]
+Time EE pos(ms): 1737667682471
+EE pos = [272.0633, 895.6315, 282.0466]
+Time EE pos(ms): 1737667682481
+EE pos = [272.0633, 895.6315, 282.0466]
+Time EE pos(ms): 1737667682491
+EE pos = [272.0633, 895.6315, 282.0466]
+Time EE pos(ms): 1737667682501
+EE pos = [272.0633, 895.6315, 282.0466]
+Time EE pos(ms): 1737667682504
+EE pos = [272.0633, 895.6315, 282.0466]
+Time axis (ms): 1737667682505
+POS: {v: 249.928, s: 28.6422, e: 69.5922, r: -15.264, p: -13.7521}
+VEL: {v: -18.3715, s: -0.754206, e: 0.41211, r: -0.102045, p: 0.0881711}
+Time EE pos(ms): 1737667682511
+EE pos = [272.4392, 895.3344, 280.8946]
+Time EE pos(ms): 1737667682521
+EE pos = [272.4392, 895.3344, 280.8946]
+Time EE pos(ms): 1737667682531
+EE pos = [272.4392, 895.3344, 280.8946]
+Time EE pos(ms): 1737667682542
+EE pos = [272.4392, 895.3344, 280.8946]
+Time EE pos(ms): 1737667682551
+EE pos = [272.4392, 895.3344, 280.8946]
+Time EE pos(ms): 1737667682555
+EE pos = [272.4392, 895.3344, 280.8946]
+Time axis (ms): 1737667682556
+POS: {v: 248.756, s: 28.5973, e: 69.6157, r: -15.2702, p: -13.745}
+VEL: {v: -20.979, s: -0.765443, e: 0.375483, r: -0.100031, p: 0.13394}
+Time EE pos(ms): 1737667682561
+EE pos = [272.7467, 895.1024, 279.9245]
+Time EE pos(ms): 1737667682571
+EE pos = [272.7467, 895.1024, 279.9245]
+Time EE pos(ms): 1737667682581
+EE pos = [272.7467, 895.1024, 279.9245]
+Time EE pos(ms): 1737667682591
+EE pos = [272.7467, 895.1024, 279.9245]
+Time EE pos(ms): 1737667682602
+EE pos = [272.7467, 895.1024, 279.9245]
+Time EE pos(ms): 1737667682611
+EE pos = [272.7467, 895.1024, 279.9245]
+Time EE pos(ms): 1737667682621
+EE pos = [272.7467, 895.1024, 279.9245]
+Time EE pos(ms): 1737667682631
+EE pos = [272.7467, 895.1024, 279.9245]
+Time EE pos(ms): 1737667682633
+EE pos = [272.7467, 895.1024, 279.9245]
+Time axis (ms): 1737667682634
+POS: {v: 247.77, s: 28.562, e: 69.6329, r: -15.2755, p: -13.7395}
+VEL: {v: -18.2005, s: -0.654611, e: 0.309305, r: -0.101642, p: 0.15673}
+Time EE pos(ms): 1737667682641
+EE pos = [273.1611, 894.8004, 278.5747]
+Time EE pos(ms): 1737667682646
+EE pos = [273.1611, 894.8004, 278.5747]
+Time axis (ms): 1737667682646
+POS: {v: 246.398, s: 28.5159, e: 69.6539, r: -15.2822, p: -13.732}
+VEL: {v: -19.2957, s: -0.612518, e: 0.269769, r: -0.0809143, p: 0.0532253}
+Time EE pos(ms): 1737667682653
+EE pos = [273.3371, 894.6707, 277.9769]
+Time EE pos(ms): 1737667682661
+EE pos = [273.3371, 894.6707, 277.9769]
+Time EE pos(ms): 1737667682671
+EE pos = [273.3371, 894.6707, 277.9769]
+Time EE pos(ms): 1737667682681
+EE pos = [273.3371, 894.6707, 277.9769]
+Time EE pos(ms): 1737667682691
+EE pos = [273.3371, 894.6707, 277.9769]
+Time EE pos(ms): 1737667682701
+EE pos = [273.3371, 894.6707, 277.9769]
+Time EE pos(ms): 1737667682706
+EE pos = [273.3371, 894.6707, 277.9769]
+Time axis (ms): 1737667682707
+POS: {v: 245.791, s: 28.4961, e: 69.6632, r: -15.2854, p: -13.7287}
+VEL: {v: -17.7371, s: -0.630243, e: 0.331554, r: -0.0740295, p: 0.0300137}
+Time EE pos(ms): 1737667682712
+EE pos = [273.6040, 894.4686, 277.1496]
+Time EE pos(ms): 1737667682721
+EE pos = [273.6040, 894.4686, 277.1496]
+Time EE pos(ms): 1737667682731
+EE pos = [273.6040, 894.4686, 277.1496]
+Time EE pos(ms): 1737667682741
+EE pos = [273.6040, 894.4686, 277.1496]
+Time EE pos(ms): 1737667682749
+EE pos = [273.6040, 894.4686, 277.1496]
+Time axis (ms): 1737667682750
+POS: {v: 244.953, s: 28.4657, e: 69.6777, r: -15.2888, p: -13.7251}
+VEL: {v: -16.4494, s: -0.586855, e: 0.287248, r: -0.0634827, p: 0.0709436}
+Time EE pos(ms): 1737667682756
+EE pos = [273.8489, 894.2843, 276.3694]
+Time EE pos(ms): 1737667682761
+EE pos = [273.8489, 894.2843, 276.3694]
+Time EE pos(ms): 1737667682772
+EE pos = [273.8489, 894.2843, 276.3694]
+Time EE pos(ms): 1737667682781
+EE pos = [273.8489, 894.2843, 276.3694]
+Time EE pos(ms): 1737667682791
+EE pos = [273.8489, 894.2843, 276.3694]
+Time EE pos(ms): 1737667682801
+EE pos = [273.8489, 894.2843, 276.3694]
+Time EE pos(ms): 1737667682811
+EE pos = [273.8489, 894.2843, 276.3694]
+Time EE pos(ms): 1737667682813
+EE pos = [273.8489, 894.2843, 276.3694]
+Time axis (ms): 1737667682815
+POS: {v: 244.163, s: 28.4379, e: 69.6909, r: -15.2919, p: -13.7214}
+VEL: {v: -16.5844, s: -0.572132, e: 0.245649, r: -0.0736816, p: 0.0919579}
+Time EE pos(ms): 1737667682823
+EE pos = [274.1511, 894.0669, 275.4126]
+Time EE pos(ms): 1737667682831
+EE pos = [274.1511, 894.0669, 275.4126]
+Time EE pos(ms): 1737667682841
+EE pos = [274.1511, 894.0669, 275.4126]
+Time EE pos(ms): 1737667682850
+EE pos = [274.1511, 894.0669, 275.4126]
+Time EE pos(ms): 1737667682861
+EE pos = [274.1511, 894.0669, 275.4126]
+Time EE pos(ms): 1737667682862
+EE pos = [274.1511, 894.0669, 275.4126]
+Time axis (ms): 1737667682863
+POS: {v: 243.192, s: 28.4048, e: 69.7054, r: -15.2965, p: -13.7168}
+VEL: {v: -15.1625, s: -0.525004, e: 0.21885, r: -0.0708069, p: 0.070967}
+Time EE pos(ms): 1737667682872
+EE pos = [274.3788, 893.9042, 274.6495]
+Time EE pos(ms): 1737667682880
+EE pos = [274.3788, 893.9042, 274.6495]
+Time EE pos(ms): 1737667682890
+EE pos = [274.3788, 893.9042, 274.6495]
+Time EE pos(ms): 1737667682901
+EE pos = [274.3788, 893.9042, 274.6495]
+Time EE pos(ms): 1737667682911
+EE pos = [274.3788, 893.9042, 274.6495]
+Time EE pos(ms): 1737667682921
+EE pos = [274.3788, 893.9042, 274.6495]
+Time EE pos(ms): 1737667682930
+EE pos = [274.3788, 893.9042, 274.6495]
+Time EE pos(ms): 1737667682932
+EE pos = [274.3788, 893.9042, 274.6495]
+Time axis (ms): 1737667682934
+POS: {v: 242.418, s: 28.3799, e: 69.7163, r: -15.3001, p: -13.7127}
+VEL: {v: -14.9957, s: -0.580059, e: 0.371239, r: -0.0565796, p: 0.0721358}
+Time EE pos(ms): 1737667682941
+EE pos = [274.5714, 893.7367, 274.0661]
+Time EE pos(ms): 1737667682950
+EE pos = [274.5714, 893.7367, 274.0661]
+Time EE pos(ms): 1737667682959
+EE pos = [274.5714, 893.7367, 274.0661]
+Time axis (ms): 1737667682960
+POS: {v: 241.826, s: 28.3552, e: 69.7307, r: -15.3023, p: -13.7098}
+VEL: {v: -15.7154, s: -0.692275, e: 0.405544, r: -0.056012, p: 0.0715046}
+Time EE pos(ms): 1737667682967
+EE pos = [274.8772, 893.4810, 273.2265]
+Time EE pos(ms): 1737667682970
+EE pos = [274.8772, 893.4810, 273.2265]
+Time EE pos(ms): 1737667682981
+EE pos = [274.8772, 893.4810, 273.2265]
+Time EE pos(ms): 1737667682990
+EE pos = [274.8772, 893.4810, 273.2265]
+Time EE pos(ms): 1737667683001
+EE pos = [274.8772, 893.4810, 273.2265]
+Time EE pos(ms): 1737667683010
+EE pos = [274.8772, 893.4810, 273.2265]
+Time EE pos(ms): 1737667683017
+EE pos = [274.8772, 893.4810, 273.2265]
+Time axis (ms): 1737667683018
+POS: {v: 240.975, s: 28.3173, e: 69.7516, r: -15.3054, p: -13.7056}
+VEL: {v: -14.2465, s: -0.579859, e: 0.294926, r: -0.0602966, p: 0.0604716}
+Time EE pos(ms): 1737667683023
+EE pos = [275.1620, 893.2530, 272.3276]
+Time EE pos(ms): 1737667683030
+EE pos = [275.1620, 893.2530, 272.3276]
+Time EE pos(ms): 1737667683040
+EE pos = [275.1620, 893.2530, 272.3276]
+Time EE pos(ms): 1737667683050
+EE pos = [275.1620, 893.2530, 272.3276]
+Time EE pos(ms): 1737667683058
+EE pos = [275.1620, 893.2530, 272.3276]
+Time axis (ms): 1737667683059
+POS: {v: 240.063, s: 28.2832, e: 69.7693, r: -15.3092, p: -13.701}
+VEL: {v: -14.2285, s: -0.530287, e: 0.245095, r: -0.0630066, p: 0.0800599}
+Time EE pos(ms): 1737667683064
+EE pos = [275.3097, 893.1389, 271.8692]
+Time EE pos(ms): 1737667683070
+EE pos = [275.3097, 893.1389, 271.8692]
+Time EE pos(ms): 1737667683080
+EE pos = [275.3097, 893.1389, 271.8692]
+Time EE pos(ms): 1737667683090
+EE pos = [275.3097, 893.1389, 271.8692]
+Time EE pos(ms): 1737667683100
+EE pos = [275.3097, 893.1389, 271.8692]
+Time EE pos(ms): 1737667683110
+EE pos = [275.3097, 893.1389, 271.8692]
+Time EE pos(ms): 1737667683121
+EE pos = [275.3097, 893.1389, 271.8692]
+Time EE pos(ms): 1737667683124
+EE pos = [275.3097, 893.1389, 271.8692]
+Time axis (ms): 1737667683125
+POS: {v: 239.597, s: 28.2661, e: 69.7778, r: -15.3113, p: -13.6986}
+VEL: {v: -13.3498, s: -0.549129, e: 0.327947, r: -0.066687, p: 0.0399014}
+Time EE pos(ms): 1737667683132
+EE pos = [275.6022, 892.8869, 271.0094]
+Time EE pos(ms): 1737667683141
+EE pos = [275.6022, 892.8869, 271.0094]
+Time EE pos(ms): 1737667683150
+EE pos = [275.6022, 892.8869, 271.0094]
+Time EE pos(ms): 1737667683160
+EE pos = [275.6022, 892.8869, 271.0094]
+Time EE pos(ms): 1737667683168
+EE pos = [275.6022, 892.8869, 271.0094]
+Time axis (ms): 1737667683169
+POS: {v: 238.73, s: 28.2293, e: 69.799, r: -15.3168, p: -13.6964}
+VEL: {v: -12.1425, s: -0.501707, e: 0.275416, r: -0.0876709, p: 0.0186534}
+Time EE pos(ms): 1737667683175
+EE pos = [275.7241, 892.7837, 270.6182]
+Time EE pos(ms): 1737667683180
+EE pos = [275.7241, 892.7837, 270.6182]
+Time EE pos(ms): 1737667683190
+EE pos = [275.7241, 892.7837, 270.6182]
+Time EE pos(ms): 1737667683200
+EE pos = [275.7241, 892.7837, 270.6182]
+Time EE pos(ms): 1737667683210
+EE pos = [275.7241, 892.7837, 270.6182]
+Time EE pos(ms): 1737667683221
+EE pos = [275.7241, 892.7837, 270.6182]
+Time EE pos(ms): 1737667683224
+EE pos = [275.7241, 892.7837, 270.6182]
+Time axis (ms): 1737667683225
+POS: {v: 238.334, s: 28.2141, e: 69.8077, r: -15.3199, p: -13.695}
+VEL: {v: -11.9522, s: -0.443309, e: 0.239574, r: -0.077417, p: 0.0409767}
+Time EE pos(ms): 1737667683230
+EE pos = [275.9278, 892.6218, 269.9685]
+Time EE pos(ms): 1737667683240
+EE pos = [275.9278, 892.6218, 269.9685]
+Time EE pos(ms): 1737667683251
+EE pos = [275.9278, 892.6218, 269.9685]
+Time EE pos(ms): 1737667683261
+EE pos = [275.9278, 892.6218, 269.9685]
+Time EE pos(ms): 1737667683265
+EE pos = [275.9278, 892.6218, 269.9685]
+Time axis (ms): 1737667683266
+POS: {v: 237.677, s: 28.19, e: 69.8201, r: -15.3235, p: -13.6924}
+VEL: {v: -12.1922, s: -0.419011, e: 0.211706, r: -0.052478, p: 0.0615936}
+Time EE pos(ms): 1737667683276
+EE pos = [276.1114, 892.4826, 269.3755]
+Time EE pos(ms): 1737667683281
+EE pos = [276.1114, 892.4826, 269.3755]
+Time EE pos(ms): 1737667683291
+EE pos = [276.1114, 892.4826, 269.3755]
+Time EE pos(ms): 1737667683301
+EE pos = [276.1114, 892.4826, 269.3755]
+Time EE pos(ms): 1737667683312
+EE pos = [276.1114, 892.4826, 269.3755]
+Time EE pos(ms): 1737667683322
+EE pos = [276.1114, 892.4826, 269.3755]
+Time EE pos(ms): 1737667683323
+EE pos = [276.1114, 892.4826, 269.3755]
+Time axis (ms): 1737667683324
+POS: {v: 237.076, s: 28.1691, e: 69.8301, r: -15.3267, p: -13.6899}
+VEL: {v: -10.2219, s: -0.415021, e: 0.298726, r: -0.0630798, p: 0.0801067}
+Time EE pos(ms): 1737667683331
+EE pos = [276.2952, 892.3024, 268.8127]
+Time EE pos(ms): 1737667683341
+EE pos = [276.2952, 892.3024, 268.8127]
+Time EE pos(ms): 1737667683350
+EE pos = [276.2952, 892.3024, 268.8127]
+Time EE pos(ms): 1737667683361
+EE pos = [276.2952, 892.3024, 268.8127]
+Time EE pos(ms): 1737667683367
+EE pos = [276.2952, 892.3024, 268.8127]
+Time axis (ms): 1737667683368
+POS: {v: 236.504, s: 28.1429, e: 69.8477, r: -15.3304, p: -13.6867}
+VEL: {v: -10.2839, s: -0.481515, e: 0.285523, r: -0.0717041, p: 0.0102617}
+Time EE pos(ms): 1737667683375
+EE pos = [276.4251, 892.1891, 268.4585]
+Time EE pos(ms): 1737667683380
+EE pos = [276.4251, 892.1891, 268.4585]
+Time EE pos(ms): 1737667683391
+EE pos = [276.4251, 892.1891, 268.4585]
+Time EE pos(ms): 1737667683401
+EE pos = [276.4251, 892.1891, 268.4585]
+Time EE pos(ms): 1737667683410
+EE pos = [276.4251, 892.1891, 268.4585]
+Time EE pos(ms): 1737667683414
+EE pos = [276.4251, 892.1891, 268.4585]
+Time axis (ms): 1737667683415
+POS: {v: 236.144, s: 28.1262, e: 69.8575, r: -15.3328, p: -13.6847}
+VEL: {v: -9.51447, s: -0.406549, e: 0.229377, r: -0.0559204, p: 0.032772}
+Time EE pos(ms): 1737667683423
+EE pos = [276.6051, 892.0348, 267.8999]
+Time EE pos(ms): 1737667683430
+EE pos = [276.6051, 892.0348, 267.8999]
+Time EE pos(ms): 1737667683441
+EE pos = [276.6051, 892.0348, 267.8999]
+Time EE pos(ms): 1737667683450
+EE pos = [276.6051, 892.0348, 267.8999]
+Time EE pos(ms): 1737667683461
+EE pos = [276.6051, 892.0348, 267.8999]
+Time EE pos(ms): 1737667683462
+EE pos = [276.6051, 892.0348, 267.8999]
+Time axis (ms): 1737667683463
+POS: {v: 235.577, s: 28.1033, e: 69.8706, r: -15.336, p: -13.6816}
+VEL: {v: -9.08379, s: -0.355988, e: 0.196636, r: -0.0529358, p: 0.0402988}
+Time EE pos(ms): 1737667683473
+EE pos = [276.7525, 891.9138, 267.4383]
+Time EE pos(ms): 1737667683480
+EE pos = [276.7525, 891.9138, 267.4383]
+Time EE pos(ms): 1737667683490
+EE pos = [276.7525, 891.9138, 267.4383]
+Time EE pos(ms): 1737667683501
+EE pos = [276.7525, 891.9138, 267.4383]
+Time EE pos(ms): 1737667683511
+EE pos = [276.7525, 891.9138, 267.4383]
+Time EE pos(ms): 1737667683521
+EE pos = [276.7525, 891.9138, 267.4383]
+Time EE pos(ms): 1737667683531
+EE pos = [276.7525, 891.9138, 267.4383]
+Time EE pos(ms): 1737667683540
+EE pos = [276.7525, 891.9138, 267.4383]
+Time EE pos(ms): 1737667683542
+EE pos = [276.7525, 891.9138, 267.4383]
+Time axis (ms): 1737667683543
+POS: {v: 235.107, s: 28.0853, e: 69.8804, r: -15.3385, p: -13.6789}
+VEL: {v: -8.10883, s: -0.373824, e: 0.229617, r: -0.0272461, p: 0.0210376}
+Time EE pos(ms): 1737667683550
+EE pos = [276.9020, 891.7726, 266.9951]
+Time EE pos(ms): 1737667683560
+EE pos = [276.9020, 891.7726, 266.9951]
+Time EE pos(ms): 1737667683562
+EE pos = [276.9020, 891.7726, 266.9951]
+Time axis (ms): 1737667683563
+POS: {v: 234.655, s: 28.0645, e: 69.8936, r: -15.3402, p: -13.6757}
+VEL: {v: -7.91489, s: -0.351289, e: 0.217922, r: -0.0219177, p: 0.0812053}
+Time EE pos(ms): 1737667683571
+EE pos = [276.9937, 891.6859, 266.7096]
+Time EE pos(ms): 1737667683580
+EE pos = [276.9937, 891.6859, 266.7096]
+Time EE pos(ms): 1737667683591
+EE pos = [276.9937, 891.6859, 266.7096]
+Time EE pos(ms): 1737667683600
+EE pos = [276.9937, 891.6859, 266.7096]
+Time EE pos(ms): 1737667683610
+EE pos = [276.9937, 891.6859, 266.7096]
+Time EE pos(ms): 1737667683620
+EE pos = [276.9937, 891.6859, 266.7096]
+Time EE pos(ms): 1737667683630
+EE pos = [276.9937, 891.6859, 266.7096]
+Time EE pos(ms): 1737667683635
+EE pos = [276.9937, 891.6859, 266.7096]
+Time axis (ms): 1737667683636
+POS: {v: 234.364, s: 28.0517, e: 69.9018, r: -15.3409, p: -13.6735}
+VEL: {v: -7.12563, s: -0.314221, e: 0.170823, r: -0.0209839, p: 0.0259231}
+Time EE pos(ms): 1737667683641
+EE pos = [277.1533, 891.5495, 266.2064]
+Time EE pos(ms): 1737667683651
+EE pos = [277.1533, 891.5495, 266.2064]
+Time EE pos(ms): 1737667683660
+EE pos = [277.1533, 891.5495, 266.2064]
+Time EE pos(ms): 1737667683671
+EE pos = [277.1533, 891.5495, 266.2064]
+Time EE pos(ms): 1737667683677
+EE pos = [277.1533, 891.5495, 266.2064]
+Time axis (ms): 1737667683678
+POS: {v: 233.851, s: 28.0314, e: 69.9132, r: -15.3423, p: -13.6701}
+VEL: {v: -6.91673, s: -0.231972, e: 0.121345, r: -0.0236206, p: 0.0620143}
+Time EE pos(ms): 1737667683684
+EE pos = [277.2264, 891.4869, 265.9594]
+Time EE pos(ms): 1737667683691
+EE pos = [277.2264, 891.4869, 265.9594]
+Time EE pos(ms): 1737667683701
+EE pos = [277.2264, 891.4869, 265.9594]
+Time EE pos(ms): 1737667683711
+EE pos = [277.2264, 891.4869, 265.9594]
+Time EE pos(ms): 1737667683718
+EE pos = [277.2264, 891.4869, 265.9594]
+Time axis (ms): 1737667683719
+POS: {v: 233.6, s: 28.0221, e: 69.9185, r: -15.3436, p: -13.6688}
+VEL: {v: -5.88554, s: -0.226526, e: 0.187142, r: -0.0878906, p: 0.00072463}
+Time EE pos(ms): 1737667683726
+EE pos = [277.3072, 891.4044, 265.6883]
+Time EE pos(ms): 1737667683731
+EE pos = [277.3072, 891.4044, 265.6883]
+Time EE pos(ms): 1737667683741
+EE pos = [277.3072, 891.4044, 265.6883]
+Time EE pos(ms): 1737667683750
+EE pos = [277.3072, 891.4044, 265.6883]
+Time EE pos(ms): 1737667683760
+EE pos = [277.3072, 891.4044, 265.6883]
+Time EE pos(ms): 1737667683761
+EE pos = [277.3072, 891.4044, 265.6883]
+Time axis (ms): 1737667683762
+POS: {v: 233.332, s: 28.0108, e: 69.9271, r: -15.3523, p: -13.6707}
+VEL: {v: -5.38857, s: -0.202886, e: 0.142938, r: -0.170947, p: -0.0742629}
+Time EE pos(ms): 1737667683771
+EE pos = [277.3673, 891.3463, 265.4461]
+Time EE pos(ms): 1737667683781
+EE pos = [277.3673, 891.3463, 265.4461]
+Time EE pos(ms): 1737667683790
+EE pos = [277.3673, 891.3463, 265.4461]
+Time EE pos(ms): 1737667683800
+EE pos = [277.3673, 891.3463, 265.4461]
+Time EE pos(ms): 1737667683807
+EE pos = [277.3673, 891.3463, 265.4461]
+Time axis (ms): 1737667683808
+POS: {v: 233.094, s: 28.0029, e: 69.9327, r: -15.3582, p: -13.6731}
+VEL: {v: -4.91371, s: -0.172248, e: 0.123098, r: -0.120337, p: -0.034081}
+Time EE pos(ms): 1737667683813
+EE pos = [277.4315, 891.2878, 265.2187]
+Time EE pos(ms): 1737667683820
+EE pos = [277.4315, 891.2878, 265.2187]
+Time EE pos(ms): 1737667683830
+EE pos = [277.4315, 891.2878, 265.2187]
+Time EE pos(ms): 1737667683840
+EE pos = [277.4315, 891.2878, 265.2187]
+Time EE pos(ms): 1737667683850
+EE pos = [277.4315, 891.2878, 265.2187]
+Time EE pos(ms): 1737667683861
+EE pos = [277.4315, 891.2878, 265.2187]
+Time EE pos(ms): 1737667683870
+EE pos = [277.4315, 891.2878, 265.2187]
+Time EE pos(ms): 1737667683882
+EE pos = [277.5134, 891.2195, 264.9350]
+Time EE pos(ms): 1737667683884
+EE pos = [277.5134, 891.2195, 264.9350]
+Time axis (ms): 1737667683884
+POS: {v: 232.585, s: 27.985, e: 69.9436, r: -15.3659, p: -13.6745}
+VEL: {v: -4.23653, s: -0.22759, e: 0.137476, r: -0.0233276, p: 0}
+Time EE pos(ms): 1737667683890
+EE pos = [277.5134, 891.2195, 264.9350]
+Time EE pos(ms): 1737667683900
+EE pos = [277.5134, 891.2195, 264.9350]
+Time EE pos(ms): 1737667683910
+EE pos = [277.5134, 891.2195, 264.9350]
+Time EE pos(ms): 1737667683920
+EE pos = [277.5134, 891.2195, 264.9350]
+Time EE pos(ms): 1737667683930
+EE pos = [277.5134, 891.2195, 264.9350]
+Time EE pos(ms): 1737667683941
+EE pos = [277.5134, 891.2195, 264.9350]
+Time EE pos(ms): 1737667683942
+EE pos = [277.5134, 891.2195, 264.9350]
+Time axis (ms): 1737667683942
+POS: {v: 232.585, s: 27.985, e: 69.9436, r: -15.3659, p: -13.6745}
+VEL: {v: -4.23653, s: -0.22759, e: 0.137476, r: -0.0233276, p: 0}
+Time EE pos(ms): 1737667683950
+EE pos = [277.6002, 891.1388, 264.7356]
+Time EE pos(ms): 1737667683960
+EE pos = [277.6002, 891.1388, 264.7356]
+Time EE pos(ms): 1737667683970
+EE pos = [277.6002, 891.1388, 264.7356]
+Time EE pos(ms): 1737667683980
+EE pos = [277.6002, 891.1388, 264.7356]
+Time EE pos(ms): 1737667683981
+EE pos = [277.6002, 891.1388, 264.7356]
+Time axis (ms): 1737667683983
+POS: {v: 232.383, s: 27.9733, e: 69.9507, r: -15.3662, p: -13.6738}
+VEL: {v: -4.53087, s: -0.229471, e: 0.135095, r: 0.0271729, p: 0.0557965}
+Time EE pos(ms): 1737667683990
+EE pos = [277.6786, 891.0678, 264.5226]
+Time EE pos(ms): 1737667684000
+EE pos = [277.6786, 891.0678, 264.5226]
+Time EE pos(ms): 1737667684011
+EE pos = [277.6786, 891.0678, 264.5226]
+Time EE pos(ms): 1737667684013
+EE pos = [277.6786, 891.0678, 264.5226]
+Time axis (ms): 1737667684014
+POS: {v: 232.165, s: 27.9627, e: 69.9568, r: -15.3647, p: -13.6716}
+VEL: {v: -4.40407, s: -0.215004, e: 0.110535, r: 0.0705872, p: 0.0499527}
+Time EE pos(ms): 1737667684021
+EE pos = [277.7537, 891.0026, 264.3067]
+Time EE pos(ms): 1737667684031
+EE pos = [277.7537, 891.0026, 264.3067]
+Time EE pos(ms): 1737667684041
+EE pos = [277.7537, 891.0026, 264.3067]
+Time EE pos(ms): 1737667684050
+EE pos = [277.7537, 891.0026, 264.3067]
+Time EE pos(ms): 1737667684062
+EE pos = [277.7537, 891.0026, 264.3067]
+Time EE pos(ms): 1737667684067
+EE pos = [277.7537, 891.0026, 264.3067]
+Time axis (ms): 1737667684068
+POS: {v: 231.945, s: 27.9531, e: 69.9618, r: -15.3611, p: -13.6699}
+VEL: {v: -4.41528, s: -0.185828, e: 0.0910522, r: 0.120721, p: 0.0155912}
+Time EE pos(ms): 1737667684073
+EE pos = [277.8383, 890.9295, 264.0361]
+Time EE pos(ms): 1737667684081
+EE pos = [277.8383, 890.9295, 264.0361]
+Time EE pos(ms): 1737667684091
+EE pos = [277.8383, 890.9295, 264.0361]
+Time EE pos(ms): 1737667684101
+EE pos = [277.8383, 890.9295, 264.0361]
+Time EE pos(ms): 1737667684111
+EE pos = [277.8383, 890.9295, 264.0361]
+Time EE pos(ms): 1737667684121
+EE pos = [277.8383, 890.9295, 264.0361]
+Time EE pos(ms): 1737667684131
+EE pos = [277.8383, 890.9295, 264.0361]
+Time EE pos(ms): 1737667684142
+EE pos = [277.8383, 890.9295, 264.0361]
+Time EE pos(ms): 1737667684145
+EE pos = [277.8383, 890.9295, 264.0361]
+Time axis (ms): 1737667684146
+POS: {v: 231.673, s: 27.9424, e: 69.9671, r: -15.3554, p: -13.6685}
+VEL: {v: -4.00391, s: -0.17674, e: 0.123208, r: 0.0427002, p: 2.33752e-05}
+Time EE pos(ms): 1737667684152
+EE pos = [277.8843, 890.8787, 263.8617]
+Time EE pos(ms): 1737667684161
+EE pos = [277.8843, 890.8787, 263.8617]
+Time EE pos(ms): 1737667684172
+EE pos = [277.8843, 890.8787, 263.8617]
+Time EE pos(ms): 1737667684181
+EE pos = [277.8843, 890.8787, 263.8617]
+Time EE pos(ms): 1737667684183
+EE pos = [277.8843, 890.8787, 263.8617]
+Time axis (ms): 1737667684184
+POS: {v: 231.499, s: 27.9353, e: 69.9721, r: -15.355, p: -13.6688}
+VEL: {v: -4.20067, s: -0.173372, e: 0.118257, r: -0.0236755, p: 0.0239362}
+Time EE pos(ms): 1737667684191
+EE pos = [277.9407, 890.8242, 263.6663]
+Time EE pos(ms): 1737667684201
+EE pos = [277.9407, 890.8242, 263.6663]
+Time EE pos(ms): 1737667684211
+EE pos = [277.9407, 890.8242, 263.6663]
+Time EE pos(ms): 1737667684221
+EE pos = [277.9407, 890.8242, 263.6663]
+Time EE pos(ms): 1737667684231
+EE pos = [277.9407, 890.8242, 263.6663]
+Time EE pos(ms): 1737667684233
+EE pos = [277.9407, 890.8242, 263.6663]
+Time axis (ms): 1737667684234
+POS: {v: 231.308, s: 27.9279, e: 69.9769, r: -15.3564, p: -13.6705}
+VEL: {v: -4.23378, s: -0.149374, e: 0.0959445, r: -0.0524597, p: -0.0378911}
+Time EE pos(ms): 1737667684241
+EE pos = [278.0120, 890.7655, 263.4314]
+Time EE pos(ms): 1737667684251
+EE pos = [278.0120, 890.7655, 263.4314]
+Time EE pos(ms): 1737667684261
+EE pos = [278.0120, 890.7655, 263.4314]
+Time EE pos(ms): 1737667684271
+EE pos = [278.0120, 890.7655, 263.4314]
+Time EE pos(ms): 1737667684275
+EE pos = [278.0120, 890.7655, 263.4314]
+Time axis (ms): 1737667684276
+POS: {v: 231.075, s: 27.9196, e: 69.9816, r: -15.3605, p: -13.6716}
+VEL: {v: -4.12209, s: -0.141125, e: 0.0759429, r: -0.155603, p: -0.0314162}
+Time EE pos(ms): 1737667684281
+EE pos = [278.0749, 890.7183, 263.2347]
+Time EE pos(ms): 1737667684291
+EE pos = [278.0749, 890.7183, 263.2347]
+Time EE pos(ms): 1737667684301
+EE pos = [278.0749, 890.7183, 263.2347]
+Time EE pos(ms): 1737667684305
+EE pos = [278.0749, 890.7183, 263.2347]
+Time axis (ms): 1737667684306
+POS: {v: 230.876, s: 27.9127, e: 69.9853, r: -15.3661, p: -13.6715}
+VEL: {v: -4.24637, s: -0.213551, e: 0.118995, r: -0.0198853, p: 0.0630428}
+Time EE pos(ms): 1737667684312
+EE pos = [278.1531, 890.6522, 263.0266]
+Time EE pos(ms): 1737667684322
+EE pos = [278.1531, 890.6522, 263.0266]
+Time EE pos(ms): 1737667684332
+EE pos = [278.1531, 890.6522, 263.0266]
+Time EE pos(ms): 1737667684341
+EE pos = [278.1531, 890.6522, 263.0266]
+Time EE pos(ms): 1737667684351
+EE pos = [278.1531, 890.6522, 263.0266]
+Time EE pos(ms): 1737667684361
+EE pos = [278.1531, 890.6522, 263.0266]
+Time EE pos(ms): 1737667684371
+EE pos = [278.1531, 890.6522, 263.0266]
+Time EE pos(ms): 1737667684381
+EE pos = [278.1531, 890.6522, 263.0266]
+Time EE pos(ms): 1737667684382
+EE pos = [278.1531, 890.6522, 263.0266]
+Time axis (ms): 1737667684383
+POS: {v: 230.66, s: 27.9025, e: 69.991, r: -15.3669, p: -13.6683}
+VEL: {v: -3.79402, s: -0.172784, e: 0.0823992, r: 0.00228882, p: 0.0608923}
+Time EE pos(ms): 1737667684391
+EE pos = [278.2040, 890.6122, 262.8844]
+Time EE pos(ms): 1737667684399
+EE pos = [278.2040, 890.6122, 262.8844]
+Time axis (ms): 1737667684400
+POS: {v: 230.509, s: 27.8961, e: 69.9943, r: -15.3667, p: -13.6651}
+VEL: {v: -3.68919, s: -0.154024, e: 0.0697028, r: -0.00113525, p: 0.0730708}
+Time EE pos(ms): 1737667684407
+EE pos = [278.2777, 890.5530, 262.6665]
+Time EE pos(ms): 1737667684410
+EE pos = [278.2777, 890.5530, 262.6665]
+Time EE pos(ms): 1737667684422
+EE pos = [278.2777, 890.5530, 262.6665]
+Time EE pos(ms): 1737667684431
+EE pos = [278.2777, 890.5530, 262.6665]
+Time EE pos(ms): 1737667684441
+EE pos = [278.2777, 890.5530, 262.6665]
+Time EE pos(ms): 1737667684451
+EE pos = [278.2777, 890.5530, 262.6665]
+Time EE pos(ms): 1737667684461
+EE pos = [278.2777, 890.5530, 262.6665]
+Time EE pos(ms): 1737667684463
+EE pos = [278.2777, 890.5530, 262.6665]
+Time axis (ms): 1737667684465
+POS: {v: 230.285, s: 27.8871, e: 69.9988, r: -15.3657, p: -13.6626}
+VEL: {v: -3.12813, s: -0.124255, e: 0.0637023, r: 0.0234009, p: 0.0334732}
+Time EE pos(ms): 1737667684472
+EE pos = [278.3254, 890.5156, 262.5130]
+Time EE pos(ms): 1737667684481
+EE pos = [278.3254, 890.5156, 262.5130]
+Time EE pos(ms): 1737667684491
+EE pos = [278.3254, 890.5156, 262.5130]
+Time EE pos(ms): 1737667684501
+EE pos = [278.3254, 890.5156, 262.5130]
+Time EE pos(ms): 1737667684503
+EE pos = [278.3254, 890.5156, 262.5130]
+Time axis (ms): 1737667684504
+POS: {v: 230.128, s: 27.8813, e: 70.0015, r: -15.3651, p: -13.6611}
+VEL: {v: -3.10852, s: -0.117952, e: 0.0540984, r: 0.0161865, p: 0.0334732}
+Time EE pos(ms): 1737667684511
+EE pos = [278.3639, 890.4753, 262.3627]
+Time EE pos(ms): 1737667684521
+EE pos = [278.3639, 890.4753, 262.3627]
+Time EE pos(ms): 1737667684531
+EE pos = [278.3639, 890.4753, 262.3627]
+Time EE pos(ms): 1737667684541
+EE pos = [278.3639, 890.4753, 262.3627]
+Time EE pos(ms): 1737667684550
+EE pos = [278.3639, 890.4753, 262.3627]
+Time EE pos(ms): 1737667684561
+EE pos = [278.3639, 890.4753, 262.3627]
+Time EE pos(ms): 1737667684566
+EE pos = [278.3639, 890.4753, 262.3627]
+Time axis (ms): 1737667684567
+POS: {v: 229.977, s: 27.8756, e: 70.0054, r: -15.3652, p: -13.6609}
+VEL: {v: -3.05641, s: -0.115039, e: 0.0727482, r: -0.0211121, p: -0.0246608}
+Time EE pos(ms): 1737667684573
+EE pos = [278.4139, 890.4300, 262.1855]
+Time EE pos(ms): 1737667684580
+EE pos = [278.4139, 890.4300, 262.1855]
+Time EE pos(ms): 1737667684590
+EE pos = [278.4139, 890.4300, 262.1855]
+Time EE pos(ms): 1737667684600
+EE pos = [278.4139, 890.4300, 262.1855]
+Time EE pos(ms): 1737667684606
+EE pos = [278.4139, 890.4300, 262.1855]
+Time axis (ms): 1737667684607
+POS: {v: 229.802, s: 27.8694, e: 70.0095, r: -15.3692, p: -13.6621}
+VEL: {v: -3.19969, s: -0.107448, e: 0.0650462, r: -0.378809, p: 0.00390365}
+Time EE pos(ms): 1737667684612
+EE pos = [278.4635, 890.3988, 262.0501]
+Time EE pos(ms): 1737667684621
+EE pos = [278.4635, 890.3988, 262.0501]
+Time EE pos(ms): 1737667684631
+EE pos = [278.4635, 890.3988, 262.0501]
+Time EE pos(ms): 1737667684641
+EE pos = [278.4635, 890.3988, 262.0501]
+Time EE pos(ms): 1737667684650
+EE pos = [278.4635, 890.3988, 262.0501]
+Time EE pos(ms): 1737667684660
+EE pos = [278.4635, 890.3988, 262.0501]
+Time EE pos(ms): 1737667684666
+EE pos = [278.4635, 890.3988, 262.0501]
+Time axis (ms): 1737667684666
+POS: {v: 229.664, s: 27.8647, e: 70.0124, r: -15.3824, p: -13.6629}
+VEL: {v: -3.29689, s: -0.103379, e: 0.0566252, r: -0.0635193, p: -0.00857869}
+Time EE pos(ms): 1737667684673
+EE pos = [278.5142, 890.3583, 261.8773]
+Time EE pos(ms): 1737667684680
+EE pos = [278.5142, 890.3583, 261.8773]
+Time EE pos(ms): 1737667684690
+EE pos = [278.5142, 890.3583, 261.8773]
+Time EE pos(ms): 1737667684700
+EE pos = [278.5142, 890.3583, 261.8773]
+Time EE pos(ms): 1737667684710
+EE pos = [278.5142, 890.3583, 261.8773]
+Time EE pos(ms): 1737667684720
+EE pos = [278.5583, 890.3225, 261.7473]
+Time axis (ms): 1737667684722
+POS: {v: 229.491, s: 27.8588, e: 70.0155, r: -15.385, p: -13.6629}
+VEL: {v: -2.65862, s: -0.0989371, e: 0.0618751, r: -0.030011, p: 0.0029219}
+Time EE pos(ms): 1737667684727
+EE pos = [278.5583, 890.3225, 261.7473]
+Time EE pos(ms): 1737667684731
+EE pos = [278.5583, 890.3225, 261.7473]
+Time EE pos(ms): 1737667684740
+EE pos = [278.5583, 890.3225, 261.7473]
+Time EE pos(ms): 1737667684751
+EE pos = [278.5583, 890.3225, 261.7473]
+Time EE pos(ms): 1737667684763
+EE pos = [278.5583, 890.3225, 261.7473]
+Time EE pos(ms): 1737667684771
+EE pos = [278.5583, 890.3225, 261.7473]
+Time EE pos(ms): 1737667684774
+EE pos = [278.5583, 890.3225, 261.7473]
+Time axis (ms): 1737667684775
+POS: {v: 229.361, s: 27.8536, e: 70.0182, r: -15.3857, p: -13.6628}
+VEL: {v: -2.53334, s: -0.109903, e: 0.0504911, r: 0.0012085, p: 0}
+Time EE pos(ms): 1737667684780
+EE pos = [278.6132, 890.2813, 261.5870]
+Time EE pos(ms): 1737667684790
+EE pos = [278.6132, 890.2813, 261.5870]
+Time EE pos(ms): 1737667684801
+EE pos = [278.6132, 890.2813, 261.5870]
+Time EE pos(ms): 1737667684811
+EE pos = [278.6132, 890.2813, 261.5870]
+Time EE pos(ms): 1737667684812
+EE pos = [278.6132, 890.2813, 261.5870]
+Time axis (ms): 1737667684813
+POS: {v: 229.198, s: 27.8475, e: 70.021, r: -15.3862, p: -13.6619}
+VEL: {v: -2.51167, s: -0.101845, e: 0.0391425, r: -0.0296631, p: 0.00479191}
+Time EE pos(ms): 1737667684821
+EE pos = [278.6448, 890.2577, 261.4916]
+Time EE pos(ms): 1737667684831
+EE pos = [278.6448, 890.2577, 261.4916]
+Time EE pos(ms): 1737667684840
+EE pos = [278.6448, 890.2577, 261.4916]
+Time EE pos(ms): 1737667684850
+EE pos = [278.6448, 890.2577, 261.4916]
+Time EE pos(ms): 1737667684861
+EE pos = [278.6448, 890.2577, 261.4916]
+Time EE pos(ms): 1737667684871
+EE pos = [278.6448, 890.2577, 261.4916]
+Time EE pos(ms): 1737667684880
+EE pos = [278.6448, 890.2577, 261.4916]
+Time EE pos(ms): 1737667684886
+EE pos = [278.6448, 890.2577, 261.4916]
+Time axis (ms): 1737667684887
+POS: {v: 229.1, s: 27.8439, e: 70.0226, r: -15.3866, p: -13.6613}
+VEL: {v: -2.49352, s: -0.0918633, e: 0.0340969, r: -0.024408, p: -0.000116876}
+Time EE pos(ms): 1737667684892
+EE pos = [278.6982, 890.2193, 261.3314]
+Time EE pos(ms): 1737667684900
+EE pos = [278.6982, 890.2193, 261.3314]
+Time EE pos(ms): 1737667684911
+EE pos = [278.6982, 890.2193, 261.3314]
+Time EE pos(ms): 1737667684913
+EE pos = [278.6982, 890.2193, 261.3314]
+Time axis (ms): 1737667684914
+POS: {v: 228.938, s: 27.8381, e: 70.0251, r: -15.3877, p: -13.6605}
+VEL: {v: -2.61574, s: -0.0875689, e: 0.0525188, r: -0.0180908, p: 0.0029219}
+Time EE pos(ms): 1737667684921
+EE pos = [278.7233, 890.1995, 261.2342]
+Time EE pos(ms): 1737667684930
+EE pos = [278.7233, 890.1995, 261.2342]
+Time EE pos(ms): 1737667684940
+EE pos = [278.7233, 890.1995, 261.2342]
+Time EE pos(ms): 1737667684950
+EE pos = [278.7233, 890.1995, 261.2342]
+Time EE pos(ms): 1737667684960
+EE pos = [278.7233, 890.1995, 261.2342]
+Time EE pos(ms): 1737667684970
+EE pos = [278.7233, 890.1995, 261.2342]
+Time EE pos(ms): 1737667684973
+EE pos = [278.7233, 890.1995, 261.2342]
+Time axis (ms): 1737667684974
+POS: {v: 228.841, s: 27.8352, e: 70.0266, r: -15.3886, p: -13.6606}
+VEL: {v: -2.38724, s: -0.0777639, e: 0.0369026, r: -0.00889893, p: -0.0272087}
+Time EE pos(ms): 1737667684980
+EE pos = [278.7658, 890.1683, 261.0947]
+Time EE pos(ms): 1737667684990
+EE pos = [278.7658, 890.1683, 261.0947]
+Time EE pos(ms): 1737667685000
+EE pos = [278.7658, 890.1683, 261.0947]
+Time EE pos(ms): 1737667685010
+EE pos = [278.7658, 890.1683, 261.0947]
+Time EE pos(ms): 1737667685015
+EE pos = [278.7658, 890.1683, 261.0947]
+Time axis (ms): 1737667685015
+POS: {v: 228.701, s: 27.8307, e: 70.0286, r: -15.3902, p: -13.6608}
+VEL: {v: -2.60223, s: -0.0798743, e: 0.0315309, r: -0.0328308, p: -0.00130901}
+Time EE pos(ms): 1737667685022
+EE pos = [278.8020, 890.1420, 260.9738]
+Time EE pos(ms): 1737667685031
+EE pos = [278.8020, 890.1420, 260.9738]
+Time EE pos(ms): 1737667685040
+EE pos = [278.8020, 890.1420, 260.9738]
+Time EE pos(ms): 1737667685050
+EE pos = [278.8020, 890.1420, 260.9738]
+Time EE pos(ms): 1737667685061
+EE pos = [278.8020, 890.1420, 260.9738]
+Time EE pos(ms): 1737667685066
+EE pos = [278.8020, 890.1420, 260.9738]
+Time axis (ms): 1737667685067
+POS: {v: 228.581, s: 27.8269, e: 70.0302, r: -15.3911, p: -13.6611}
+VEL: {v: -2.50534, s: -0.0779041, e: 0.027731, r: -0.0316589, p: 0.0189105}
+Time EE pos(ms): 1737667685072
+EE pos = [278.8438, 890.1117, 260.8320]
+Time EE pos(ms): 1737667685081
+EE pos = [278.8438, 890.1117, 260.8320]
+Time EE pos(ms): 1737667685091
+EE pos = [278.8438, 890.1117, 260.8320]
+Time EE pos(ms): 1737667685100
+EE pos = [278.8438, 890.1117, 260.8320]
+Time EE pos(ms): 1737667685110
+EE pos = [278.8438, 890.1117, 260.8320]
+Time EE pos(ms): 1737667685118
+EE pos = [278.8438, 890.1117, 260.8320]
+Time axis (ms): 1737667685119
+POS: {v: 228.439, s: 27.8225, e: 70.0321, r: -15.3918, p: -13.6611}
+VEL: {v: -2.72743, s: -0.100562, e: 0.0546329, r: 0, p: 0.0329824}
+Time EE pos(ms): 1737667685125
+EE pos = [278.8804, 890.0864, 260.7305]
+Time EE pos(ms): 1737667685131
+EE pos = [278.8804, 890.0864, 260.7305]
+Time EE pos(ms): 1737667685142
+EE pos = [278.8804, 890.0864, 260.7305]
+Time EE pos(ms): 1737667685151
+EE pos = [278.8804, 890.0864, 260.7305]
+Time EE pos(ms): 1737667685161
+EE pos = [278.8804, 890.0864, 260.7305]
+Time EE pos(ms): 1737667685171
+EE pos = [278.8804, 890.0864, 260.7305]
+Time EE pos(ms): 1737667685180
+EE pos = [278.8804, 890.0864, 260.7305]
+Time EE pos(ms): 1737667685188
+EE pos = [278.8804, 890.0864, 260.7305]
+Time axis (ms): 1737667685189
+POS: {v: 228.326, s: 27.8178, e: 70.0342, r: -15.3915, p: -13.6565}
+VEL: {v: -2.47742, s: -0.0984521, e: 0.0526759, r: 0.0319519, p: 0.157455}
+Time EE pos(ms): 1737667685194
+EE pos = [278.9205, 890.0577, 260.6109]
+Time EE pos(ms): 1737667685201
+EE pos = [278.9205, 890.0577, 260.6109]
+Time EE pos(ms): 1737667685210
+EE pos = [278.9205, 890.0577, 260.6109]
+Time EE pos(ms): 1737667685220
+EE pos = [278.9205, 890.0577, 260.6109]
+Time EE pos(ms): 1737667685222
+EE pos = [278.9205, 890.0577, 260.6109]
+Time axis (ms): 1737667685223
+POS: {v: 228.195, s: 27.8127, e: 70.0364, r: -15.3901, p: -13.652}
+VEL: {v: -2.44942, s: -0.0852079, e: 0.03225, r: 0.0557922, p: 0.0815793}
+Time EE pos(ms): 1737667685231
+EE pos = [278.9488, 890.0361, 260.5184]
+Time EE pos(ms): 1737667685241
+EE pos = [278.9488, 890.0361, 260.5184]
+Time EE pos(ms): 1737667685250
+EE pos = [278.9488, 890.0361, 260.5184]
+Time EE pos(ms): 1737667685260
+EE pos = [278.9488, 890.0361, 260.5184]
+Time EE pos(ms): 1737667685271
+EE pos = [278.9488, 890.0361, 260.5184]
+Time EE pos(ms): 1737667685278
+EE pos = [278.9488, 890.0361, 260.5184]
+Time axis (ms): 1737667685279
+POS: {v: 228.097, s: 27.8092, e: 70.0379, r: -15.388, p: -13.6498}
+VEL: {v: -2.35985, s: -0.0786306, e: 0.0306114, r: 0.0802185, p: 0.0724396}
+Time EE pos(ms): 1737667685287
+EE pos = [278.9911, 890.0003, 260.3643]
+Time EE pos(ms): 1737667685291
+EE pos = [278.9911, 890.0003, 260.3643]
+Time EE pos(ms): 1737667685301
+EE pos = [278.9911, 890.0003, 260.3643]
+Time EE pos(ms): 1737667685310
+EE pos = [278.9911, 890.0003, 260.3643]
+Time EE pos(ms): 1737667685323
+EE pos = [279.0126, 889.9819, 260.2833]
+Time EE pos(ms): 1737667685325
+EE pos = [279.0126, 889.9819, 260.2833]
+Time axis (ms): 1737667685326
+POS: {v: 227.854, s: 27.8007, e: 70.0418, r: -15.3804, p: -13.646}
+VEL: {v: -2.38716, s: -0.0843573, e: 0.039115, r: 0.063501, p: 0.0336836}
+Time EE pos(ms): 1737667685336
+EE pos = [279.0126, 889.9819, 260.2833]
+Time EE pos(ms): 1737667685341
+EE pos = [279.0126, 889.9819, 260.2833]
+Time EE pos(ms): 1737667685350
+EE pos = [279.0126, 889.9819, 260.2833]
+Time EE pos(ms): 1737667685360
+EE pos = [279.0126, 889.9819, 260.2833]
+Time EE pos(ms): 1737667685372
+EE pos = [279.0126, 889.9819, 260.2833]
+Time EE pos(ms): 1737667685381
+EE pos = [279.0126, 889.9819, 260.2833]
+Time EE pos(ms): 1737667685385
+EE pos = [279.0126, 889.9819, 260.2833]
+Time axis (ms): 1737667685386
+POS: {v: 227.854, s: 27.8007, e: 70.0418, r: -15.3804, p: -13.646}
+VEL: {v: -2.38716, s: -0.0843573, e: 0.039115, r: 0.063501, p: 0.0336836}
+Time EE pos(ms): 1737667685392
+EE pos = [279.0622, 889.9431, 260.1091]
+Time EE pos(ms): 1737667685401
+EE pos = [279.0622, 889.9431, 260.1091]
+Time EE pos(ms): 1737667685410
+EE pos = [279.0622, 889.9431, 260.1091]
+Time EE pos(ms): 1737667685420
+EE pos = [279.0622, 889.9431, 260.1091]
+Time EE pos(ms): 1737667685430
+EE pos = [279.0622, 889.9431, 260.1091]
+Time EE pos(ms): 1737667685438
+EE pos = [279.0622, 889.9431, 260.1091]
+Time axis (ms): 1737667685439
+POS: {v: 227.675, s: 27.7947, e: 70.0445, r: -15.3782, p: -13.644}
+VEL: {v: -2.71965, s: -0.0865252, e: 0.0371463, r: -3.66211e-05, p: 0.0323746}
+Time EE pos(ms): 1737667685445
+EE pos = [279.0889, 889.9239, 260.0195]
+Time EE pos(ms): 1737667685450
+EE pos = [279.0889, 889.9239, 260.0195]
+Time EE pos(ms): 1737667685460
+EE pos = [279.0889, 889.9239, 260.0195]
+Time EE pos(ms): 1737667685470
+EE pos = [279.0889, 889.9239, 260.0195]
+Time EE pos(ms): 1737667685480
+EE pos = [279.0889, 889.9239, 260.0195]
+Time EE pos(ms): 1737667685483
+EE pos = [279.0889, 889.9239, 260.0195]
+Time axis (ms): 1737667685485
+POS: {v: 227.584, s: 27.7917, e: 70.0456, r: -15.3777, p: -13.6431}
+VEL: {v: -2.34596, s: -0.0750351, e: 0.0304778, r: 0.000842285, p: 0.0369795}
+Time EE pos(ms): 1737667685490
+EE pos = [279.1180, 889.9017, 259.9161]
+Time EE pos(ms): 1737667685501
+EE pos = [279.1180, 889.9017, 259.9161]
+Time EE pos(ms): 1737667685510
+EE pos = [279.1180, 889.9017, 259.9161]
+Time EE pos(ms): 1737667685520
+EE pos = [279.1180, 889.9017, 259.9161]
+Time EE pos(ms): 1737667685524
+EE pos = [279.1180, 889.9017, 259.9161]
+Time axis (ms): 1737667685525
+POS: {v: 227.477, s: 27.7883, e: 70.0472, r: -15.3773, p: -13.642}
+VEL: {v: -2.75948, s: -0.109558, e: 0.0596824, r: 0.0255432, p: 0.0489476}
+Time EE pos(ms): 1737667685534
+EE pos = [279.1576, 889.8691, 259.7931]
+Time EE pos(ms): 1737667685540
+EE pos = [279.1576, 889.8691, 259.7931]
+Time EE pos(ms): 1737667685551
+EE pos = [279.1576, 889.8691, 259.7931]
+Time EE pos(ms): 1737667685558
+EE pos = [279.1576, 889.8691, 259.7931]
+Time axis (ms): 1737667685559
+POS: {v: 227.348, s: 27.7831, e: 70.0499, r: -15.3756, p: -13.6392}
+VEL: {v: -2.28912, s: -0.0899184, e: 0.0449111, r: 0.0893005, p: 0.0493917}
+Time EE pos(ms): 1737667685567
+EE pos = [279.1844, 889.8445, 259.6975]
+Time EE pos(ms): 1737667685571
+EE pos = [279.1844, 889.8445, 259.6975]
+Time EE pos(ms): 1737667685581
+EE pos = [279.1844, 889.8445, 259.6975]
+Time EE pos(ms): 1737667685591
+EE pos = [279.1844, 889.8445, 259.6975]
+Time EE pos(ms): 1737667685601
+EE pos = [279.1844, 889.8445, 259.6975]
+Time EE pos(ms): 1737667685611
+EE pos = [279.1844, 889.8445, 259.6975]
+Time EE pos(ms): 1737667685621
+EE pos = [279.1844, 889.8445, 259.6975]
+Time EE pos(ms): 1737667685631
+EE pos = [279.1844, 889.8445, 259.6975]
+Time EE pos(ms): 1737667685636
+EE pos = [279.1844, 889.8445, 259.6975]
+Time axis (ms): 1737667685637
+POS: {v: 227.249, s: 27.7793, e: 70.0517, r: -15.3719, p: -13.6376}
+VEL: {v: -2.3616, s: -0.0830354, e: 0.0392839, r: 0.0459229, p: 0.0674374}
+Time EE pos(ms): 1737667685644
+EE pos = [279.2275, 889.8096, 259.5502]
+Time EE pos(ms): 1737667685651
+EE pos = [279.2275, 889.8096, 259.5502]
+Time EE pos(ms): 1737667685661
+EE pos = [279.2275, 889.8096, 259.5502]
+Time EE pos(ms): 1737667685666
+EE pos = [279.2275, 889.8096, 259.5502]
+Time axis (ms): 1737667685668
+POS: {v: 227.097, s: 27.7738, e: 70.0543, r: -15.3691, p: -13.6354}
+VEL: {v: -2.15843, s: -0.0735155, e: 0.0374095, r: 0.0233276, p: 0.00222064}
+Time EE pos(ms): 1737667685674
+EE pos = [279.2467, 889.7951, 259.4864]
+Time EE pos(ms): 1737667685681
+EE pos = [279.2467, 889.7951, 259.4864]
+Time EE pos(ms): 1737667685691
+EE pos = [279.2467, 889.7951, 259.4864]
+Time EE pos(ms): 1737667685701
+EE pos = [279.2467, 889.7951, 259.4864]
+Time EE pos(ms): 1737667685711
+EE pos = [279.2467, 889.7951, 259.4864]
+Time EE pos(ms): 1737667685713
+EE pos = [279.2467, 889.7951, 259.4864]
+Time axis (ms): 1737667685714
+POS: {v: 227.031, s: 27.7715, e: 70.0553, r: -15.3687, p: -13.6345}
+VEL: {v: -2.04102, s: -0.0689429, e: 0.033535, r: -0.00115356, p: -0.000116876}
+Time EE pos(ms): 1737667685721
+EE pos = [279.2814, 889.7654, 259.3651]
+Time EE pos(ms): 1737667685731
+EE pos = [279.2814, 889.7654, 259.3651]
+Time EE pos(ms): 1737667685741
+EE pos = [279.2814, 889.7654, 259.3651]
+Time EE pos(ms): 1737667685751
+EE pos = [279.2814, 889.7654, 259.3651]
+Time EE pos(ms): 1737667685761
+EE pos = [279.2814, 889.7654, 259.3651]
+Time EE pos(ms): 1737667685766
+EE pos = [279.2814, 889.7654, 259.3651]
+Time axis (ms): 1737667685767
+POS: {v: 226.908, s: 27.7672, e: 70.0576, r: -15.3686, p: -13.634}
+VEL: {v: -1.75766, s: -0.0659106, e: 0.0338179, r: 0.000494385, p: -0.013207}
+Time EE pos(ms): 1737667685773
+EE pos = [279.3073, 889.7444, 259.2781]
+Time EE pos(ms): 1737667685782
+EE pos = [279.3073, 889.7444, 259.2781]
+Time EE pos(ms): 1737667685792
+EE pos = [279.3073, 889.7444, 259.2781]
+Time EE pos(ms): 1737667685801
+EE pos = [279.3073, 889.7444, 259.2781]
+Time EE pos(ms): 1737667685812
+EE pos = [279.3073, 889.7444, 259.2781]
+Time EE pos(ms): 1737667685815
+EE pos = [279.3073, 889.7444, 259.2781]
+Time axis (ms): 1737667685816
+POS: {v: 226.821, s: 27.7642, e: 70.0592, r: -15.3687, p: -13.634}
+VEL: {v: -2.17125, s: -0.0687429, e: 0.0375078, r: -0.0234192, p: 0}
+Time EE pos(ms): 1737667685822
+EE pos = [279.3448, 889.7162, 259.1538]
+Time EE pos(ms): 1737667685831
+EE pos = [279.3448, 889.7162, 259.1538]
+Time EE pos(ms): 1737667685841
+EE pos = [279.3448, 889.7162, 259.1538]
+Time EE pos(ms): 1737667685848
+EE pos = [279.3448, 889.7162, 259.1538]
+Time axis (ms): 1737667685850
+POS: {v: 226.695, s: 27.76, e: 70.0611, r: -15.3693, p: -13.6336}
+VEL: {v: -1.91002, s: -0.0668256, e: 0.0261867, r: -0.0321716, p: 0.0281671}
+Time EE pos(ms): 1737667685854
+EE pos = [279.3651, 889.7006, 259.0840]
+Time EE pos(ms): 1737667685861
+EE pos = [279.3651, 889.7006, 259.0840]
+Time EE pos(ms): 1737667685872
+EE pos = [279.3651, 889.7006, 259.0840]
+Time EE pos(ms): 1737667685881
+EE pos = [279.3651, 889.7006, 259.0840]
+Time EE pos(ms): 1737667685891
+EE pos = [279.3651, 889.7006, 259.0840]
+Time EE pos(ms): 1737667685901
+EE pos = [279.3651, 889.7006, 259.0840]
+Time EE pos(ms): 1737667685912
+EE pos = [279.3651, 889.7006, 259.0840]
+Time EE pos(ms): 1737667685922
+EE pos = [279.3651, 889.7006, 259.0840]
+Time EE pos(ms): 1737667685932
+EE pos = [279.3651, 889.7006, 259.0840]
+Time EE pos(ms): 1737667685933
+EE pos = [279.3651, 889.7006, 259.0840]
+Time axis (ms): 1737667685934
+POS: {v: 226.625, s: 27.7576, e: 70.0622, r: -15.3699, p: -13.6333}
+VEL: {v: -1.89583, s: -0.0869528, e: 0.0601382, r: -0.0409241, p: -2.33752e-05}
+Time EE pos(ms): 1737667685942
+EE pos = [279.3986, 889.6706, 258.9839]
+Time EE pos(ms): 1737667685951
+EE pos = [279.3986, 889.6706, 258.9839]
+Time EE pos(ms): 1737667685961
+EE pos = [279.3986, 889.6706, 258.9839]
+Time EE pos(ms): 1737667685971
+EE pos = [279.3986, 889.6706, 258.9839]
+Time EE pos(ms): 1737667685972
+EE pos = [279.3986, 889.6706, 258.9839]
+Time axis (ms): 1737667685973
+POS: {v: 226.524, s: 27.7533, e: 70.0649, r: -15.3716, p: -13.6333}
+VEL: {v: -1.82716, s: -0.0747776, e: 0.0433471, r: -0.0714844, p: 0.0143524}
+Time EE pos(ms): 1737667685981
+EE pos = [279.4371, 889.6411, 258.8773]
+Time EE pos(ms): 1737667685991
+EE pos = [279.4371, 889.6411, 258.8773]
+Time EE pos(ms): 1737667686001
+EE pos = [279.4371, 889.6411, 258.8773]
+Time EE pos(ms): 1737667686011
+EE pos = [279.4371, 889.6411, 258.8773]
+Time EE pos(ms): 1737667686021
+EE pos = [279.4371, 889.6411, 258.8773]
+Time EE pos(ms): 1737667686031
+EE pos = [279.4371, 889.6411, 258.8773]
+Time EE pos(ms): 1737667686033
+EE pos = [279.4371, 889.6411, 258.8773]
+Time axis (ms): 1737667686033
+POS: {v: 226.416, s: 27.749, e: 70.0674, r: -15.3765, p: -13.6334}
+VEL: {v: -1.96838, s: -0.0756903, e: 0.0340026, r: -0.0696899, p: -0.0069658}
+Time EE pos(ms): 1737667686041
+EE pos = [279.4673, 889.6193, 258.7849]
+Time EE pos(ms): 1737667686051
+EE pos = [279.4673, 889.6193, 258.7849]
+Time EE pos(ms): 1737667686052
+EE pos = [279.4673, 889.6193, 258.7849]
+Time axis (ms): 1737667686053
+POS: {v: 226.323, s: 27.7458, e: 70.0691, r: -15.3794, p: -13.6334}
+VEL: {v: -1.95473, s: -0.0680785, e: 0.0343366, r: -0.0402649, p: 0}
+Time EE pos(ms): 1737667686061
+EE pos = [279.4962, 889.5970, 258.6903]
+Time EE pos(ms): 1737667686071
+EE pos = [279.4962, 889.5970, 258.6903]
+Time EE pos(ms): 1737667686081
+EE pos = [279.4962, 889.5970, 258.6903]
+Time EE pos(ms): 1737667686091
+EE pos = [279.4962, 889.5970, 258.6903]
+Time EE pos(ms): 1737667686101
+EE pos = [279.4962, 889.5970, 258.6903]
+Time EE pos(ms): 1737667686111
+EE pos = [279.4962, 889.5970, 258.6903]
+Time EE pos(ms): 1737667686121
+EE pos = [279.4962, 889.5970, 258.6903]
+Time EE pos(ms): 1737667686129
+EE pos = [279.4962, 889.5970, 258.6903]
+Time axis (ms): 1737667686130
+POS: {v: 226.228, s: 27.7426, e: 70.0706, r: -15.3804, p: -13.6333}
+VEL: {v: -1.86569, s: -0.0682601, e: 0.0481137, r: -0.00373535, p: 0.0352264}
+Time EE pos(ms): 1737667686139
+EE pos = [279.5350, 889.5646, 258.5613]
+Time EE pos(ms): 1737667686141
+EE pos = [279.5350, 889.5646, 258.5613]
+Time EE pos(ms): 1737667686152
+EE pos = [279.5350, 889.5646, 258.5613]
+Time EE pos(ms): 1737667686153
+EE pos = [279.5350, 889.5646, 258.5613]
+Time axis (ms): 1737667686154
+POS: {v: 226.098, s: 27.7379, e: 70.0734, r: -15.3827, p: -13.6332}
+VEL: {v: -1.82137, s: -0.0650485, e: 0.0324622, r: -0.0713745, p: 0.00460491}
+Time EE pos(ms): 1737667686162
+EE pos = [279.5539, 889.5513, 258.5051]
+Time EE pos(ms): 1737667686172
+EE pos = [279.5539, 889.5513, 258.5051]
+Time EE pos(ms): 1737667686181
+EE pos = [279.5539, 889.5513, 258.5051]
+Time EE pos(ms): 1737667686191
+EE pos = [279.5539, 889.5513, 258.5051]
+Time EE pos(ms): 1737667686201
+EE pos = [279.5539, 889.5513, 258.5051]
+Time EE pos(ms): 1737667686208
+EE pos = [279.5539, 889.5513, 258.5051]
+Time axis (ms): 1737667686210
+POS: {v: 226.041, s: 27.7358, e: 70.0744, r: -15.3851, p: -13.6331}
+VEL: {v: -1.82762, s: -0.0593218, e: 0.0337747, r: -0.0564148, p: -0.00107526}
+Time EE pos(ms): 1737667686216
+EE pos = [279.5912, 889.5253, 258.3906]
+Time EE pos(ms): 1737667686221
+EE pos = [279.5912, 889.5253, 258.3906]
+Time EE pos(ms): 1737667686231
+EE pos = [279.5912, 889.5253, 258.3906]
+Time EE pos(ms): 1737667686241
+EE pos = [279.5912, 889.5253, 258.3906]
+Time EE pos(ms): 1737667686251
+EE pos = [279.5912, 889.5253, 258.3906]
+Time EE pos(ms): 1737667686261
+EE pos = [279.5912, 889.5253, 258.3906]
+Time EE pos(ms): 1737667686267
+EE pos = [279.5912, 889.5253, 258.3906]
+Time axis (ms): 1737667686268
+POS: {v: 225.924, s: 27.7319, e: 70.0763, r: -15.3885, p: -13.6326}
+VEL: {v: -1.83144, s: -0.0638921, e: 0.0279157, r: -0.0314575, p: 0.00511916}
+Time EE pos(ms): 1737667686275
+EE pos = [279.6174, 889.5067, 258.3049]
+Time EE pos(ms): 1737667686280
+EE pos = [279.6174, 889.5067, 258.3049]
+Time EE pos(ms): 1737667686291
+EE pos = [279.6174, 889.5067, 258.3049]
+Time EE pos(ms): 1737667686301
+EE pos = [279.6174, 889.5067, 258.3049]
+Time EE pos(ms): 1737667686312
+EE pos = [279.6174, 889.5067, 258.3049]
+Time EE pos(ms): 1737667686315
+EE pos = [279.6174, 889.5067, 258.3049]
+Time axis (ms): 1737667686316
+POS: {v: 225.837, s: 27.7291, e: 70.0776, r: -15.3899, p: -13.6323}
+VEL: {v: -1.73111, s: -0.0751891, e: 0.0508133, r: -0.062439, p: 0.0258763}
+Time EE pos(ms): 1737667686322
+EE pos = [279.6594, 889.4711, 258.1906]
+Time EE pos(ms): 1737667686332
+EE pos = [279.6594, 889.4711, 258.1906]
+Time EE pos(ms): 1737667686341
+EE pos = [279.6594, 889.4711, 258.1906]
+Time EE pos(ms): 1737667686350
+EE pos = [279.6594, 889.4711, 258.1906]
+Time EE pos(ms): 1737667686357
+EE pos = [279.6594, 889.4711, 258.1906]
+Time axis (ms): 1737667686358
+POS: {v: 225.724, s: 27.7241, e: 70.0811, r: -15.3973, p: -13.6334}
+VEL: {v: -1.67198, s: -0.0745937, e: 0.0443177, r: -0.183105, p: -0.0449972}
+Time EE pos(ms): 1737667686366
+EE pos = [279.6866, 889.4498, 258.1210]
+Time EE pos(ms): 1737667686371
+EE pos = [279.6866, 889.4498, 258.1210]
+Time EE pos(ms): 1737667686380
+EE pos = [279.6866, 889.4498, 258.1210]
+Time EE pos(ms): 1737667686390
+EE pos = [279.6866, 889.4498, 258.1210]
+Time EE pos(ms): 1737667686400
+EE pos = [279.6866, 889.4498, 258.1210]
+Time EE pos(ms): 1737667686410
+EE pos = [279.6866, 889.4498, 258.1210]
+Time EE pos(ms): 1737667686419
+EE pos = [279.6866, 889.4498, 258.1210]
+Time axis (ms): 1737667686421
+POS: {v: 225.658, s: 27.7214, e: 70.0828, r: -15.4026, p: -13.6354}
+VEL: {v: -1.90193, s: -0.0721614, e: 0.0423765, r: -0.0988403, p: -0.0445297}
+Time EE pos(ms): 1737667686427
+EE pos = [279.7250, 889.4188, 258.0050]
+Time EE pos(ms): 1737667686430
+EE pos = [279.7250, 889.4188, 258.0050]
+Time EE pos(ms): 1737667686440
+EE pos = [279.7250, 889.4188, 258.0050]
+Time EE pos(ms): 1737667686450
+EE pos = [279.7250, 889.4188, 258.0050]
+Time EE pos(ms): 1737667686461
+EE pos = [279.7250, 889.4188, 258.0050]
+Time EE pos(ms): 1737667686462
+EE pos = [279.7250, 889.4188, 258.0050]
+Time axis (ms): 1737667686465
+POS: {v: 225.544, s: 27.7172, e: 70.0853, r: -15.4063, p: -13.6367}
+VEL: {v: -1.94984, s: -0.074996, e: 0.0424473, r: -0.0579895, p: -0.0314863}
+Time EE pos(ms): 1737667686470
+EE pos = [279.7537, 889.3980, 257.9241]
+Time EE pos(ms): 1737667686482
+EE pos = [279.7537, 889.3980, 257.9241]
+Time EE pos(ms): 1737667686490
+EE pos = [279.7537, 889.3980, 257.9241]
+Time EE pos(ms): 1737667686500
+EE pos = [279.7537, 889.3980, 257.9241]
+Time EE pos(ms): 1737667686513
+EE pos = [279.7537, 889.3980, 257.9241]
+Time EE pos(ms): 1737667686520
+EE pos = [279.7537, 889.3980, 257.9241]
+Time EE pos(ms): 1737667686522
+EE pos = [279.7537, 889.3980, 257.9241]
+Time axis (ms): 1737667686523
+POS: {v: 225.463, s: 27.7141, e: 70.0868, r: -15.4095, p: -13.6371}
+VEL: {v: -1.82228, s: -0.0686693, e: 0.0394686, r: -0.0739197, p: -0.0127161}
+Time EE pos(ms): 1737667686531
+EE pos = [279.8003, 889.3651, 257.8045]
+Time EE pos(ms): 1737667686540
+EE pos = [279.8003, 889.3651, 257.8045]
+Time EE pos(ms): 1737667686550
+EE pos = [279.8003, 889.3651, 257.8045]
+Time EE pos(ms): 1737667686556
+EE pos = [279.8003, 889.3651, 257.8045]
+Time axis (ms): 1737667686558
+POS: {v: 225.343, s: 27.7094, e: 70.0892, r: -15.415, p: -13.6376}
+VEL: {v: -1.71562, s: -0.0753408, e: 0.0309572, r: -0.0807495, p: -0.0174846}
+Time EE pos(ms): 1737667686565
+EE pos = [279.8227, 889.3493, 257.7416]
+Time EE pos(ms): 1737667686570
+EE pos = [279.8227, 889.3493, 257.7416]
+Time EE pos(ms): 1737667686580
+EE pos = [279.8227, 889.3493, 257.7416]
+Time EE pos(ms): 1737667686590
+EE pos = [279.8227, 889.3493, 257.7416]
+Time EE pos(ms): 1737667686601
+EE pos = [279.8227, 889.3493, 257.7416]
+Time EE pos(ms): 1737667686610
+EE pos = [279.8227, 889.3493, 257.7416]
+Time EE pos(ms): 1737667686621
+EE pos = [279.8227, 889.3493, 257.7416]
+Time EE pos(ms): 1737667686630
+EE pos = [279.8227, 889.3493, 257.7416]
+Time EE pos(ms): 1737667686640
+EE pos = [279.8673, 889.3182, 257.6085]
+Time axis (ms): 1737667686642
+POS: {v: 225.147, s: 27.7025, e: 70.0924, r: -15.4209, p: -13.638}
+VEL: {v: -1.54625, s: -0.0606529, e: 0.0274284, r: -0.0271729, p: 0.000981757}
+Time EE pos(ms): 1737667686646
+EE pos = [279.8673, 889.3182, 257.6085]
+Time EE pos(ms): 1737667686651
+EE pos = [279.8673, 889.3182, 257.6085]
+Time EE pos(ms): 1737667686661
+EE pos = [279.8673, 889.3182, 257.6085]
+Time EE pos(ms): 1737667686667
+EE pos = [279.8673, 889.3182, 257.6085]
+Time axis (ms): 1737667686668
+POS: {v: 225.147, s: 27.7025, e: 70.0924, r: -15.4209, p: -13.638}
+VEL: {v: -1.54625, s: -0.0606529, e: 0.0274284, r: -0.0271729, p: 0.000981757}
+Time EE pos(ms): 1737667686675
+EE pos = [279.8884, 889.3039, 257.5496]
+Time EE pos(ms): 1737667686680
+EE pos = [279.8884, 889.3039, 257.5496]
+Time EE pos(ms): 1737667686690
+EE pos = [279.8884, 889.3039, 257.5496]
+Time EE pos(ms): 1737667686700
+EE pos = [279.8884, 889.3039, 257.5496]
+Time EE pos(ms): 1737667686710
+EE pos = [279.8884, 889.3039, 257.5496]
+Time EE pos(ms): 1737667686721
+EE pos = [279.8884, 889.3039, 257.5496]
+Time EE pos(ms): 1737667686730
+EE pos = [279.8884, 889.3039, 257.5496]
+Time EE pos(ms): 1737667686740
+EE pos = [279.8884, 889.3039, 257.5496]
+Time EE pos(ms): 1737667686751
+EE pos = [279.8884, 889.3039, 257.5496]
+Time EE pos(ms): 1737667686759
+EE pos = [279.8884, 889.3039, 257.5496]
+Time axis (ms): 1737667686760
+POS: {v: 225.088, s: 27.7004, e: 70.0933, r: -15.4224, p: -13.638}
+VEL: {v: -1.52985, s: -0.066575, e: 0.0444788, r: -0.0808044, p: -0.0139783}
+Time EE pos(ms): 1737667686768
+EE pos = [279.9510, 889.2556, 257.3917]
+Time axis (ms): 1737667686769
+POS: {v: 224.934, s: 27.6938, e: 70.0969, r: -15.4295, p: -13.6406}
+VEL: {v: -1.73012, s: -0.062138, e: 0.0343091, r: -0.0528442, p: -0.029406}
+Time EE pos(ms): 1737667686775
+EE pos = [279.9510, 889.2556, 257.3917]
+Time EE pos(ms): 1737667686777
+EE pos = [279.9510, 889.2556, 257.3917]
+Time EE pos(ms): 1737667686780
+EE pos = [279.9510, 889.2556, 257.3917]
+Time EE pos(ms): 1737667686790
+EE pos = [279.9510, 889.2556, 257.3917]
+Time EE pos(ms): 1737667686800
+EE pos = [279.9510, 889.2556, 257.3917]
+Time EE pos(ms): 1737667686812
+EE pos = [279.9510, 889.2556, 257.3917]
+Time EE pos(ms): 1737667686821
+EE pos = [279.9510, 889.2556, 257.3917]
+Time EE pos(ms): 1737667686823
+EE pos = [279.9510, 889.2556, 257.3917]
+Time axis (ms): 1737667686824
+POS: {v: 224.934, s: 27.6938, e: 70.0969, r: -15.4295, p: -13.6406}
+VEL: {v: -1.73012, s: -0.062138, e: 0.0343091, r: -0.0528442, p: -0.029406}
+Time EE pos(ms): 1737667686831
+EE pos = [279.9950, 889.2237, 257.2643]
+Time EE pos(ms): 1737667686841
+EE pos = [279.9950, 889.2237, 257.2643]
+Time EE pos(ms): 1737667686850
+EE pos = [279.9950, 889.2237, 257.2643]
+Time EE pos(ms): 1737667686860
+EE pos = [279.9950, 889.2237, 257.2643]
+Time EE pos(ms): 1737667686872
+EE pos = [279.9950, 889.2237, 257.2643]
+Time EE pos(ms): 1737667686873
+EE pos = [279.9950, 889.2237, 257.2643]
+Time axis (ms): 1737667686874
+POS: {v: 224.808, s: 27.6893, e: 70.0991, r: -15.4328, p: -13.6414}
+VEL: {v: -1.75926, s: -0.0619035, e: 0.0271691, r: -0.00864258, p: -0.0029219}
+Time EE pos(ms): 1737667686880
+EE pos = [280.0179, 889.2071, 257.1970]
+Time EE pos(ms): 1737667686891
+EE pos = [280.0179, 889.2071, 257.1970]
+Time EE pos(ms): 1737667686901
+EE pos = [280.0179, 889.2071, 257.1970]
+Time EE pos(ms): 1737667686910
+EE pos = [280.0179, 889.2071, 257.1970]
+Time EE pos(ms): 1737667686920
+EE pos = [280.0179, 889.2071, 257.1970]
+Time EE pos(ms): 1737667686925
+EE pos = [280.0179, 889.2071, 257.1970]
+Time axis (ms): 1737667686926
+POS: {v: 224.741, s: 27.6869, e: 70.1002, r: -15.4341, p: -13.6416}
+VEL: {v: -1.64124, s: -0.0723039, e: 0.0444671, r: -0.00802002, p: 0}
+Time EE pos(ms): 1737667686931
+EE pos = [280.0586, 889.1747, 257.0858]
+Time EE pos(ms): 1737667686940
+EE pos = [280.0586, 889.1747, 257.0858]
+Time EE pos(ms): 1737667686951
+EE pos = [280.0586, 889.1747, 257.0858]
+Time EE pos(ms): 1737667686960
+EE pos = [280.0586, 889.1747, 257.0858]
+Time EE pos(ms): 1737667686967
+EE pos = [280.0586, 889.1747, 257.0858]
+Time axis (ms): 1737667686968
+POS: {v: 224.629, s: 27.6822, e: 70.1025, r: -15.4345, p: -13.6414}
+VEL: {v: -1.53381, s: -0.0653473, e: 0.0335546, r: -1.83105e-05, p: 0.016573}
+Time EE pos(ms): 1737667686974
+EE pos = [280.0775, 889.1604, 257.0332]
+Time EE pos(ms): 1737667686981
+EE pos = [280.0775, 889.1604, 257.0332]
+Time EE pos(ms): 1737667686991
+EE pos = [280.0775, 889.1604, 257.0332]
+Time EE pos(ms): 1737667687001
+EE pos = [280.0775, 889.1604, 257.0332]
+Time EE pos(ms): 1737667687010
+EE pos = [280.0775, 889.1604, 257.0332]
+Time EE pos(ms): 1737667687021
+EE pos = [280.0775, 889.1604, 257.0332]
+Time EE pos(ms): 1737667687031
+EE pos = [280.0775, 889.1604, 257.0332]
+Time EE pos(ms): 1737667687032
+EE pos = [280.0775, 889.1604, 257.0332]
+Time axis (ms): 1737667687033
+POS: {v: 224.575, s: 27.68, e: 70.1034, r: -15.4344, p: -13.641}
+VEL: {v: -1.70174, s: -0.0610368, e: 0.0274284, r: -0.000439453, p: -0.0243102}
+Time EE pos(ms): 1737667687040
+EE pos = [280.1062, 889.1389, 256.9441]
+Time EE pos(ms): 1737667687051
+EE pos = [280.1062, 889.1389, 256.9441]
+Time EE pos(ms): 1737667687060
+EE pos = [280.1062, 889.1389, 256.9441]
+Time EE pos(ms): 1737667687070
+EE pos = [280.1062, 889.1389, 256.9441]
+Time EE pos(ms): 1737667687077
+EE pos = [280.1062, 889.1389, 256.9441]
+Time axis (ms): 1737667687078
+POS: {v: 224.484, s: 27.6767, e: 70.1049, r: -15.4341, p: -13.6399}
+VEL: {v: -1.74858, s: -0.0677681, e: 0.0270237, r: 3.66211e-05, p: 0.0314396}
+Time EE pos(ms): 1737667687083
+EE pos = [280.1380, 889.1157, 256.8469]
+Time EE pos(ms): 1737667687091
+EE pos = [280.1380, 889.1157, 256.8469]
+Time EE pos(ms): 1737667687100
+EE pos = [280.1380, 889.1157, 256.8469]
+Time EE pos(ms): 1737667687111
+EE pos = [280.1380, 889.1157, 256.8469]
+Time EE pos(ms): 1737667687120
+EE pos = [280.1654, 889.0962, 256.7760]
+Time axis (ms): 1737667687121
+POS: {v: 224.309, s: 27.67, e: 70.1076, r: -15.433, p: -13.6374}
+VEL: {v: -2.09114, s: -0.0795065, e: 0.0322146, r: 0.0562683, p: 0.0329356}
+Time EE pos(ms): 1737667687126
+EE pos = [280.1654, 889.0962, 256.7760]
+Time EE pos(ms): 1737667687131
+EE pos = [280.1654, 889.0962, 256.7760]
+Time EE pos(ms): 1737667687141
+EE pos = [280.1654, 889.0962, 256.7760]
+Time EE pos(ms): 1737667687151
+EE pos = [280.1654, 889.0962, 256.7760]
+Time EE pos(ms): 1737667687162
+EE pos = [280.1654, 889.0962, 256.7760]
+Time EE pos(ms): 1737667687163
+EE pos = [280.1654, 889.0962, 256.7760]
+Time axis (ms): 1737667687164
+POS: {v: 224.309, s: 27.67, e: 70.1076, r: -15.433, p: -13.6374}
+VEL: {v: -2.09114, s: -0.0795065, e: 0.0322146, r: 0.0562683, p: 0.0329356}
+Time EE pos(ms): 1737667687171
+EE pos = [280.1943, 889.0749, 256.6933]
+Time EE pos(ms): 1737667687181
+EE pos = [280.1943, 889.0749, 256.6933]
+Time EE pos(ms): 1737667687191
+EE pos = [280.1943, 889.0749, 256.6933]
+Time EE pos(ms): 1737667687201
+EE pos = [280.1943, 889.0749, 256.6933]
+Time EE pos(ms): 1737667687211
+EE pos = [280.1943, 889.0749, 256.6933]
+Time EE pos(ms): 1737667687221
+EE pos = [280.1943, 889.0749, 256.6933]
+Time EE pos(ms): 1737667687230
+EE pos = [280.1943, 889.0749, 256.6933]
+Time EE pos(ms): 1737667687240
+EE pos = [280.2278, 889.0467, 256.5789]
+Time EE pos(ms): 1737667687242
+EE pos = [280.2278, 889.0467, 256.5789]
+Time axis (ms): 1737667687243
+POS: {v: 224.103, s: 27.662, e: 70.1106, r: -15.4241, p: -13.6331}
+VEL: {v: -1.86127, s: -0.0638231, e: 0.0217856, r: 0.0053833, p: 0.0371198}
+Time EE pos(ms): 1737667687250
+EE pos = [280.2278, 889.0467, 256.5789]
+Time EE pos(ms): 1737667687260
+EE pos = [280.2278, 889.0467, 256.5789]
+Time EE pos(ms): 1737667687270
+EE pos = [280.2278, 889.0467, 256.5789]
+Time EE pos(ms): 1737667687281
+EE pos = [280.2278, 889.0467, 256.5789]
+Time EE pos(ms): 1737667687284
+EE pos = [280.2278, 889.0467, 256.5789]
+Time axis (ms): 1737667687286
+POS: {v: 224.103, s: 27.662, e: 70.1106, r: -15.4241, p: -13.6331}
+VEL: {v: -1.86127, s: -0.0638231, e: 0.0217856, r: 0.0053833, p: 0.0371198}
+Time EE pos(ms): 1737667687293
+EE pos = [280.2468, 889.0325, 256.5174]
+Time EE pos(ms): 1737667687300
+EE pos = [280.2468, 889.0325, 256.5174]
+Time EE pos(ms): 1737667687310
+EE pos = [280.2468, 889.0325, 256.5174]
+Time EE pos(ms): 1737667687312
+EE pos = [280.2468, 889.0325, 256.5174]
+Time axis (ms): 1737667687313
+POS: {v: 224.04, s: 27.6598, e: 70.1115, r: -15.4228, p: -13.6322}
+VEL: {v: -1.78162, s: -0.0621978, e: 0.0228269, r: 0.0233276, p: 0.00107526}
+Time EE pos(ms): 1737667687320
+EE pos = [280.2733, 889.0145, 256.4350]
+Time EE pos(ms): 1737667687330
+EE pos = [280.2733, 889.0145, 256.4350]
+Time EE pos(ms): 1737667687340
+EE pos = [280.2733, 889.0145, 256.4350]
+Time EE pos(ms): 1737667687350
+EE pos = [280.2733, 889.0145, 256.4350]
+Time EE pos(ms): 1737667687360
+EE pos = [280.2733, 889.0145, 256.4350]
+Time EE pos(ms): 1737667687370
+EE pos = [280.2733, 889.0145, 256.4350]
+Time EE pos(ms): 1737667687380
+EE pos = [280.2733, 889.0145, 256.4350]
+Time EE pos(ms): 1737667687382
+EE pos = [280.2733, 889.0145, 256.4350]
