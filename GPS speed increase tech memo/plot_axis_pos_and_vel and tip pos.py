@@ -68,7 +68,7 @@ def read(file_name):
     data = Data(axis_pos, axis_vel, axis_time, ee_pos, ee_time, trajectory_mode_start_time, trajectory_mode_end_time)
     return data
 
-def plot(mine, original):
+def plot(mine, original, name):
     ''' shapes:
         axis_pos [5,N]
         axis_vel [5,N]
@@ -77,7 +77,7 @@ def plot(mine, original):
         ee_time [N,]
     '''
     fig, ax = plt.subplots(5, 2, sharex="row", figsize=(15, 50))
-
+    fig.suptitle(name, fontsize=20)
     for axis_num in range(5):
         ax[axis_num, 0].plot(mine.axis_time, mine.axis_pos[axis_num, :], color="r", label="Proposed")
         ax[axis_num, 0].plot(original.axis_time, original.axis_pos[axis_num, :], color="g", label="Original")
@@ -98,16 +98,17 @@ def plot(mine, original):
         ax[axis_num, 1].set_box_aspect(0.5)
         ax[axis_num, 1].set_xlabel("time (ms)")
 
+
     handles, labels = ax[-1,-1].get_legend_handles_labels()
     fig.legend(handles, labels, loc='upper right')
 
-    fig.text(0.04, 0.8, 'Vertical', ha='center', fontsize=12, rotation='vertical')
-    fig.text( 0.04, 0.65, 'Shoulder', ha='center', fontsize=12, rotation='vertical')
-    fig.text(0.04, 0.5, 'Elbow', ha='center', fontsize=12, rotation='vertical')
-    fig.text(0.04, 0.35, 'Roll', ha='center', fontsize=12, rotation='vertical')
-    fig.text(0.04, 0.2, 'Pitch', ha='center', fontsize=12, rotation='vertical')
-    fig.text(0.7, 0.05,'Velocity (mm/s)', va='center',  fontsize=12)
-    fig.text(0.2, 0.05, 'Position (mm)', va='center', fontsize=12)
+    fig.text(0.04, 0.8, 'Vertical(mm)', ha='center', fontsize=12, rotation='vertical')
+    fig.text( 0.04, 0.62, 'Shoulder(deg)', ha='center', fontsize=12, rotation='vertical')
+    fig.text(0.04, 0.48, 'Elbow(deg)', ha='center', fontsize=12, rotation='vertical')
+    fig.text(0.04, 0.33, 'Roll(deg)', ha='center', fontsize=12, rotation='vertical')
+    fig.text(0.04, 0.15, 'Pitch(deg)', ha='center', fontsize=12, rotation='vertical')
+    fig.text(0.7, 0.9,'Velocity', va='center',  fontsize=15)
+    fig.text(0.2, 0.9, 'Position', va='center', fontsize=15)
 
     fig2 = plt.figure()
     ax = fig2.add_subplot(111, projection='3d')
@@ -141,12 +142,14 @@ class Data:
         self.trajectory_mode_end_time = trajectory_mode_end_time
 
 if __name__ == "__main__":
-    mine = read("L1L to L5R/mine.txt")
-    original = read("L1L to L5R/original.txt")
+    name = "L5R to L1L"
 
-    # mine = read("L5R to L4R/mine 2nd try.txt")
-    # original = read("L5R to L4R/original 2nd try.txt")
+    mine = read(name + "/mine.txt")
+    original = read(name + "/original.txt")
 
-    # mine = read("L5R to L4R/mine 3rd try.txt")
-    # original = read("L5R to L4R/original 3rd try.txt")
-    plot(mine, original)
+    # mine = read(name + "/mine 2nd try.txt")
+    # original = read(name + "/original 2nd try.txt")
+
+    # mine = read(name + "/mine 3rd try.txt")
+    # original = read(name + "/original 3rd try.txt")
+    plot(mine, original, name)

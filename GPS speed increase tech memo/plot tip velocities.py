@@ -76,7 +76,7 @@ def read(controller_file_name, sensorhub_file_name):
     data = Data(controller_vel, controller_time, sensorhub_vel, sensorhub_time, trajectory_mode_start_time, trajectory_mode_end_time)
     return data
 
-def plot(data):
+def plot(data, name):
     ''' shapes:
         controller_vel [N,]
         controller_time [N,]
@@ -94,10 +94,11 @@ def plot(data):
     ax.set_box_aspect(0.5)
     ax.set_xlabel("time (ms)")
     ax.set_ylabel("Tip velocity (mm/s)")
-    ax.set_title("Tip Velocity")
+    ax.set_title("Tip Velocity " + name)
 
     handles, labels = ax.get_legend_handles_labels()
     fig.legend(handles, labels, loc='upper right')
+    
 
     plt.show()
 
@@ -111,5 +112,6 @@ class Data:
         self.trajectory_mode_end_time = trajectory_mode_end_time
 
 if __name__ == "__main__":
-    data = read("L5R to L1L/tip velocity plot/mine controller.txt", "L5R to L1L/tip velocity plot/mine sensorhub.txt")
-    plot(data)
+    name = "L5R to L5L"
+    data = read(name + "/tip velocity plot/mine controller.txt", name + "/tip velocity plot/mine sensorhub.txt")
+    plot(data, name)
