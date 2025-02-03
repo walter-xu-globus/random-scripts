@@ -142,7 +142,7 @@ class Data:
         self.trajectory_mode_end_time = trajectory_mode_end_time
 
 if __name__ == "__main__":
-    name = "L5R to L1L"
+    name = "L5R to L5L"
 
     mine = read(name + "/mine.txt")
     original = read(name + "/original.txt")

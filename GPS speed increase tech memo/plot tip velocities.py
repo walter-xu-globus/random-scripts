@@ -86,15 +86,15 @@ def plot(data, name):
     '''
     fig, ax = plt.subplots(1, 1, figsize=(10,6))
 
-    # ax.plot(data.controller_time, data.controller_vel, color="r", label="Tip velocity given by GMAS")
-    ax.plot(data.sensorhub_time, data.sensorhub_vel, color="g", label="Tip velocity given by Sensorhub")
+    # ax.plot(data.controller_time, data.controller_vel, color="r", label="Tip speed given by GMAS")
+    ax.plot(data.sensorhub_time, data.sensorhub_vel, color="g", label="Tip speed given by Sensorhub")
 
     ax.axvline(data.trajectory_mode_start_time, linestyle=":", color="k", label="Gravity mode end, changing to trajectory mode")
     ax.axvline(data.trajectory_mode_end_time, linestyle=":", color="k", label="Trajectory mode end, target reached")
     ax.set_box_aspect(0.5)
     ax.set_xlabel("time (ms)")
-    ax.set_ylabel("Tip velocity (mm/s)")
-    ax.set_title("Tip Velocity " + name)
+    ax.set_ylabel("Tip speed (mm/s)")
+    ax.set_title("Tip Speed - " + name)
 
     handles, labels = ax.get_legend_handles_labels()
     fig.legend(handles, labels, loc='upper right')
