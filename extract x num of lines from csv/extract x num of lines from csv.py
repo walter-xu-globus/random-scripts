@@ -20,8 +20,8 @@ def extract_lines_from_csv(input_file, output_file, start=0, end=-1):
     except Exception as e:
         print(f"An error occurred: {e}")
 
-input_csv_file = 'GMAS_logs-padded.csv'
-output_csv_file = 'GMAS_logs-padded trimmed.csv'
+input_csv_file = 'driveExportedLogs14-May-2025_19-50-43.csv'
+output_csv_file = 'driveExportedLogs14-May-2025_19-50-43 trimmed.csv'
 
 # zero indexed line num
-extract_lines_from_csv(input_csv_file, output_csv_file, start=827006, end=-1)
+extract_lines_from_csv(input_csv_file, output_csv_file, start=504042, end=-1)
