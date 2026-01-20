@@ -1,0 +1,8 @@
+{
+  "ee_roll_values": [-60, -45, -30, -15, 0, 15, 30, 45, 60],
+  "ee_pitch_values": [-5, 10, 25, 40],
+  "drb_rotations_roll": [0],
+  "drb_rotations_pitch": [0.1, -45, -90, -135],
+  "drb_rotations_yaw": [0],
+  "handedness": [true, false]
+}

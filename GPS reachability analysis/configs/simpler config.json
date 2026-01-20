@@ -1,0 +1,27 @@
+{
+  "drb_position": [
+    500.0,
+    0.0,
+    200.0
+  ],
+  "drb_rotation": [
+    0.0,
+    0.1,
+    0.0
+  ],
+  "trajectories": [
+    {
+      "name": "Trajectory 1",
+      "start_drb": [
+        0.0,
+        0.0,
+        150.0
+      ],
+      "end_drb": [
+        0.0,
+        0.0,
+        50.0
+      ]
+    }
+  ]
+}

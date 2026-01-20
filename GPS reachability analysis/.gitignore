@@ -1,4 +1,4 @@
-*.csv
-
-build/*
-dist/*
+*.png
+*.gif
+*.xlsx
+*.pptx

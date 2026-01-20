@@ -1,0 +1,40 @@
+{
+  "drb_position": [
+    419.0,
+    0.0,
+    200.0
+  ],
+  "drb_rotation": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "trajectories": [
+    {
+      "name": "Trajectory 1",
+      "start_drb": [
+        40.0,
+        -80.0,
+        130.0
+      ],
+      "end_drb": [
+        0.0,
+        -80.0,
+        50.0
+      ]
+    },
+    {
+      "name": "Trajectory 2",
+      "start_drb": [
+        -40.0,
+        -80.0,
+        130.0
+      ],
+      "end_drb": [
+        0.0,
+        -80.0,
+        50.0
+      ]
+    }
+  ]
+}

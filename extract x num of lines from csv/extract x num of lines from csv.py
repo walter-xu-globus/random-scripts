@@ -20,8 +20,8 @@ def extract_lines_from_csv(input_file, output_file, start=0, end=-1):
     except Exception as e:
         print(f"An error occurred: {e}")
 
-input_csv_file = 'driveExportedLogs14-May-2025_19-50-43.csv'
-output_csv_file = 'driveExportedLogs14-May-2025_19-50-43 trimmed.csv'
+input_csv_file = r'C:\epic\scripts\platform\DRIVE\DriveExportedLogs-12-Jan-2026_15-09-36\driveExportedLogs12-Jan-2026_15-09-36.csv'
+output_csv_file = r'C:\epic\scripts\platform\DRIVE\DriveExportedLogs-12-Jan-2026_15-09-36\driveExportedLogs12-Jan-2026_15-09-36_trimmed.csv'
 
 # zero indexed line num
-extract_lines_from_csv(input_csv_file, output_csv_file, start=504042, end=-1)
+extract_lines_from_csv(input_csv_file, output_csv_file, start=1048576, end=-1)
