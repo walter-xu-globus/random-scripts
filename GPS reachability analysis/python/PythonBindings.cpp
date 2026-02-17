@@ -14,7 +14,7 @@
 
 namespace py = pybind11;
 
-PYBIND11_MODULE(gps_ik_python_bindings, m) {
+PYBIND11_MODULE(gps_ik_python_bindings_renjie, m) {
     m.doc() = "GPS Kinematics Python bindings";
 
     // Bind Angle first (needed by Joints)

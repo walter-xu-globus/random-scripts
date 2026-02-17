@@ -2200,22 +2200,91 @@ class IKSimulatorApp(QMainWindow):
         z_axis = T[:3, :3] @ np.array([0, 0, axis_length])
         
         self.ax.quiver(origin[0], origin[1], origin[2],
-                      x_axis[0], x_axis[1], x_axis[2],
-                      color='red', arrow_length_ratio=0.2, linewidth=2, label='DRB X')
+                    x_axis[0], x_axis[1], x_axis[2],
+                    color='red', arrow_length_ratio=0.2, linewidth=2, label='DRB X')
         self.ax.quiver(origin[0], origin[1], origin[2],
-                      y_axis[0], y_axis[1], y_axis[2],
-                      color='green', arrow_length_ratio=0.2, linewidth=2, label='DRB Y')
+                    y_axis[0], y_axis[1], y_axis[2],
+                    color='green', arrow_length_ratio=0.2, linewidth=2, label='DRB Y')
         self.ax.quiver(origin[0], origin[1], origin[2],
-                      z_axis[0], z_axis[1], z_axis[2],
-                      color='blue', arrow_length_ratio=0.2, linewidth=2, label='DRB Z')
+                    z_axis[0], z_axis[1], z_axis[2],
+                    color='blue', arrow_length_ratio=0.2, linewidth=2, label='DRB Z')
         
-        # Draw spine line along -Y axis (300mm)
-        spine_start = origin
-        spine_end = origin + T[:3, :3] @ np.array([0, -300, 0])
-        self.ax.plot([spine_start[0], spine_end[0]],
-                    [spine_start[1], spine_end[1]],
-                    [spine_start[2], spine_end[2]],
-                    'k--', linewidth=2, label='Spine Line')
+        # # Draw stick figure with DRB origin at belly/waist
+        # # All measurements relative to DRB origin (which is now at the waist)
+        
+        # # Upper body (going UP from waist in +Y direction)
+        # waist = origin  # DRB origin IS the waist
+        # chest = origin + T[:3, :3] @ np.array([0, 240, 0])       # 240mm up to chest
+        # neck = origin + T[:3, :3] @ np.array([0, 500, 0])        # 500mm up to neck
+        # head_center = origin + T[:3, :3] @ np.array([0, 620, 0]) # 620mm up to head center
+        
+        # # Lower body (going DOWN from waist in -Y direction)
+        # pelvis = origin + T[:3, :3] @ np.array([0, -160, 0])     # 160mm down to pelvis
+        # feet = origin + T[:3, :3] @ np.array([0, -1060, 0])      # 900mm legs + 160mm hip = 1060mm total
+        
+        # # Head (circle) - diameter ~200mm
+        # from matplotlib.patches import Circle
+        # from mpl_toolkits.mplot3d import art3d
+        # head_radius = 100  # 200mm diameter head
+        # circle = Circle((head_center[0], head_center[1]), head_radius, color='black', fill=False, linewidth=2)
+        # self.ax.add_patch(circle)
+        # art3d.pathpatch_2d_to_3d(circle, z=head_center[2], zdir='z')
+        
+        # # Spine
+        # self.ax.plot([neck[0], chest[0]], [neck[1], chest[1]], [neck[2], chest[2]], 
+        #             'k-', linewidth=3)
+        # self.ax.plot([chest[0], waist[0]], [chest[1], waist[1]], [chest[2], waist[2]], 
+        #             'k-', linewidth=3)
+        # self.ax.plot([waist[0], pelvis[0]], [waist[1], pelvis[1]], [waist[2], pelvis[2]], 
+        #             'k-', linewidth=3)
+        
+        # # Arms (from chest, extending sideways in X)
+        # left_shoulder = chest + T[:3, :3] @ np.array([-200, 0, 0])   # Shoulder width
+        # right_shoulder = chest + T[:3, :3] @ np.array([200, 0, 0])
+        # left_elbow = chest + T[:3, :3] @ np.array([-250, -300, 0])   # Upper arm ~300mm down
+        # right_elbow = chest + T[:3, :3] @ np.array([250, -300, 0])
+        # left_hand = chest + T[:3, :3] @ np.array([-250, -650, 0])    # Forearm ~350mm more
+        # right_hand = chest + T[:3, :3] @ np.array([250, -650, 0])
+        
+        # # Upper arms
+        # self.ax.plot([left_shoulder[0], left_elbow[0]], 
+        #             [left_shoulder[1], left_elbow[1]], 
+        #             [left_shoulder[2], left_elbow[2]], 'k-', linewidth=2)
+        # self.ax.plot([right_shoulder[0], right_elbow[0]], 
+        #             [right_shoulder[1], right_elbow[1]], 
+        #             [right_shoulder[2], right_elbow[2]], 'k-', linewidth=2)
+        
+        # # Forearms
+        # self.ax.plot([left_elbow[0], left_hand[0]], 
+        #             [left_elbow[1], left_hand[1]], 
+        #             [left_elbow[2], left_hand[2]], 'k-', linewidth=2)
+        # self.ax.plot([right_elbow[0], right_hand[0]], 
+        #             [right_elbow[1], right_hand[1]], 
+        #             [right_elbow[2], right_hand[2]], 'k-', linewidth=2)
+        
+        # # Legs (from pelvis to feet)
+        # left_hip = pelvis + T[:3, :3] @ np.array([-100, 0, 0])      # Hip width
+        # right_hip = pelvis + T[:3, :3] @ np.array([100, 0, 0])
+        # left_knee = pelvis + T[:3, :3] @ np.array([-100, -450, 0])  # Upper leg ~450mm
+        # right_knee = pelvis + T[:3, :3] @ np.array([100, -450, 0])
+        # left_foot = feet + T[:3, :3] @ np.array([-100, 0, 0])       # Lower leg ~450mm
+        # right_foot = feet + T[:3, :3] @ np.array([100, 0, 0])
+        
+        # # Thighs
+        # self.ax.plot([left_hip[0], left_knee[0]], 
+        #             [left_hip[1], left_knee[1]], 
+        #             [left_hip[2], left_knee[2]], 'k-', linewidth=3)
+        # self.ax.plot([right_hip[0], right_knee[0]], 
+        #             [right_hip[1], right_knee[1]], 
+        #             [right_hip[2], right_knee[2]], 'k-', linewidth=3)
+        
+        # # Shins
+        # self.ax.plot([left_knee[0], left_foot[0]], 
+        #             [left_knee[1], left_foot[1]], 
+        #             [left_knee[2], left_foot[2]], 'k-', linewidth=3)
+        # self.ax.plot([right_knee[0], right_foot[0]], 
+        #             [right_knee[1], right_foot[1]], 
+        #             [right_knee[2], right_foot[2]], 'k-', linewidth=3)
     
     def draw_trajectories(self):
         """Draw all trajectories"""
@@ -2324,9 +2393,9 @@ class IKSimulatorApp(QMainWindow):
             ax = self.ax
             
         # Cube dimensions [width_x, depth_y, height_z]
-        width = 800   # X dimension
-        depth = 300   # Y dimension
-        height = 500  # Z dimension
+        width = 1000   # X dimension
+        depth = 500   # Y dimension
+        height = 1000  # Z dimension
         
         # Calculate corners (cube centered at 'center')
         x_min = center[0] - 3*width / 4
