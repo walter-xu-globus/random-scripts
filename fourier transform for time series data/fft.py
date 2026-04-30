@@ -1,79 +1,75 @@
-import pandas as pd
+import re
+import sys
 import numpy as np
-from scipy import fftpack
+from numpy.fft import fft, fftfreq
 import matplotlib.pyplot as plt
+from datetime import datetime
 
-def read_elmo_csv(filepath):
-    """Read an Elmo txt chart file and return metadata and signal data."""
+
+def read_pmas_logs(filepath):
+    """Read PMAS log file and extract timestamped trns_speed and rot_speed."""
+    pattern = re.compile(
+        # r'^(\S+)\s+\w+\s+(trns_speed|rot_speed)\s*=\s*([\d.]+)\s*\w+/s'
+        
+        r'^(\S+)\s+\w+\s+(?:wrist mode\s+)?(trns_speed|rot_speed)\s*=\s*([\d.]+)\s*\w+/s'
+    )
+    records = []
     with open(filepath, 'r') as f:
-        lines = f.readlines()
+        for line in f:
+            m = pattern.match(line.strip())
+            if m:
+                ts = datetime.fromisoformat(m.group(1).replace('Z', '+00:00'))
+                records.append((ts, m.group(2), float(m.group(3))))
 
-    # Find the start of [Signal Names] and [Signals Data Group 1]
-    signal_names_idx = None
-    data_idx = None
-    for i, line in enumerate(lines):
-        if line.strip() == '[Signal Names]':
-            signal_names_idx = i + 1
-        if line.strip() == '[Signals Data Group 1]':
-            data_idx = i + 1
+    # Pair consecutive trns/rot lines into rows with timestamps
+    rows = []
+    i = 0
+    while i < len(records) - 1:
+        if records[i][1] == 'trns_speed' and records[i + 1][1] == 'rot_speed':
+            rows.append({
+                'time_s': records[i][0].timestamp(),
+                'trns_speed': records[i][2],
+                'rot_speed': records[i + 1][2],
+            })
+            i += 2
+        else:
+            i += 1
 
-    # Parse signal names
-    signal_names = {}
-    for i in range(signal_names_idx, len(lines)):
-        line = lines[i].strip()
-        if not line or line.startswith('['):
-            break
-        parts = line.split(',')
-        sig_id = int(parts[0])
-        sig_name = parts[1].strip()
-        signal_names[sig_id] = sig_name
-
-    # Parse data: first line is column IDs, rest is data
-    col_ids = [int(x) for x in lines[data_idx].strip().rstrip(',').split(',')]
-    col_names = [signal_names[cid] for cid in col_ids]
-
-    data_rows = []
-    for i in range(data_idx + 1, len(lines)):
-        line = lines[i].strip().rstrip(',')
-        if not line or line.startswith('['):
-            break
-        data_rows.append([float(x) for x in line.split(',')])
-
-    df = pd.DataFrame(data_rows, columns=col_names)
-    return df
+    # Convert to numpy arrays, zero-base the time
+    times = np.array([r['time_s'] for r in rows])
+    times -= times[0]
+    trns = np.array([r['trns_speed'] for r in rows])
+    rot = np.array([r['rot_speed'] for r in rows])
+    return times, trns, rot
 
 
 if __name__ == '__main__':
-    import sys
-    filepath = sys.argv[1] if len(sys.argv) > 1 else 'loadcell noise analysis.csv'
-    df = read_elmo_csv(filepath)
+    import os
+    filepath = sys.argv[1] if len(sys.argv) > 1 else 'normal use.txt'
+    title = os.path.splitext(os.path.basename(filepath))[0]
+    times, trns, rot = read_pmas_logs(filepath)
 
-    # Extract time info
-    time_col = df.columns[0]
-    dt = df[time_col].iloc[1] - df[time_col].iloc[0]
-    N = len(df)
-    freqs = fftpack.fftfreq(N, d=dt)
+    N = len(times)
+    dt = np.median(np.diff(times))  # use median dt since timing is non-uniform
+    freqs = fftfreq(N, d=dt)
     mask = freqs > 0
 
-    signal_cols = df.columns[1:]  # everything except time
-
-    for col in signal_cols:
+    for signal, label in [(trns, 'trns_speed (mm/s)'), (rot, 'rot_speed (deg/s)')]:
         fig, (ax_time, ax_fft) = plt.subplots(1, 2, figsize=(14, 3))
 
-        # Time domain
-        ax_time.plot(df[time_col].values, df[col].values)
+        ax_time.plot(times, signal)
         ax_time.set_xlabel('Time (s)')
-        ax_time.set_ylabel(col)
+        ax_time.set_ylabel(label)
         ax_time.grid(True)
 
-        # Frequency domain
-        y_fft = fftpack.fft(df[col].values)
+        y_fft = fft(signal)
         magnitude = 2.0 / N * np.abs(y_fft[mask])
         ax_fft.plot(freqs[mask], magnitude)
         ax_fft.set_xlabel('Frequency (Hz)')
         ax_fft.set_ylabel('Magnitude')
         ax_fft.grid(True)
 
+        fig.suptitle(f'{title} — {label}')
         plt.tight_layout()
 
     plt.show()

@@ -1,0 +1,345 @@
+# EGPS Motion Controller � Reference Configuration
+#
+# This file documents all available options with their default values.
+# Copy to the XDG config directory and edit as needed:
+#   Linux:   ~/.config/egps_mctrl/mctrl.yaml
+#   Windows: %APPDATA%/egps_mctrl/mctrl.yaml
+#
+# Or pass the path explicitly: egps_mctrl start --config <path>
+#
+# Only the `axes` section is required; everything else has sensible defaults.
+
+$version: "1"
+
+# -- Required: axis names as configured in PMAS --------------------------
+# Set an axis to `~` (YAML null) to mock it � the controller creates a
+# no-op stub instead of connecting to real hardware.  Useful for test
+# benches with fewer than 5 physical axes.
+
+axes:
+  vertical: a01
+  shoulder: a02
+  elbow: a03
+  roll: a04
+  pitch: a05
+  loadcell: g06
+
+# -- Network -------------------------------------------------------------
+
+network:
+  jsonrpc_address: "0.0.0.0:8555"
+  jsonrpc_enabled: true
+  grpc_address: "0.0.0.0:50051"
+  grpc_enabled: true
+  telemetry_interval_ms: 50
+
+# -- PID gains -----------------------------------------------------------
+
+pid:
+  derivative_filter: 0.1
+  kp: 12.0
+  ki: 1.0
+  kd: 0.0
+  max_integrated_error: 5.0
+  # Per-axis Kp overrides matching legacy C++ AxisConfigFromIni values.
+  per_axis_kp:
+    vertical: 15.0
+    shoulder: 14.0
+    elbow: 12.0
+    roll: 10.0
+    pitch: 12.0
+
+# -- Safety --------------------------------------------------------------
+
+safety:
+  velocity_margin_mm_per_s: 10.0
+  move_ready_debounce_ms: 150
+  heartbeat_timeout_ms: 500
+  # Move-enable digital input ports (ELMO Gold Twitter drive).
+  # Hard signal: Channel 4 (IN4), active-LOW (inverted before use).
+  # Delayed signal: Channel 2 (IN2), active-HIGH (direct).
+  move_enable_hard_port: "IN4"
+  move_enable_delayed_port: "IN2"
+  move_enable_hard_active_low: true
+  tip_velocity:
+    none: 1000.0
+    control_panel: 110.0
+    wrist: 500.0
+    gravity_zone: 90.0
+    trajectory_mode: 36.55
+    failure_mode: 1000.0
+  # Proactive Jacobian-based velocity scaling limits.
+  # These are the BASE limits (without the safety margin above).
+  # The velocity scaling calculator reduces motor velocities so the
+  # EE tip never exceeds these values.
+  velocity_scaling:
+    translational:
+      none: 1000.0
+      control_panel: 100.0
+      wrist: 200.0
+      gravity_zone: 80.0
+      trajectory_mode: 26.55
+      failure_mode: 1000.0
+    rotational:
+      none: 10.0
+      control_panel: 0.25
+      wrist: 1.0
+      gravity_zone: 0.25
+      trajectory_mode: 0.125
+      failure_mode: 10.0
+
+# -- Homing --------------------------------------------------------------
+
+homing:
+  first_limit_vel_scale: 0.15
+  second_limit_vel_scale: 0.50
+  final_pos_tolerance_units: 0.05
+  final_pos_wait_ms: 200
+  final_pos_vertical_counts: 250.0
+  axes:
+    vertical:
+      counts_per_unit: 13107.2
+      min_units: 0.0
+      max_units: 480.0
+      jog_velocity: 100.0
+      jog_acceleration: 212.0
+      jog_jerk: 6350.0
+    shoulder:
+      counts_per_unit: 434983.3
+      min_units: -150.0
+      max_units: 180.0
+      jog_velocity: 10.0
+      jog_acceleration: 100.0
+      jog_jerk: 1000.0
+    elbow:
+      counts_per_unit: 254480.5
+      min_units: -150.0
+      max_units: 150.0
+      jog_velocity: 15.0
+      jog_acceleration: 300.0
+      jog_jerk: 3000.0
+    roll:
+      counts_per_unit: 54613.3
+      min_units: -135.0
+      max_units: 135.0
+      jog_velocity: 45.0
+      jog_acceleration: 1800.0
+      jog_jerk: 18000.0
+    pitch:
+      counts_per_unit: 42780.4
+      min_units: -70.0
+      max_units: 70.0
+      jog_velocity: 60.0
+      jog_acceleration: 900.0
+      jog_jerk: 9000.0
+
+# -- Motion profiles -----------------------------------------------------
+# Per-axis, per-MoveMode profiles from legacy AxisConfigFromIni.cpp.
+# Values are in user units (mm for vertical, deg for rotary axes).
+# These defaults match the legacy C++ GPS GMAS exactly.
+
+motion_profiles:
+  vertical:
+    control_panel:
+      velocity: 100.0
+      acceleration: 212.0
+      jerk: 6350.0
+    wrist:
+      velocity: 200.0
+      acceleration: 2288.818359375
+      jerk: 10000.0
+    trajectory:
+      velocity: 100.0
+      acceleration: 2288.818359375
+      jerk: 10000.0
+    gravity:
+      velocity: 100.0
+      acceleration: 2288.818359375
+      jerk: 10000.0
+    deceleration: 6500.0
+  shoulder:
+    control_panel:
+      velocity: 10.0
+      acceleration: 100.0
+      jerk: 1000.0
+    wrist:
+      velocity: 50.15
+      acceleration: 160.925715195
+      jerk: 10000.0
+    trajectory:
+      velocity: 21.15
+      acceleration: 160.925715195
+      jerk: 1000.0
+    gravity:
+      velocity: 21.15
+      acceleration: 160.925715195
+      jerk: 10000.0
+    deceleration: 1500.0
+  elbow:
+    control_panel:
+      velocity: 15.0
+      acceleration: 300.0
+      jerk: 3000.0
+    wrist:
+      velocity: 60.43
+      acceleration: 392.957392264
+      jerk: 20000.0
+    trajectory:
+      velocity: 31.43
+      acceleration: 392.957392264
+      jerk: 2000.0
+    gravity:
+      velocity: 31.43
+      acceleration: 392.957392264
+      jerk: 20000.0
+    deceleration: 3000.0
+  roll:
+    control_panel:
+      velocity: 45.0
+      acceleration: 1800.0
+      jerk: 18000.0
+    wrist:
+      velocity: 80.0
+      acceleration: 1000.0
+      jerk: 80000.0
+    trajectory:
+      velocity: 80.0
+      acceleration: 1000.0
+      jerk: 40000.0
+    gravity:
+      velocity: 80.0
+      acceleration: 1000.0
+      jerk: 40000.0
+    deceleration: 8000.0
+  pitch:
+    control_panel:
+      velocity: 60.0
+      acceleration: 900.0
+      jerk: 9000.0
+    wrist:
+      velocity: 80.0
+      acceleration: 2337.51662234
+      jerk: 80000.0
+    trajectory:
+      velocity: 80.0
+      acceleration: 2337.51662234
+      jerk: 40000.0
+    gravity:
+      velocity: 80.0
+      acceleration: 2337.51662234
+      jerk: 40000.0
+    deceleration: 6000.0
+
+# -- End-effector --------------------------------------------------------
+
+end_effector:
+  no_ee_fog_n: 2.708
+  no_ee_cog_m: [0.014, 0.0014, -0.0025]
+  trajectory_force_threshold_n: 25.0
+  load_cell_weight_current: 0.25
+
+# -- Haptics -------------------------------------------------------------
+
+haptics:
+  vel_trans_max_m_per_s: 999999999.9
+  vel_rot_max_rad_per_s: 999999999.9
+  mass_damper_trans:
+    gain: 30.0
+    damping: 9.5
+    mass: 0.5
+  mass_damper_rot_ee:
+    gain: 50.0
+    damping: 0.5
+    mass: 0.001
+  mass_damper_rot_no_ee:
+    gain: 200.0
+    damping: 0.5
+    mass: 0.001
+
+# -- Control cycle intervals ---------------------------------------------
+
+cycle:
+  motion_self_test_ms: 100
+  plan_trajectory_update_ms: 100
+  pib_heartbeat_ms: 175
+  gps_update_ms: 20
+  send_update_ms: 50
+
+# -- Denavit-Hartenberg parameters ---------------------------------------
+# Ported from C++ DHConfig.ini. Units: mm and degrees.
+
+dh:
+  vertical:
+    r: 0.0
+    alpha: 0.0
+    d: 0.0
+    theta: 0.0
+  shoulder:
+    r: 0.0
+    alpha: 0.0
+    d: 0.0
+    theta: 0.0
+  elbow:
+    r: 480.638
+    alpha: 0.0
+    d: 0.0
+    theta: -90.0
+  roll:
+    r: 0.0
+    alpha: -100.0
+    d: 378.192
+    theta: 90.0
+  pitch:
+    r: 0.0
+    alpha: 90.0
+    d: 0.0
+    theta: 90.0
+  tool:
+    r: 98.036
+    alpha: -90.0
+    d: 0.0
+    theta: 0.0
+  base_offset: [-90.7, 140.0, 187.694]
+
+# -- Load cell offsets ---------------------------------------------------
+# Ported from C++ LoadCellConfig.ini. Units: N and N�m.
+
+load_cell:
+  force_offsets_n: [7.18956, -2.62054, -13.4561]
+  moment_offsets_nm: [0.283908, -0.902484, 0.216422]
+
+# -- Motor current safety -----------------------------------------------
+
+motor_current:
+  current_limit_amps: 5.0
+  spike_tolerance_ms: 200
+  # Optional position-dependent calibration curves for the vertical axis.
+  # Populated from the on-board calibration procedure (CurrentCalibration.ini
+  # in legacy C++).  When absent, the flat current_limit_amps threshold is
+  # used instead.  Each robot should have its own calibrated values.
+  #
+  # vertical_curves:
+  #   positive_slope: 0.0
+  #   positive_y_intercept: 2.5
+  #   positive_tolerance: 1.2
+  #   negative_slope: 0.0
+  #   negative_y_intercept: -2.5
+  #   negative_tolerance: 1.2
+
+# -- Test mode accuracy --------------------------------------------------
+# Overrides activated when the GPS application sends
+# receiveTestModeAccuracyStatus(true).  Port of C++ TestFile_GMAS.ini.
+
+test_mode:
+  tip_velocity_test_enabled: false
+  forced_tip_velocity: 0.0
+  test_dist_too_far_off_traj: false
+  enforce_range_of_motion_tolerances: true
+
+# -- Log transfer --------------------------------------------------------
+# Transfers completed log files to the GPS application machine via rcp.
+
+log_transfer:
+  enabled: false
+  log_dir: "logs"
+  destination: "192.168.1.10:d:/GMAS_Logs"
